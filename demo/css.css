@@ -1,0 +1,17 @@
+/**
+ * Checkout this CSS File.
+ *
+ * @version 1.0.0
+ */
+
+.theme {
+	color: #b362ff;
+}
+
+.css-class {
+	color: #bada55;
+}
+
+#css-id {
+	background: goldenrod;
+}
