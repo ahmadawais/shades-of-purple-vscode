@@ -1,9 +1,32 @@
 <h1 align="center">
-	<img src="images/shades-of-purple.gif" />
+	<img src="https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif" />
 
 	Shades of Purple Theme for VS Code
 </h1>
 
+
+[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+<table width='100%' align="center">
+    <tr>
+        <td align='left' width='100%' colspan='2'>
+            <strong><code>Shades of Purple (SOP)</code></strong><br />
+            A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            A FOSS (Free & Open Source Software) project developed by <a href='https://github.com/ahmadawais'>Ahmad Awais</a>.
+        </td>
+        <td align='center'>
+            <a href='https://AhmadAwais.com/'>
+                <img src='https://i.imgur.com/Asg4d3k.png' width='100' />
+            </a>
+        </td>
+    </tr>
+    <tr><td><sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/ahmadawais'>@AhmadAwais</a> —   Say Hi on Twitter <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a></sup></td><td  align='center'>👋</td></tr>
+</table>
+<br>
 
 ![Install](https://on.ahmda.ws/qWVC/c)
 
@@ -15,6 +38,8 @@
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
+<br>
+
 ![alternate installation](https://on.ahmda.ws/qWuq/c)
 
 ## Otherwise
@@ -25,6 +50,8 @@
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
+<br>
+
 ![Thanks](https://on.ahmda.ws/qWCl/c)
 
 ## Thanks
@@ -33,3 +60,5 @@ Thanks to VSCode team at Microsoft for creating such an awesome code editor. Als
 
 
 Licensed as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
+
+_Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
