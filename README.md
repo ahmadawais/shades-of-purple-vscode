@@ -50,7 +50,7 @@
 
 <br>
 
-![Tips](https://on.ahmda.ws/qWib/c)
+![Tips](https://on.ahmda.ws/qVjy/c)
 
 ## Best Custom Settings
 
