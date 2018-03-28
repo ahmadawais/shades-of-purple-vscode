@@ -3,7 +3,7 @@
 <h1 align="center">Shades of Purple Theme for VS Code</h1>
 
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <table width='100%' align="center">
     <tr>
