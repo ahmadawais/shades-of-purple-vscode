@@ -50,6 +50,35 @@
 
 <br>
 
+![Tips](https://on.ahmda.ws/qWib/c)
+
+## Best Custom Settings
+
+This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
+
+```js
+// Theme Setup.
+  "workbench.colorTheme": "Shades of Purple",
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'Operator Mono', 'Inconsolata for Powerline', monospace",
+  "editor.fontSize": 17,
+  "workbench.fontAliasing": "auto",
+  "editor.lineHeight": 24.65,
+  "editor.letterSpacing": 0.5,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "editor.renderWhitespace": "all",
+  // Formatting Optional.
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "eslint.run": "onType",
+  "eslint.autoFixOnSave": true,
+```
+
+<br>
+
 ![Thanks](https://on.ahmda.ws/qWCl/c)
 
 ## Thanks
