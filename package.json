@@ -1,38 +1,45 @@
 {
-	"name": "shades-of-purple",
-	"displayName": "Shades of Purple",
-	"description":
-		"A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
-	"version": "1.0.0",
-	"publisher": "ahmadawais",
-	"engines": {
-		"vscode": "^1.15.0"
-	},
-	"icon": "images/logo.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ahmadawais/shades-of-purple-vscode"
-	},
-	"galleryBanner": {
-		"color": "#1F1F41",
-		"theme": "dark"
-	},
-	"categories": ["Themes"],
-	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "VSCode Power User", "coblat 3"],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Shades of Purple",
-				"uiTheme": "vs-dark",
-				"path": "./themes/shades-of-purple-color-theme.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"nodemon": "^1.14.12",
-		"vsce": "^1.36.2"
-	},
-	"scripts": {
-		"start": "nodemon --exec vsce package"
-	}
+    "name": "shades-of-purple",
+    "displayName": "Shades of Purple",
+    "description": "A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
+    "version": "1.0.1",
+    "publisher": "ahmadawais",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ahmadawais/shades-of-purple-vscode"
+    },
+    "galleryBanner": {
+        "color": "#1F1F41",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Shades of Purple",
+        "Shade of Purple",
+        "Cobalt",
+        "VSCode Power User",
+        "coblat 3"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades of Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shades-of-purple-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "nodemon": "^1.14.12",
+        "vsce": "^1.36.2"
+    },
+    "scripts": {
+        "start": "nodemon --exec vsce package"
+    }
 }
