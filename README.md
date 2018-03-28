@@ -1,8 +1,6 @@
-<h1 align="center">
-	<img src="https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif" />
+<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif" />
 
-	Shades of Purple Theme for VS Code
-</h1>
+<h1 align="center">Shades of Purple Theme for VS Code</h1>
 
 
 [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
