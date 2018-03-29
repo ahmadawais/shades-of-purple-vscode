@@ -83,7 +83,7 @@ This theme works best with the following settings. Especially if you have the Op
 
 ## Thanks
 
-Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration.
+Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. Dhanish for awesome VSCode icons.
 
 
 Licensed as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
