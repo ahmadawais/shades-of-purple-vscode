@@ -198,12 +198,12 @@
 
 		// Notification Colors.
 		"notificationCenter.border": "#1E1E3F", // Notification Center border color.
-		"notificationCenterHeader.foreground": "#000", // Notification Center header foreground color.
-		"notificationCenterHeader.background": "#7e57c2", // Notification Center header background color.
+		"notificationCenterHeader.foreground": "#ffffff", // Notification Center header foreground color.
+		"notificationCenterHeader.background": "#6943ff", // Notification Center header background color.
 		"notificationToast.border": "#1E1E3F", // Notification toast border color.
 		"notifications.foreground": "#cec5ff", // Notification foreground color.
 		"notifications.background": "#1E1E3F", // Notification background color.
-		"notifications.border": "#1E1E3F", // Notification border color separating from other notifications in the Notification Center.
+		"notifications.border": "#2D2B55", // Notification border color separating from other notifications in the Notification Center.
 		"notificationLink.foreground": "#ffffff", // Notification links foreground color.
 
 		// Panel.
