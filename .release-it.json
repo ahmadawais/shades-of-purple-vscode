@@ -3,7 +3,8 @@
 	"increment": "minor",
 	"src": {
 		"commitMessage": "🦄 Release %s",
-		"tagAnnotation": "🦄 Release %s"
+		"tagAnnotation": "🦄 Release %s",
+		"beforeStartCommand": "vsce publish minor"
 	},
 	"npm": {
 		"publish": true
