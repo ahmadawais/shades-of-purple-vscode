@@ -31,9 +31,9 @@
 
 		// Button.
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
-		"button.background": "#b362ff",
+		"button.background": "#FAD000",
 		"button.foreground": "#222244",
-		"button.hoverBackground": "#FAD000",
+		"button.hoverBackground": "#A599E9",
 
 		// Contrast.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
