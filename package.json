@@ -1,7 +1,8 @@
 {
 	"name": "shades-of-purple",
 	"displayName": "Shades of Purple",
-	"description": "A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
+	"description":
+		"A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
 	"version": "1.5.0",
 	"publisher": "ahmadawais",
 	"engines": {
@@ -16,16 +17,8 @@
 		"color": "#2D2B57",
 		"theme": "dark"
 	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"Shades of Purple",
-		"Shade of Purple",
-		"Cobalt",
-		"VSCode Power User",
-		"coblat 3"
-	],
+	"categories": ["Themes"],
+	"keywords": ["Shades of Purple", "Shade of Purple", "Cobalt", "VSCode Power User", "coblat 3"],
 	"contributes": {
 		"themes": [
 			{
@@ -42,6 +35,6 @@
 	},
 	"scripts": {
 		"start": "nodemon --exec vsce package",
-		"release": "release-it"
+		"release": "release-it  && vsce publish"
 	}
 }
