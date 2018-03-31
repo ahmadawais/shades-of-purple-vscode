@@ -95,6 +95,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 - 💜 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
 - 💜 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
+- 💜 [Hyper™ theme](https://github.com/ahmadawais/shades-of-purple-hyper) — Shades of Purple
 - 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
 - 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
 
