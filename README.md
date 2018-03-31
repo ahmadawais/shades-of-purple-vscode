@@ -52,7 +52,7 @@
 
 ![Tips](https://on.ahmda.ws/qVjy/c)
 
-## Best Custom Settings
+## Best Custom Settings!
 
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
@@ -95,6 +95,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 - 💜 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
 - 💜 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
+- 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
 
 <br>
 
