@@ -163,10 +163,10 @@
 		// Input Control.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_input-control
 		"input.background": "#2D2B55",
-		"input.border": "#242344",
+		"input.border": "#1E1E3F",
 		"input.foreground": "#FAD000",
 		"input.placeholderForeground": "#A599E9",
-		"inputOption.activeBorder": "#8dffff",
+		"inputOption.activeBorder": "#A599E9",
 		"inputValidation.errorBackground": "#2D2B55",
 		"inputValidation.errorBorder": "#FAD000",
 		"inputValidation.infoBackground": "#2D2B55",
@@ -271,7 +271,7 @@
 		"terminal.ansiMagenta": "#ff2c70",
 		"terminal.ansiCyan": "#80fcff",
 		"terminal.ansiWhite": "#ffffff",
-		"terminal.ansiBrightBlack": "#0050A4",
+		"terminal.ansiBrightBlack": "#000000",
 		"terminal.ansiBrightRed": "#D90429",
 		"terminal.ansiBrightGreen": "#3ad900",
 		"terminal.ansiBrightYellow": "#FAD000",
