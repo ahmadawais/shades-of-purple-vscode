@@ -31,22 +31,22 @@
 ## Easy Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for **Shades of Purple Theme**
-3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor.
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
+1. Search for **Shades of Purple Theme**
+1. Click **Install** to install it.
+1. Click **Reload** to reload the your editor.
+1. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
 <br>
 
 ![alternate installation](https://on.ahmda.ws/qWuq/c)
 
-## Otherwise
+## Alternat Installation
 
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
-2. Paste the command `ext install shades-of-purple`
-3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor.
-5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
+1. Paste the command `ext install shades-of-purple`
+1. Click **Install** to install it.
+1. Click **Reload** to reload the your editor.
+1. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
 <br>
 
