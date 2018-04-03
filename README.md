@@ -73,7 +73,7 @@ This theme works best with the following settings. Especially if you have the Op
   "editor.cursorWidth": 5,
   "editor.cursorBlinking": "solid",
   "editor.renderWhitespace": "all",
-  "editor.snippetSuggestions": "top", // Prioritize snippets in suggestions.
+  "editor.snippetSuggestions": "top",
   "workbench.startupEditor": "newUntitledFile",
   "editor.glyphMargin": true,
   "workbench.editor.enablePreview": false,
@@ -85,6 +85,10 @@ This theme works best with the following settings. Especially if you have the Op
   "prettier.eslintIntegration": true,
   "eslint.run": "onType",
   "eslint.autoFixOnSave": true,
+  // MacOS Only Settings.
+  "workbench.fontAliasing": "auto",
+  "terminal.integrated.macOptionIsMeta": true,
+  "workbench.statusBar.feedback.visible": false,
 
 ```
 
