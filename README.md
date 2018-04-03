@@ -9,15 +9,15 @@
     <tr>
         <td align='left' width='100%' colspan='2'>
             <strong><code>Shades of Purple (SOP)</code></strong><br />
-            A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+            A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style. Become a <a href="https://VSCode.pro/" target="_blank">Visual Studio Code Power User →</a>
         </td>
     </tr>
     <tr>
         <td>
-            A FOSS (Free & Open Source Software) project developed by <a href='https://github.com/ahmadawais'>Ahmad Awais</a>.
+            A FOSS (Free & Open Source Software) project developed by <a href='https://github.com/ahmadawais'  target="_blank">Ahmad Awais</a>.
         </td>
         <td align='center'>
-            <a href='https://AhmadAwais.com/'>
+            <a  target="_blank" href='https://AhmadAwais.com/'>
                 <img src='https://i.imgur.com/Asg4d3k.png' width='100' />
             </a>
         </td>
@@ -87,6 +87,8 @@ This theme works best with the following settings. Especially if you have the Op
   "eslint.autoFixOnSave": true,
 
 ```
+
+💜 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
 
 <br>
 
