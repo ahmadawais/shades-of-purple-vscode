@@ -24,6 +24,7 @@
     </tr>
     <tr><td><sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/ahmadawais'>@AhmadAwais</a> —   Say Hi on Twitter <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a></sup></td><td  align='center'>👋</td></tr>
 </table>
+
 <br>
 
 ![Install](https://on.ahmda.ws/qWVC/c)
@@ -157,7 +158,6 @@ This FOSS (free and open source software) project is updated and maintained with
 		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
 	</tr>
 </table>
-
 
 <br>
 
