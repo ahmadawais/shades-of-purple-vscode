@@ -2,8 +2,15 @@
 
 <h1 align="center">Shades of Purple Theme for VS Code</h1>
 
+<div align="center">
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Installs](https://img.shields.io/vscode-marketplace/d/ahmadawais.shades-of-purple.svg?label=Developers&colorB=b362ff)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
+</div>
+
+<br>
+
+
 
 <table width='100%' align="center">
     <tr>
@@ -24,6 +31,9 @@
     </tr>
     <tr><td><sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/ahmadawais'>@AhmadAwais</a> —   Say Hi on Twitter <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a></sup></td><td  align='center'>👋</td></tr>
 </table>
+
+[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
 
 <br>
 
