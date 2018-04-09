@@ -73,7 +73,7 @@
 		"editor.lineHighlightBorder": "#1F1F41",
 		"editor.rangeHighlightBackground": "#1F1F41",
 		"editorLink.activeForeground": "#A599E9",
-		"editorIndentGuide.background": "#a599e91c",
+		"editorIndentGuide.background": "#a599e90f",
 		"editorRuler.foreground": "#a599e91c", // Editor Ruler.
 		"editorOverviewRuler.border": "#a599e91c",
 		"editorCodeLens.foreground": "#A599E9",
@@ -289,7 +289,7 @@
 		"gitDecoration.modifiedResourceForeground": "#FAD000",
 		"gitDecoration.deletedResourceForeground": "#D90429",
 		"gitDecoration.untrackedResourceForeground": "#3ad900",
-		"gitDecoration.ignoredResourceForeground": "#D90429",
+		"gitDecoration.ignoredResourceForeground": "#a599e981",
 		"gitDecoration.conflictingResourceForeground": "#FF7200",
 
 		// Text Colors — Colors inside a text document, such as the welcome page.
