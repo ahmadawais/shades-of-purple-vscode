@@ -315,7 +315,7 @@
 	// Custom setup via Dev scope ext.
 	"tokenColors": [
 		{
-			"name": "Comment",
+			"name": "[COMMENTS] — The main comments color",
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
 				"fontStyle": "italic",
@@ -323,154 +323,182 @@
 			}
 		},
 		{
-			"name": "Constant",
-			"scope": "constant",
-			"settings": {
-				"foreground": "#ff628c"
-			}
-		},
-		{
-			"name": "Entity",
+			"name": "[Entity] — The main Entity color",
 			"scope": "entity",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "Invalid",
-			"scope": "invalid",
+			"name": "[Constant] — The main constants color",
+			"scope": "constant",
 			"settings": {
-				"foreground": "#f44542"
+				"foreground": "#ff628c"
 			}
 		},
 		{
-			"name": "Keyword",
+			"name": "[Keyword] — The main color for Keyword",
 			"scope": "keyword, storage.type.class.js",
 			"settings": {
 				"foreground": "#ff9d00"
 			}
 		},
 		{
-			"name": "Meta",
+			"name": "[Meta] — The main color for Meta",
 			"scope": "meta",
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "Meta Brace",
+			"name": "[invalid] — The main color for invalid",
+			"scope": "invalid",
+			"settings": {
+				"foreground": "#D90429"
+			}
+		},
+		{
+			"name": "[Meta Brace] — The main color for Meta Brace",
 			"scope": "meta.brace",
 			"settings": {
 				"foreground": "#e1efff"
 			}
 		},
 		{
-			"name": "Punctuation",
+			"name": "[Punctuation] — The main color for Punctuation",
 			"scope": "punctuation",
 			"settings": {
 				"foreground": "#e1efff"
 			}
 		},
 		{
-			"name": "Punctuation Parameters",
+			"name": "[Punctuation] — Color for Punctuation Parameters",
 			"scope": "punctuation.definition.parameters",
 			"settings": {
 				"foreground": "#ffee80"
 			}
 		},
 		{
-			"name": "Punctuation Template Expression",
+			"name": "[Punctuation] — Color for Punctuation Template Expression",
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
 				"foreground": "#ffee80"
 			}
 		},
 		{
-			"name": "Storage",
+			"name": "[Storage] — The main color for Storage",
 			"scope": "storage",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "Storage Type Arrow Function",
+			"name": "[Storage] — The color for Storage Type Arrow Function",
 			"scope": "storage.type.function.arrow",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "String",
+			"name": "[String]",
 			"scope": ["string", "punctuation.definition.string"],
 			"settings": {
 				"foreground": "#a5ff90"
 			}
 		},
 		{
-			"name": "String Template",
+			"name": "[String] Template Color",
 			"scope": ["string.template", "punctuation.definition.string.template"],
 			"settings": {
 				"foreground": "#3ad900"
 			}
 		},
 		{
-			"name": "Support",
+			"name": "[Support]",
 			"scope": "support",
 			"settings": {
 				"foreground": "#80ffbb"
 			}
 		},
 		{
-			"name": "Support Function",
+			"name": "[Support] Function Colors",
 			"scope": "support.function",
 			"settings": {
 				"foreground": "#ff9d00"
 			}
 		},
 		{
-			"name": "Support Variable Property DOM",
+			"name": "[Support] Variable Property DOM Colors",
 			"scope": "support.variable.property.dom",
 			"settings": {
 				"foreground": "#e1efff"
 			}
 		},
 		{
-			"name": "Variable",
+			"name": "[Variable]",
 			"scope": "variable",
 			"settings": {
 				"foreground": "#e1efff"
 			}
 		},
 		{
-			"name": "[CSS] - Entity",
+			"name": "[INI] - Color for Entity",
+			"scope": "source.ini entity",
+			"settings": {
+				"foreground": "#e1efff"
+			}
+		},
+		{
+			"name": "[INI] - Color for Keyword",
+			"scope": "source.ini keyword",
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
+			"name": "[INI] - Color for Punctuation Definition",
+			"scope": "source.ini punctuation.definition",
+			"settings": {
+				"foreground": "#ffee80"
+			}
+		},
+		{
+			"name": "[INI] - Color for Punctuation Separator",
+			"scope": "source.ini punctuation.separator",
+			"settings": {
+				"foreground": "#ff9d00"
+			}
+		},
+		{
+			"name": "[CSS] - Color for Entity",
 			"scope": ["source.css entity", "source.stylus entity"],
 			"settings": {
 				"foreground": "#3ad900"
 			}
 		},
 		{
-			"name": "[CSS] - ID Selector",
+			"name": "[CSS] - Color for ID Selector",
 			"scope": "entity.other.attribute-name.id.css",
 			"settings": {
 				"foreground": "#FFB454"
 			}
 		},
 		{
-			"name": "[CSS] - Element Selector",
+			"name": "[CSS] - Color for Element Selector",
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
 		},
 		{
-			"name": "[CSS] - Support",
+			"name": "[CSS] - Color for Support",
 			"scope": ["source.css support", "source.stylus support"],
 			"settings": {
 				"foreground": "#a5ff90"
 			}
 		},
 		{
-			"name": "[CSS] - Constant",
+			"name": "[CSS] - Color for Constant",
 			"scope": [
 				"source.css constant",
 				"source.css support.constant",
@@ -482,7 +510,7 @@
 			}
 		},
 		{
-			"name": "[CSS] - String",
+			"name": "[CSS] - Color for String",
 			"scope": [
 				"source.css string",
 				"source.css punctuation.definition.string",
@@ -494,28 +522,28 @@
 			}
 		},
 		{
-			"name": "[CSS] - Variable",
+			"name": "[CSS] - Color for Variable",
 			"scope": ["source.css variable", "source.stylus variable"],
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[HTML] - Entity Name",
+			"name": "[HTML] - Color for Entity Name",
 			"scope": "text.html.basic entity.name",
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[HTML] - ID value",
+			"name": "[HTML] - Color for ID value",
 			"scope": "meta.toc-list.id.html",
 			"settings": {
 				"foreground": "#A5FF90"
 			}
 		},
 		{
-			"name": "[HTML] - Entity Other",
+			"name": "[HTML] - Color for Entity Other",
 			"scope": "text.html.basic entity.other",
 			"settings": {
 				"fontStyle": "italic",
@@ -523,92 +551,28 @@
 			}
 		},
 		{
-			"name": "[HTML] - Script Tag",
+			"name": "[HTML] - Color for Script Tag",
 			"scope": "meta.tag.metadata.script.html entity.name.tag.html",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name":
-				"[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
+			"name": "[HTML] - Quotes. Different color to handle expanded selection",
 			"scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
 			"settings": {
 				"foreground": "#92fc79"
 			}
 		},
 		{
-			"name": "[INI] - Entity",
-			"scope": "source.ini entity",
-			"settings": {
-				"foreground": "#e1efff"
-			}
-		},
-		{
-			"name": "[INI] - Keyword",
-			"scope": "source.ini keyword",
-			"settings": {
-				"foreground": "#FAD000"
-			}
-		},
-		{
-			"name": "[INI] - Punctuation Definition",
-			"scope": "source.ini punctuation.definition",
-			"settings": {
-				"foreground": "#ffee80"
-			}
-		},
-		{
-			"name": "[INI] - Punctuation Separator",
-			"scope": "source.ini punctuation.separator",
-			"settings": {
-				"foreground": "#ff9d00"
-			}
-		},
-		{
-			"name": "[JAVASCRIPT] - Storage Type Function",
-			"scope": "source.js storage.type.function",
-			"settings": {
-				"foreground": "#fb94ff"
-			}
-		},
-		{
-			"name": "[JAVASCRIPT] - Variable Language",
-			"scope": "variable.language, entity.name.type.class.js",
-			"settings": {
-				"foreground": "#fb94ff"
-			}
-		},
-		{
-			"name": "[JAVASCRIPT] - Inherited Component",
-			"scope": "entity.other.inherited-class.js",
-			"settings": {
-				"foreground": "#ccc"
-			}
-		},
-		{
-			"name": "[JAVASCRIPT] - React Extends keyword",
-			"scope": "storage.type.extends.js",
-			"settings": {
-				"foreground": "#ff9d00"
-			}
-		},
-		{
-			"name": "[PYTHON] - Self Argument",
-			"scope": "variable.parameter.function.language.special.self.python",
-			"settings": {
-				"foreground": "#fb94ff"
-			}
-		},
-		{
-			"name": "[JSON] - Support",
+			"name": "[JSON] - Color for Support",
 			"scope": "source.json support",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "[JSON] - String",
+			"name": "[JSON] - Color for String",
 			"scope": ["source.json string", "source.json punctuation.definition.string"],
 			"settings": {
 				// "foreground": "#ex1efff" // remove x.
@@ -616,7 +580,77 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Heading Name Section",
+			"name": "[TYPESCRIPT] - Color for Entity Name Type",
+			"scope": "source.ts entity.name.type",
+			"settings": {
+				"foreground": "#80ffbb"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Storage Type Function",
+			"scope": "source.js storage.type.function",
+			"settings": {
+				"foreground": "#fb94ff"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Variable Language",
+			"scope": "variable.language, entity.name.type.class.js",
+			"settings": {
+				"foreground": "#fb94ff"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for Inherited Component",
+			"scope": "entity.other.inherited-class.js",
+			"settings": {
+				"foreground": "#ccc"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Color for React Extends keyword",
+			"scope": "storage.type.extends.js",
+			"settings": {
+				"foreground": "#ff9d00"
+			}
+		},
+		{
+			"name": "[PYTHON] - Color for Self Argument",
+			"scope": "variable.parameter.function.language.special.self.python",
+			"settings": {
+				"foreground": "#fb94ff"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Keyword",
+			"scope": "source.ts keyword",
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Punctuation Parameters",
+			"scope": "source.ts punctuation.definition.parameters",
+			"settings": {
+				"foreground": "#e1efff"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Punctuation Arrow Parameters",
+			"scope": "meta.arrow.ts punctuation.definition.parameters",
+			"settings": {
+				"foreground": "#ffee80"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Storage",
+			"scope": "source.ts storage",
+			"settings": {
+				"foreground": "#9effff"
+			}
+		},
+		{
+			"name": "[MARKDOWN] - Color for Heading Name Section",
 			"scope": [
 				"entity.name.section.markdown",
 				"markup.heading.setext.1.markdown",
@@ -628,28 +662,28 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Paragraph",
+			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
 				"foreground": "#ffffff"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Text inside inline code block `code`",
+			"name": "[MARKDOWN] - Color for Text inside inline code block `code`",
 			"scope": "markup.inline.raw.string.markdown",
 			"settings": {
 				"foreground": "#A599E9"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Quote Punctuation",
+			"name": "[MARKDOWN] - Color for Quote Punctuation",
 			"scope": "beginning.punctuation.definition.quote.markdown",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Quote Paragraph",
+			"name": "[MARKDOWN] - Color for Quote Paragraph",
 			"scope": "markup.quote.markdown meta.paragraph.markdown",
 			"settings": {
 				"fontStyle": "italic",
@@ -657,14 +691,14 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Separator",
+			"name": "[MARKDOWN] - Color for Separator",
 			"scope": "meta.separator.markdown",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Emphasis Bold",
+			"name": "[MARKDOWN] - Color for Emphasis Bold",
 			"scope": "markup.bold.markdown",
 			"settings": {
 				"fontStyle": "bold",
@@ -672,7 +706,7 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Emphasis Italic",
+			"name": "[MARKDOWN] - Color for Emphasis Italic",
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "italic",
@@ -680,21 +714,21 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Lists",
+			"name": "[MARKDOWN] - Color for Lists",
 			"scope": "beginning.punctuation.definition.list.markdown",
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Link Title",
+			"name": "[MARKDOWN] - Color for Link Title",
 			"scope": "string.other.link.title.markdown",
 			"settings": {
 				"foreground": "#a5ff90"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Link/Image Title",
+			"name": "[MARKDOWN] - Color for Link/Image Title",
 			"scope": [
 				"string.other.link.title.markdown",
 				"string.other.link.description.markdown",
@@ -705,21 +739,21 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Link Address",
+			"name": "[MARKDOWN] - Color for Link Address",
 			"scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Inline Code",
+			"name": "[MARKDOWN] - Color for Inline Code",
 			"scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Punctuation — Heading, `Code` and fenced ```code blocks```, **Bold**",
+			"name": "[MARKDOWN] - Color for Punctuation — Heading, `Code` and fenced ```code blocks```, **Bold**",
 			"scope": [
 				"markup.fenced_code.block.markdown",
 				"punctuation.definition.markdown",
@@ -732,105 +766,70 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Code Block",
+			"name": "[MARKDOWN] - Color for Code Block",
 			"scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[PUG] - Entity Name",
+			"name": "[PUG] - Color for Entity Name",
 			"scope": "text.jade entity.name",
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[PUG] - Entity Attribute Name",
+			"name": "[PUG] - Color for Entity Attribute Name",
 			"scope": "text.jade entity.other.attribute-name.tag",
 			"settings": {
 				"fontStyle": "italic"
 			}
 		},
 		{
-			"name": "[PUG] - String Interpolated",
+			"name": "[PUG] - Color for String Interpolated",
 			"scope": "text.jade string.interpolated",
 			"settings": {
 				"foreground": "#ffee80"
 			}
 		},
 		{
-			"name": "[TYPESCRIPT] - Entity Name Type",
-			"scope": "source.ts entity.name.type",
-			"settings": {
-				"foreground": "#80ffbb"
-			}
-		},
-		{
-			"name": "[TYPESCRIPT] - Keyword",
-			"scope": "source.ts keyword",
-			"settings": {
-				"foreground": "#FAD000"
-			}
-		},
-		{
-			"name": "[TYPESCRIPT] - Punctuation Parameters",
-			"scope": "source.ts punctuation.definition.parameters",
-			"settings": {
-				"foreground": "#e1efff"
-			}
-		},
-		{
-			"name": "[TYPESCRIPT] - Punctuation Arrow Parameters",
-			"scope": "meta.arrow.ts punctuation.definition.parameters",
-			"settings": {
-				"foreground": "#ffee80"
-			}
-		},
-		{
-			"name": "[TYPESCRIPT] - Storage",
-			"scope": "source.ts storage",
-			"settings": {
-				"foreground": "#9effff"
-			}
-		},
-		{
-			"name": "[PHP] - Entity",
-			"scope": "source.php entity",
-			"settings": {
-				"foreground": "#9effff"
-			}
-		},
-		{
-			"name": "[PHP] - Variables",
-			"scope": "variable.other.php",
-			"settings": {
-				"foreground": "#FAD000"
-			}
-		},
-		{
-			"name": "[C#] - Annotations",
+			"name": "[C#] - Color for Annotations",
 			"scope": "storage.type.cs",
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[C#] - Properties",
+			"name": "[C#] - Color for Properties",
 			"scope": "entity.name.variable.property.cs",
 			"settings": {
 				"foreground": "#9effff"
 			}
 		},
 		{
-			"name": "[C#] - Storage modifiers",
+			"name": "[C#] - Color for Storage modifiers",
 			"scope": "storage.modifier.cs",
 			"settings": {
 				"foreground": "#80ffbb"
 			}
 		},
 		{
-			"name": "Italic is awesome for Operator Mono",
+			"name": "[PHP] - Color for Entity",
+			"scope": "source.php entity",
+			"settings": {
+				"foreground": "#9effff"
+			}
+		},
+		{
+			"name": "[PHP] - Color for Variables",
+			"scope": "variable.other.php",
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
+			"name": "Operator Mono font has awesome itallics",
 			"scope": [
 				"modifier",
 				"this",
