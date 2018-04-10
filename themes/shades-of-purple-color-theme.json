@@ -580,13 +580,6 @@
 			}
 		},
 		{
-			"name": "[TYPESCRIPT] - Color for Entity Name Type",
-			"scope": "source.ts entity.name.type",
-			"settings": {
-				"foreground": "#80ffbb"
-			}
-		},
-		{
 			"name": "[JAVASCRIPT] - Color for Storage Type Function",
 			"scope": "source.js storage.type.function",
 			"settings": {
@@ -619,6 +612,13 @@
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
 				"foreground": "#fb94ff"
+			}
+		},
+		{
+			"name": "[TYPESCRIPT] - Color for Entity Name Type",
+			"scope": "source.ts entity.name.type",
+			"settings": {
+				"foreground": "#80ffbb"
 			}
 		},
 		{
