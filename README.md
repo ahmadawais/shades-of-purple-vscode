@@ -44,14 +44,14 @@
 1. Open the extensions sidebar on Visual Studio Code
 1. Search for **Shades of Purple Theme**
 1. Click **Install** to install it.
-1. Click **Reload** to reload the your editor.
+1. Click **Reload** to reload your editor.
 1. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
 <br>
 
 ![alternate installation](https://on.ahmda.ws/qWuq/c)
 
-## Alternat Installation
+## Alternate Installation
 
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
 1. Paste the command `ext install shades-of-purple`
@@ -187,6 +187,6 @@ This FOSS (free and open source software) project is updated and maintained with
 
 **Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
-Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limted to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. Thanks Dhanish for awesome VSCode icons. And Icons8 for the icons in this readme.
+Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. Thanks Dhanish for awesome VSCode icons. And Icons8 for the icons in this readme.
 
 _Say 👋 on Twitter_ →  [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)

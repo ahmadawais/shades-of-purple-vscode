@@ -284,13 +284,13 @@
 		"terminalCursor.background": "#FAD000",
 		"terminalCursor.foreground": "#FAD000",
 
-		// Git Colors.
+		// Git VS Code theme Colors used for file labels and the SCM viewlet.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_git-colors
-		"gitDecoration.modifiedResourceForeground": "#FAD000",
-		"gitDecoration.deletedResourceForeground": "#D90429",
-		"gitDecoration.untrackedResourceForeground": "#3ad900",
-		"gitDecoration.ignoredResourceForeground": "#a599e981",
-		"gitDecoration.conflictingResourceForeground": "#FF7200",
+		"gitDecoration.modifiedResourceForeground": "#FAD000", // Color for modified git resources.
+		"gitDecoration.deletedResourceForeground": "#D90429", // Color for deleted git resources.
+		"gitDecoration.untrackedResourceForeground": "#3ad900", // Color for untracked git resources.
+		"gitDecoration.ignoredResourceForeground": "#a599e981", // Color for ignored git resources.
+		"gitDecoration.conflictingResourceForeground": "#FF7200", // Color for conflicting git resources.
 
 		// Text Colors — Colors inside a text document, such as the welcome page.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_text-colors
