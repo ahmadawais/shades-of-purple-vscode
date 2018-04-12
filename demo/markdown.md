@@ -1,7 +1,5 @@
 # Shades of Purple Theme for VS Code
 
-![Preview](images/shades-of-purple.png)
-
 ![Install](https://on.ahmda.ws/qWVC/c)
 
 ## Easy Installation
@@ -32,8 +30,13 @@ Thanks to VSCode team at Microsoft for creating such an awesome code editor. Als
 Say 👋 to me on Twitter via `@MrAhmadAwais`
 
 ```js
-	// Sum functions.
+	// JavaScript Sum functions.
 	const sum = (x, y) => x + y;
+```
+
+```php
+	// PHP Sum functions.
+	function sum( x, y ) { return x + y; }
 ```
 
 Cool markdown, the syntax is hidden and you can just write stuff.
