@@ -38,11 +38,19 @@
 
 </div>
 
-<h3 align="center">
+<br>
+
+![Install](https://on.ahmda.ws/qqJf/c)
+
+## Video Demo & Installation
+
+Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP.
+
+<h4 align="center">
   <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="https://on.ahmda.ws/qpkO/c" />
   
-  📺 Watch Video To Learn More → </a>
-</h3>
+  📺 Watch The Video To Learn More → </a>
+</h4>
 
 
 
