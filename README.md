@@ -32,7 +32,18 @@
     <tr><td><sup> Follow Ahmad's #FOSS work on GitHub <a href='https://github.com/ahmadawais'>@AhmadAwais</a> —   Say Hi on Twitter <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a></sup></td><td  align='center'>👋</td></tr>
 </table>
 
+<div align="center">
+
 [![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers) [![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers) [![Tweet for help](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+</div>
+
+<h3 align="center">
+  <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="https://on.ahmda.ws/qpkO/c" />
+  
+  📺 Watch Video To Learn More → </a>
+</h3>
+
 
 
 <br>
