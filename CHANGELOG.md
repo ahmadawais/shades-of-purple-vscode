@@ -1,5 +1,6 @@
 # Change Log
-All notable changes to the "shades-of-purple" theme will be documented in this file.
+
+All notable changes to the "shades-of-purple" theme for VSCode are documented in this file.
 
 > [Automated release notes can be found here →](https://github.com/ahmadawais/shades-of-purple-vscode/releases)
 
@@ -45,7 +46,7 @@ All notable changes to the "shades-of-purple" theme will be documented in this f
 - 📖 DOC: MacOS only options (43743d5)
 - 📖 DOC: Add VSCode.pro links (4fb5d52)
 
-## 1.1.0 — 💜 Shades of Purple — 2018-03-29
+## 🦄 1.1.0 — 💜 Shades of Purple — 2018-03-29
 
 - 📦 NEW: Add Release-it (2eb488c)
 - 📦 NEW: Logo (758c265)
@@ -56,7 +57,7 @@ All notable changes to the "shades-of-purple" theme will be documented in this f
 - 📖 DOC: Best Custom Settings (3ee8d80)
 
 
-## 1.0.x — 💜 Shades of Purple — 2018-03-29
+## 🦄 1.0.x — 💜 Shades of Purple — 2018-03-29
 
 - 🦄 Initial release
 - 🚀 RELEASE: 1.0.1 (c8fcb4e)
