@@ -4,6 +4,25 @@ All notable changes to the "shades-of-purple" theme will be documented in this f
 > [Automated release notes can be found here →](https://github.com/ahmadawais/shades-of-purple-vscode/releases)
 
 
+## 🦄 1.9.0 to 1.12.0 —  💜 Shades of Purple — 2018-04-18
+
+- 🐛 FIX: Git Ignore Color (f3b66c4)
+- 📖 DOC: Better YouTube Video Section (4c5c551)
+- 📦 NEW: YouTube Video Demo (d1681c8)
+- 🐛 FIX: Broken Image (dd150e7)
+- 🐛 FIX: Grammar (10b8a95)
+- 👌 IMPROVE: TypeScript Arrangment (fbfa14d)
+- 📖 DOC: Attribution (176e846)
+- 🐛 FIX: Fork (3f16caa)
+- 🐛 FIX: Markdown (9130a28)
+- 📖 DOC: VSCode Shades-of-Purple icon (984695a)
+- 🐛 FIX: Keyword Tag (#2) (9461bcb)
+- 🐛 FIX: Reviews Link (fb8f25c)
+- 📖 DOC: New badges with shades of purple (49d1725)
+- 👌 IMPROVE: Description (2d2a424)
+- 👌 IMPROVE: Lighten editorSuggestWidget.selectedBackground color (#4) (da13987) Props: @donquxiote
+
+
 ## 🦄 1.2.0 to 1.8.0 —  💜 Shades of Purple — 2018-04-31
 
 - 🐛 FIX: Scripts (15fb591)
