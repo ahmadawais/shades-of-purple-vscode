@@ -134,7 +134,7 @@
 		"editorSuggestWidget.border": "#1F1F41",
 		"editorSuggestWidget.foreground": "#A599E9",
 		"editorSuggestWidget.highlightForeground": "#FAD000",
-		"editorSuggestWidget.selectedBackground": "#222244",
+		"editorSuggestWidget.selectedBackground": "#2D2B55",
 
 		// Debug.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_debug
