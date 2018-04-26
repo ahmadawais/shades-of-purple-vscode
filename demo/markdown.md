@@ -29,12 +29,12 @@ Thanks to VSCode team at Microsoft for creating such an awesome code editor. Als
 
 Say 👋 to me on Twitter via `@MrAhmadAwais`
 
-```js
+```JS
 	// JavaScript Sum functions.
 	const sum = (x, y) => x + y;
 ```
 
-```php
+```PHP
 	// PHP Sum functions.
 	function sum( x, y ) { return x + y; }
 ```

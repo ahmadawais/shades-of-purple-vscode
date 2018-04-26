@@ -755,7 +755,7 @@
 		{
 			"name": "[MARKDOWN] - Color for Punctuation — Heading, `Code` and fenced ```code blocks```, **Bold**",
 			"scope": [
-				"markup.fenced_code.block.markdown",
+				// "markup.fenced_code.block.markdown", // FIXME: Issue with fenced code and CSS.
 				"punctuation.definition.markdown",
 				"punctuation.definition.raw.markdown",
 				"punctuation.definition.heading.markdown",

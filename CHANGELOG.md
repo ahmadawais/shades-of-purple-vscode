@@ -12,7 +12,7 @@ All notable changes to the "shades-of-purple" theme for VSCode are documented in
 - 📦 NEW: YouTube Video Demo (d1681c8)
 - 🐛 FIX: Broken Image (dd150e7)
 - 🐛 FIX: Grammar (10b8a95)
-- 👌 IMPROVE: TypeScript Arrangment (fbfa14d)
+- 👌 IMPROVE: TypeScript Arrangement (fbfa14d)
 - 📖 DOC: Attribution (176e846)
 - 🐛 FIX: Fork (3f16caa)
 - 🐛 FIX: Markdown (9130a28)
