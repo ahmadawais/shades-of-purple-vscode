@@ -4,13 +4,13 @@ All notable changes to the "shades-of-purple" theme for VSCode are documented in
 
 > [Automated release notes can be found here →](https://github.com/ahmadawais/shades-of-purple-vscode/releases)
 
-## 🦄 1.12.0 to 1.14.0 —  💜 Shades of Purple — 2018-05-04
+## 🦄 1.12.0 to 1.15.0 —  💜 Shades of Purple — 2018-05-11
 
 - 📦 NEW: Editor Indent Guide Active Colors ([Gif Demo](https://twitter.com/MrAhmadAwais/status/992141467228491776))
 - 🐛 FIX: Markdown fenced_code Highlighting (a4a566f)
 - 🐛 FIX: Consistent Logs (692da97)
 - 📖 DOC: 🦄 1.9.0 to 1.12.0 (8c570b3)
-
+- 👌 IMPROVE: Hex Colors Docs
 
 ## 🦄 1.9.0 to 1.12.0 —  💜 Shades of Purple — 2018-04-18
 

@@ -11,7 +11,7 @@
 		"activityBar.border": "#292952",
 		"activityBar.dropBackground": "#222145",
 		// "activityBar.foreground": "#A599E9",
-		"activityBar.foreground": "#fff",
+		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#FAD000",
 		"activityBarBadge.foreground": "#28284e",
 
@@ -50,12 +50,12 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_dropdown-control
 		"dropdown.background": "#1E1E3F",
 		"dropdown.border": "#1E1E3F",
-		"dropdown.foreground": "#fff",
+		"dropdown.foreground": "#FFFFFF",
 
 		// ——— Editor ———
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
 		"editor.background": "#2D2B55", // Editor background color.
-		"editor.foreground": "#fff", // Editor default foreground color.
+		"editor.foreground": "#FFFFFF", // Editor default foreground color.
 		"editorLineNumber.foreground": "#A599E9", // Color of editor line numbers.
 		"editorCursor.foreground": "#FAD000", //  Color of the editor cursor.
 
@@ -117,7 +117,7 @@
 
 		// The tabs
 		"tab.activeBackground": "#222244",
-		"tab.activeForeground": "#fff",
+		"tab.activeForeground": "#FFFFFF",
 		"tab.border": "#1E1E3F",
 		"tab.activeBorder": "#FAD000",
 		"tab.inactiveBackground": "#2D2B55",
@@ -156,7 +156,7 @@
 		// Extensions.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
 		"extensionButton.prominentBackground": "#5D37F0",
-		"extensionButton.prominentForeground": "#fff",
+		"extensionButton.prominentForeground": "#FFFFFF",
 		"extensionButton.prominentHoverBackground": "#ff9d00",
 		"focusBorder": "#1E1E3F",
 		"foreground": "#A599E9",
@@ -178,10 +178,10 @@
 		// Lists and Trees.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
 		"list.activeSelectionBackground": "#1E1E3F",
-		"list.activeSelectionForeground": "#fff",
+		"list.activeSelectionForeground": "#FFFFFF",
 		"list.dropBackground": "#1E1E3F",
 		"list.focusBackground": "#1E1E3F",
-		"list.focusForeground": "#fff",
+		"list.focusForeground": "#FFFFFF",
 		"list.highlightForeground": "#FAD000",
 		"list.hoverBackground": "#2D2B55",
 		"list.hoverForeground": "#cec5ff",
@@ -223,10 +223,10 @@
 		"peekViewEditorGutter.background": "#191935",
 		"peekViewResult.background": "#1E1E3F",
 		"peekViewResult.fileForeground": "#aaa",
-		"peekViewResult.lineForeground": "#fff",
+		"peekViewResult.lineForeground": "#FFFFFF",
 		"peekViewResult.matchHighlightBackground": "#2D2B55",
 		"peekViewResult.selectionBackground": "#2D2B55",
-		"peekViewResult.selectionForeground": "#fff",
+		"peekViewResult.selectionForeground": "#FFFFFF",
 		"peekViewTitle.background": "#1F1F41",
 		"peekViewTitleDescription.foreground": "#aaa",
 		"peekViewTitleLabel.foreground": "#FAD000",
@@ -305,7 +305,7 @@
 
 		// Title bar.
 		"titleBar.activeBackground": "#1E1E3F",
-		"titleBar.activeForeground": "#fff",
+		"titleBar.activeForeground": "#FFFFFF",
 		"titleBar.inactiveBackground": "#1E1E3F",
 		"titleBar.inactiveForeground": "#A599E9",
 		"walkThrough.embeddedEditorBackground": "#1E1E3F",
@@ -313,7 +313,9 @@
 		"welcomePage.buttonHoverBackground": "#1E1E3F",
 		"widget.shadow": "#00000026"
 	},
-	// Custom setup via Dev scope ext.
+	// Token Colors are heavily inspired by several themes
+	// Including but not limited to Material Palenight, Cobalt
+	// theme's syntax and several custom setup via Dev scope ext.
 	"tokenColors": [
 		{
 			"name": "[COMMENTS] — The main comments color",
