@@ -62,7 +62,7 @@
 		//  The slection color battle starts here.
 		"editor.selectionBackground": "#b362ff88", // Color of the editor selection.
 		"editor.inactiveSelectionBackground": "#7580b8c0", // Color of the selection in an inactive editor. The color must not be opaque to not hide underlying decorations.
-		"editor.selectionHighlightBackground": "#7e46df54", // Color for regions with the same content as the selection. The color must not be opaque to not hide underlying decorations.
+		"editor.selectionHighlightBackground": "#7e46df46", // Color for regions with the same content as the selection. The color must not be opaque to not hide underlying decorations.
 		"editor.wordHighlightBackground": "#FFFFFF0D", // Same words other places.
 		"editor.wordHighlightStrongBackground": "#FFFFFF0D", // Cursor inside current vairable.
 		"editor.findMatchBackground": "#FF7200", // Color of the current search match.
