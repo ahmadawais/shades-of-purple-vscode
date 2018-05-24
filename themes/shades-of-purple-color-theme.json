@@ -87,15 +87,15 @@
 		"editorOverviewRuler.incomingContentForeground": "#3ad90055",
 
 		// Errors and warnings:
-		// "editorError.border": "#D90429",
-		"editorError.foreground": "#D90429",
+		// "editorError.border": "#ec3a37f5",
+		"editorError.foreground": "#ec3a37f5",
 		"editorWarning.border": "#ffffff00",
 		"editorWarning.foreground": "#FAD000",
 
 		// Gutter: The gutter contains the glyph margins and the line numbers:
 		"editorGutter.background": "#28284e",
 		"editorGutter.addedBackground": "#35ad68",
-		"editorGutter.deletedBackground": "#D90429",
+		"editorGutter.deletedBackground": "#ec3a37f5",
 		"editorGutter.modifiedBackground": "#ad70fc46",
 
 		// Diff Editor.
@@ -106,7 +106,7 @@
 		"diffEditor.removedTextBorder": "#ff000d81",
 
 		// Editor Groups & Tabs.
-		"editorGroup.background": "#D90429",
+		"editorGroup.background": "#ec3a37f5",
 		"editorGroup.border": "#222244",
 		"editorGroup.dropBackground": "#222244d0",
 
@@ -146,12 +146,12 @@
 
 		// The editor marker view shows when navigating to errors and warnings in the editor (Go to Next Error or Warning command).
 		"editorMarkerNavigation.background": "#3B536433",
-		"editorMarkerNavigationError.background": "#D90429",
+		"editorMarkerNavigationError.background": "#ec3a37f5",
 		"editorMarkerNavigationWarning.background": "#FAD000",
 
 		// To see the editor white spaces, enable Toggle Render Whitespace.
 		"editorWhitespace.foreground": "#ffffff1a",
-		"errorForeground": "#D90429",
+		"errorForeground": "#ec3a37f5",
 
 		// Extensions.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
@@ -265,7 +265,7 @@
 		// Integrated Terminal Colors.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiRed": "#D90429",
+		"terminal.ansiRed": "#ec3a37f5",
 		"terminal.ansiGreen": "#3ad900",
 		"terminal.ansiYellow": "#FAD000",
 		"terminal.ansiBlue": "#6943ff",
@@ -273,7 +273,7 @@
 		"terminal.ansiCyan": "#80fcff",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBrightBlack": "#5C5C61",
-		"terminal.ansiBrightRed": "#D90429",
+		"terminal.ansiBrightRed": "#ec3a37f5",
 		"terminal.ansiBrightGreen": "#3ad900",
 		"terminal.ansiBrightYellow": "#FAD000",
 		"terminal.ansiBrightBlue": "#6943ff",
@@ -288,7 +288,7 @@
 		// Git VS Code theme Colors used for file labels and the SCM viewlet.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_git-colors
 		"gitDecoration.modifiedResourceForeground": "#FAD000", // Color for modified git resources.
-		"gitDecoration.deletedResourceForeground": "#D90429", // Color for deleted git resources.
+		"gitDecoration.deletedResourceForeground": "#ec3a37f5", // Color for deleted git resources.
 		"gitDecoration.untrackedResourceForeground": "#3ad900", // Color for untracked git resources.
 		"gitDecoration.ignoredResourceForeground": "#a599e981", // Color for ignored git resources.
 		"gitDecoration.conflictingResourceForeground": "#FF7200", // Color for conflicting git resources.
@@ -357,7 +357,7 @@
 			"name": "[invalid] — The main color for invalid",
 			"scope": "invalid",
 			"settings": {
-				"foreground": "#D90429"
+				"foreground": "#ec3a37f5"
 			}
 		},
 		{
