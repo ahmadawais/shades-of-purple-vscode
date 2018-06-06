@@ -4,8 +4,10 @@
  * I'm 💜'ing it.
  */
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-dom';
 import './index.css';
+
+var justChecking = render();
 
 /**
  * VSCode Component.
@@ -24,9 +26,17 @@ class VSCode extends React.Component {
 	// Render.
 	render() {
 		return (
-			<button className="VSCode" onClick={() => alert('click')}>
-				{this.props.value}
-			</button>
+			<CustomDiv>
+				<button className="VSCode" onClick={() => alert('click')}>
+					{this.props.value}
+				</button>
+
+				<Message msg="Shades of Purple" titleClass="heading">
+					<p>Testing the settings in VSCode Shades of Purple 💜 theme.</p>
+				</Message>
+			</CustomDiv>
 		);
 	}
 }
+
+VSCode();
