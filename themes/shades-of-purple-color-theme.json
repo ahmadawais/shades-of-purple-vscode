@@ -649,6 +649,7 @@
 				"entity.name.type.tsx",
 				"entity.name.type.jsx",
 				"variable.other.readwrite.js",
+				"variable.other.object.js",
 				"variable.other.property.js"
 			],
 			"settings": {
