@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Installs](https://img.shields.io/vscode-marketplace/d/ahmadawais.shades-of-purple.svg?label=Developers&colorB=b362ff)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Installs](https://img.shields.io/vscode-marketplace/d/ahmadawais.shades-of-purple.svg?label=Developers&colorB=b362ff)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![emoji-log](https://cdn.rawgit.com/ahmadawais/stuff/ca97874/emoji-log/non-flat-round.svg)](https://github.com/ahmadawais/Emoji-Log/)
 
 </div>
 
@@ -48,7 +48,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <h4 align="center">
   <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="https://on.ahmda.ws/qpkO/c" />
-  
+
   📺 Watch The Video To Learn More → </a>
 </h4>
 
