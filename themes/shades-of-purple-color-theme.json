@@ -106,7 +106,7 @@
 		"diffEditor.removedTextBorder": "#ff000d81",
 
 		// Editor Groups & Tabs.
-		"editorGroup.background": "#ec3a37f5",
+		// "editorGroup.background": "#ec3a37f5", // Deprecated in v1.25
 		"editorGroup.border": "#222244",
 		"editorGroup.dropBackground": "#222244d0",
 
