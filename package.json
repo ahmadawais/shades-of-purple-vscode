@@ -42,6 +42,6 @@
 	},
 	"scripts": {
 		"start": "nodemon --exec vsce package",
-		"release": "release-it  && vsce publish"
+		"release": "release-it  && npx vsce publish"
 	}
 }
