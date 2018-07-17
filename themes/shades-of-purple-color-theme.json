@@ -885,6 +885,13 @@
 			}
 		},
 		{
+			"name": "[PHP] - Color for Storage Modifiers",
+			"scope": "storage.modifier.php",
+			"settings": {
+				"foreground": "#ff9d00"
+			}
+		},
+		{
 			"name": "Operator Mono font has awesome itallics",
 			"scope": [
 				"modifier",
