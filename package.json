@@ -37,8 +37,7 @@
 	},
 	"devDependencies": {
 		"nodemon": "^1.17.4",
-		"release-it": "^7.4.3",
-		"vsce": "^1.40.0"
+		"release-it": "^7.4.3"
 	},
 	"scripts": {
 		"start": "nodemon --exec vsce package",
