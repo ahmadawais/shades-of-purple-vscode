@@ -8,12 +8,12 @@
  * @return bye
  */
 
-const hello = "Hey, hello there";
+const hello = 'Hey, hello there there there there';
 
 class vsc extends React.Component {}
 
-const ahmad = function () {};
-let awais = function () {};
+const ahmad = function() {};
+let awais = function() {};
 awais = 01;
 
 const ahmad = 100;
