@@ -872,7 +872,7 @@
 		},
 		{
 			"name": "[PHP] - Color for Entity",
-			"scope": "source.php entity",
+			"scope": ["source.php entity", "variable.other.class.php"],
 			"settings": {
 				"foreground": "#9effff"
 			}
