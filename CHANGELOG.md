@@ -32,9 +32,11 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Changelog formatting [`9ad3c8f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9ad3c8f30ce12468dd5cb5bd1f3eb77029193324)
 - 🐛 FIX: Changelog formatting [`05a80b0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05a80b063dde5e7ed383db2ed9f91e6ab7867542)
 - 🐛 FIX: Changelog formatting [`3889b64`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3889b6412991743742f8756c30baf51834db18e9)
+- 🐛 FIX: Changelog formatting [`b897046`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b8970461104976baf0d3046b05d763292e460663)
 - 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -46,6 +48,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Highlight Color [`7e6d8b4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7e6d8b487fd60fa84904bb01268ead97729f0c5c)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -57,6 +60,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Release script by npx [`72dca0e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/72dca0eb2ff97436404e4d521b02cab34e035096)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -72,6 +76,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: SVG restricted [`3ec176a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ec176ac348384810697ac0cb1538b967e6c54f9)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -79,6 +84,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ### [1.25.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.24.0...1.25.0) RELEASE
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -90,6 +96,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: Emoji-log Badge [`07c090f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/07c090f8e6e5b7e13facc3fef53776df1e41585b)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -101,6 +108,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: npx FTW [`8d9db69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8d9db699f7db41c290a006ba6eca18fdfff0f50a)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -116,6 +124,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: editorGroup.background deprecated in v1.25 [`95a89c9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/95a89c91a1b206890ef0047bbe31ec8faf9622ec)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -131,6 +140,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: React/TypeScript components styling like HTML [`a3a207f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a3a207fc7392054802f33af993ed096179682cb1)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -138,6 +148,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ### [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0) RELEASE
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -149,6 +160,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Highlight Color [`fd29cda`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fd29cda350041adbbdd5f8c14fce2af370f66023)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -160,6 +172,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Same Word Highlighting [`e3eb1d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e3eb1d91e9503844ec222ff0e3fb3ece081bd4eb)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -171,6 +184,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Error Color [`f4785fe`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f4785fee866de665e2ef8842b73f1fd0d2b96bac)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -189,6 +203,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Terminal ansiBrightBlack FIX [`b1626b4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b1626b4c725c4b5ed743e964f02cac748db070dd)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -200,6 +215,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: Editor Indent Guide Active Colors [`b078a85`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b078a85b26dd26a2ea8571db24cc5f231203b16b)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -212,6 +228,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Consistent Logs [`692da97`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/692da971b7a69bd39cd9c580295b66f845ef2d1c)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -219,6 +236,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ### [1.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.11.0...1.12.0) RELEASE
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -230,6 +248,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Description [`2d2a424`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2d2a4242d78b67806ab79187f30aa5413f78e568)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -253,6 +272,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Reviews Link [`fb8f25c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fb8f25c994c5de01ae1995d25cdd9d944524e68d)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -264,6 +284,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Git Ignore Color [`f3b66c4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f3b66c4d94afaaea4cc6b7ab65909c139d758e0e)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -271,6 +292,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ### [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0) RELEASE
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -287,6 +309,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Markdown [`5b272f7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5b272f72d873fe466575c9a549a5452907572653)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -305,6 +328,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Formatting [`72daf9c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/72daf9ccb95c8e2f07bea296882597888af7b20a)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -312,6 +336,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 ### [1.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.2.0...1.5.0) RELEASE
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
@@ -335,6 +360,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Version [`7c2cf0c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7c2cf0ce15674cb1ea7f0fd02f644ba5c214c7c3)
 
 <br>
+
 ![hr](https://on.ahmda.ws/t6N5/c)
 
 <br>
