@@ -1,7 +1,6 @@
 # Changelog: Shades of Purple
 
-All notable changes to this project are documented in this file.
-> [Released versions →](https://github.com/ahmadawais/shades-of-purple-vscode/releases)
+All notable changes in this project's [released versions](https://github.com/ahmadawais/shades-of-purple-vscode/releases) are documented in this file.
 
 <br>
 
@@ -9,7 +8,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [Unreleased](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...HEAD) RELEASE
+### [Unreleased](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...HEAD) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -24,6 +23,11 @@ All notable changes to this project are documented in this file.
 - 👌 IMPROVE: Create assets [`3978946`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/39789469488c218e46ad59259908314e57f257a9)
 - 👌 IMPROVE: [PHP] - Color for Entity [`7092467`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/70924674af56e870ca35c8e1f2176bd9460e8792)
 
+![img](https://on.ahmda.ws/t5Xs/c)
+
+- 🐛 FIX: Changelog formatting [`9ad3c8f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9ad3c8f30ce12468dd5cb5bd1f3eb77029193324)
+- 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
+
 <br>
 <br>
 
@@ -31,7 +35,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.27.0...1.28.0) RELEASE
+### [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.27.0...1.28.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -44,7 +48,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.27.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.26.0...1.27.0) RELEASE
+### [1.27.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.26.0...1.27.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -57,7 +61,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.26.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.25.0...1.26.0) RELEASE
+### [1.26.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.25.0...1.26.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -74,7 +78,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.25.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.24.0...1.25.0) RELEASE
+### [1.25.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.24.0...1.25.0) RELEASE
 
 <br>
 <br>
@@ -83,7 +87,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.24.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.23.0...1.24.0) RELEASE
+### [1.24.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.23.0...1.24.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -96,7 +100,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.23.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.22.0...1.23.0) RELEASE
+### [1.23.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.22.0...1.23.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -109,7 +113,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.21.0...1.22.0) RELEASE
+### [1.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.21.0...1.22.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -126,7 +130,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.20.0...1.21.0) RELEASE
+### [1.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.20.0...1.21.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -143,7 +147,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0) RELEASE
+### [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0) RELEASE
 
 <br>
 <br>
@@ -152,7 +156,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.18.0...1.19.0) RELEASE
+### [1.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.18.0...1.19.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -165,7 +169,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.17.0...1.18.0) RELEASE
+### [1.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.17.0...1.18.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -178,7 +182,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.16.0...1.17.0) RELEASE
+### [1.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.16.0...1.17.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -191,7 +195,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.14.0...1.16.0) RELEASE
+### [1.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.14.0...1.16.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -211,7 +215,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.13.0...1.14.0) RELEASE
+### [1.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.13.0...1.14.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -224,7 +228,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.12.0...1.13.0) RELEASE
+### [1.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.12.0...1.13.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5Xs/c)
 
@@ -238,7 +242,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.11.0...1.12.0) RELEASE
+### [1.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.11.0...1.12.0) RELEASE
 
 <br>
 <br>
@@ -247,7 +251,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.10.0...1.11.0) RELEASE
+### [1.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.10.0...1.11.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -260,7 +264,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.9.0...1.10.0) RELEASE
+### [1.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.9.0...1.10.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -285,7 +289,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.8.0...1.9.0) RELEASE
+### [1.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.8.0...1.9.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5Xs/c)
 
@@ -298,7 +302,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0) RELEASE
+### [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0) RELEASE
 
 <br>
 <br>
@@ -307,7 +311,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.6.0...1.7.0) RELEASE
+### [1.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.6.0...1.7.0) RELEASE
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -325,7 +329,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.5.0...1.6.0) RELEASE
+### [1.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.5.0...1.6.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -345,7 +349,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.2.0...1.5.0) RELEASE
+### [1.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.2.0...1.5.0) RELEASE
 
 <br>
 <br>
@@ -354,7 +358,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### [1.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.1.0...1.2.0) RELEASE
+### [1.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.1.0...1.2.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
@@ -379,7 +383,7 @@ All notable changes to this project are documented in this file.
 
 <br>
 
-##### 1.1.0 RELEASE
+### 1.1.0 RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
