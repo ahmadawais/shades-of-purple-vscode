@@ -12,11 +12,12 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.28.0) RELEASE
+### [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
 - 📦 NEW: Changelog [`cb29d99`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cb29d99e342462e6ce57e49b13188bb3af473317)
+- 📦 NEW: Git Ignore [`78c9766`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/78c9766d970d13baec4bc67b072cfddd2add7ac5)
 - 📦 NEW: auto-changelog FTW [`5933528`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/593352884f0a68ca2f15ccc6e85b65dea1a37f2f)
 - 📦 NEW: Changelog Template [`ec3f9e7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ec3f9e78e7be88280589c9c11b1286ddc6e3358c)
 
@@ -25,6 +26,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Refresh [`8a2489a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8a2489abe916b8ecf92c1ee80148c4d321b9f176)
 - 👌 IMPROVE: Links [`b6612d2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b6612d2b72f22b8b1ab5e53df4fba71b03be042e)
 - 👌 IMPROVE: Create assets [`3978946`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/39789469488c218e46ad59259908314e57f257a9)
+- 👌 IMPROVE: Ignore [`a2d7ed4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d7ed44d11653dd1893a54780ba67a8a9243b26)
 - 👌 IMPROVE:  Better npm script [`effceb4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/effceb44888fa27d349b71b0b21ffbd36b07f015)
 - 👌 IMPROVE: [PHP] - Color for Entity [`7092467`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/70924674af56e870ca35c8e1f2176bd9460e8792)
 
@@ -36,6 +38,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Changelog formatting [`75cb5b3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/75cb5b36987deb8cda69b090ea2ba91a4a5e9314)
 - 🐛 FIX: Changelog formatting [`b897046`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b8970461104976baf0d3046b05d763292e460663)
 - 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.27.0...1.28.0) RELEASE
+
+![img](https://on.ahmda.ws/t77b/c)
+
+- 👌 IMPROVE: Highlight Color [`7e6d8b4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7e6d8b487fd60fa84904bb01268ead97729f0c5c)
 
 <br>
 
