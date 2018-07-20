@@ -43,7 +43,7 @@
 	"scripts": {
 		"start": "nodemon --exec vsce package",
 		"log": "auto-changelog",
-		"release": "auto-changelog && release-it  && npx vsce publish"
+		"release": "auto-changelog && gdoc 'Update the changelog' && release-it  && npx vsce publish"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
