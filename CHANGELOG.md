@@ -4,9 +4,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Installs](https://img.shields.io/vscode-marketplace/d/ahmadawais.shades-of-purple.svg?label=Developers&colorB=b362ff)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
-
-_Follow 👋 _ → [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
 
@@ -32,6 +30,7 @@ _Follow 👋 _ → [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mr
 ![img](https://on.ahmda.ws/t5Xs/c)
 
 - 🐛 FIX: Changelog formatting [`9ad3c8f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9ad3c8f30ce12468dd5cb5bd1f3eb77029193324)
+- 🐛 FIX: Changelog formatting [`05a80b0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05a80b063dde5e7ed383db2ed9f91e6ab7867542)
 - 🐛 FIX: Changelog formatting [`3889b64`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3889b6412991743742f8756c30baf51834db18e9)
 - 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
 
