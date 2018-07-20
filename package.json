@@ -36,11 +36,19 @@
 		]
 	},
 	"devDependencies": {
+		"auto-changelog": "^1.7.2",
 		"nodemon": "^1.17.4",
 		"release-it": "^7.4.3"
 	},
 	"scripts": {
 		"start": "nodemon --exec vsce package",
-		"release": "release-it  && npx vsce publish"
+		"log": "auto-changelog",
+		"release": "auto-changelog && release-it  && npx vsce publish"
+	},
+	"auto-changelog": {
+		"output": "CHANGELOG.md",
+		"template": "clTemplate.hbs",
+		"unreleased": true,
+		"commitLimit": false
 	}
 }
