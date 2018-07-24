@@ -10,8 +10,7 @@
 	},
 	"github": {
 		"release": true,
-		"releaseName": "🦄 %s",
-		"assets": "dist/*.zip"
+		"releaseName": "🦄 %s"
 	},
 	"prompt": {
 		"src": {
