@@ -321,7 +321,6 @@
 			"name": "[COMMENTS] — The main comments color",
 			"scope": ["comment", "punctuation.definition.comment"],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#b362ff"
 			}
 		},
@@ -549,7 +548,6 @@
 			"name": "[HTML] - Color for Entity Other",
 			"scope": "text.html.basic entity.other",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FAD000"
 			}
 		},
@@ -608,13 +606,6 @@
 			"scope": "storage.type.extends.js",
 			"settings": {
 				"foreground": "#ff9d00"
-			}
-		},
-		{
-			"name": "[JAVASCRIPT] — Typescript/React Attributes",
-			"scope": ["entity.other.attribute-name.tsx", "entity.other.attribute-name.jsx"],
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -742,7 +733,6 @@
 			"name": "[MARKDOWN] - Color for Quote Paragraph",
 			"scope": "markup.quote.markdown meta.paragraph.markdown",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#A599E9"
 			}
 		},
@@ -765,7 +755,6 @@
 			"name": "[MARKDOWN] - Color for Emphasis Italic",
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#A599E9"
 			}
 		},
@@ -836,13 +825,6 @@
 			}
 		},
 		{
-			"name": "[PUG] - Color for Entity Attribute Name",
-			"scope": "text.jade entity.other.attribute-name.tag",
-			"settings": {
-				"fontStyle": "italic"
-			}
-		},
-		{
 			"name": "[PUG] - Color for String Interpolated",
 			"scope": "text.jade string.interpolated",
 			"settings": {
@@ -892,14 +874,21 @@
 			}
 		},
 		{
-			"name": "Operator Mono font has awesome itallics",
+			"name": "[ITALLICS] All the awesome itallics live here.",
 			"scope": [
 				"modifier",
 				"this",
 				"comment",
 				"storage.modifier.js",
 				"entity.other.attribute-name.js",
-				"entity.other.attribute-name.html"
+				"entity.other.attribute-name.html",
+				"punctuation.definition.comment",
+				"text.html.basic entity.other",
+				"entity.other.attribute-name.tsx",
+				"entity.other.attribute-name.jsx",
+				"markup.quote.markdown meta.paragraph.markdown",
+				"markup.italic.markdown",
+				"text.jade entity.other.attribute-name.tag"
 			],
 			"settings": {
 				"fontStyle": "italic"
