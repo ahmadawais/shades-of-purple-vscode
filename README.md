@@ -86,7 +86,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
-_You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of amazing designer Dhanish called [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
+_You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
 
 
 ```js
@@ -206,6 +206,6 @@ This FOSS (free and open source software) project is updated and maintained with
 
 **Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
-Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. Thanks Dhanish for awesome VSCode icons. And Icons8 for the icons in this readme.
+Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
 _Follow 👋 _ →  [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
