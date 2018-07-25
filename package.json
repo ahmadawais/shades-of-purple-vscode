@@ -36,14 +36,15 @@
 		]
 	},
 	"devDependencies": {
-		"auto-changelog": "^1.7.2",
-		"nodemon": "^1.17.4",
-		"release-it": "^7.4.3"
+		"auto-changelog": "^1.8.0",
+		"nodemon": "^1.18.3",
+		"release-it": "^7.4.8"
 	},
 	"scripts": {
 		"start": "nodemon --exec vsce package",
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "release-it && auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push && npx vsce publish"
+		"release": "release-it && auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push && npx vsce publish",
+		"release-dry": "release-it --dry-run"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
