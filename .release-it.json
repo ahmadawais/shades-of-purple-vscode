@@ -1,4 +1,7 @@
 {
+	"dry-run": true,
+	"verbose": true,
+	"force": true,
 	"non-interactive": true,
 	"increment": "minor",
 	"src": {
