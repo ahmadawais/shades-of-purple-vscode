@@ -21,13 +21,17 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: auto-changelog FTW [`5933528`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/593352884f0a68ca2f15ccc6e85b65dea1a37f2f)
 - 📦 NEW: Changelog Template [`ec3f9e7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ec3f9e78e7be88280589c9c11b1286ddc6e3358c)
 
+-  📖 DOC: Update the changelog [`292ecb8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/292ecb89ab6b9531c65e7471186b139211a2cedb)
+-  📖 DOC: Update the changelog [`acedb59`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/acedb592dabfe7159990a1cde437ce55310b8939)
+
 ![img](https://on.ahmda.ws/t77b/c)
 
+- 👌 IMPROVE: Italics in one place [`aaa3181`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/aaa318101affa61598842028518852f106464353)
 - 👌 IMPROVE: Refresh [`8a2489a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8a2489abe916b8ecf92c1ee80148c4d321b9f176)
 - 👌 IMPROVE: Links [`b6612d2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b6612d2b72f22b8b1ab5e53df4fba71b03be042e)
 - 👌 IMPROVE: Create assets [`3978946`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/39789469488c218e46ad59259908314e57f257a9)
-- 👌 IMPROVE: Ignore [`a2d7ed4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d7ed44d11653dd1893a54780ba67a8a9243b26)
 - 👌 IMPROVE:  Better npm script [`effceb4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/effceb44888fa27d349b71b0b21ffbd36b07f015)
+- 👌 IMPROVE: Ignore [`a2d7ed4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d7ed44d11653dd1893a54780ba67a8a9243b26)
 - 👌 IMPROVE: [PHP] - Color for Entity [`7092467`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/70924674af56e870ca35c8e1f2176bd9460e8792)
 
 ![img](https://on.ahmda.ws/t5Xs/c)
@@ -37,6 +41,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Changelog formatting [`3889b64`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3889b6412991743742f8756c30baf51834db18e9)
 - 🐛 FIX: Changelog formatting [`75cb5b3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/75cb5b36987deb8cda69b090ea2ba91a4a5e9314)
 - 🐛 FIX: Changelog formatting [`b897046`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b8970461104976baf0d3046b05d763292e460663)
+- 🐛 FIX: No assets [`b67b4d7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b67b4d768e9d8cac711a62407cd3885093bba75e)
 - 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
 
 <br>
@@ -111,6 +116,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 - 📦 NEW: npx FTW [`8d9db69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8d9db699f7db41c290a006ba6eca18fdfff0f50a)
 
+- 📖 DOC: Changelog Automation [`bfe2904`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/bfe29047a853fe3cabee3ca3bd72a7a35252de6d)
+
 <br>
 
 ![hr](https://on.ahmda.ws/t6N5/c)
@@ -139,6 +146,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 - 📦 NEW: Demo [`b479edb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b479edbbcef07cd91a10c69b9135f28e4b142ac2)
 
+- 📖 DOC: Changelog [`6de2f3a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6de2f3a4e522cbaf9fcd84880e8d831d9de67c23)
+
 ![img](https://on.ahmda.ws/t77b/c)
 
 - 👌 IMPROVE: React/TypeScript components styling like HTML [`a3a207f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a3a207fc7392054802f33af993ed096179682cb1)
@@ -150,6 +159,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 <br>
 
 ### [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0) RELEASE
+
+- 📖 DOC: Changelog [`8633ce6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8633ce64980ed1f444786147936ff694eed48344)
 
 <br>
 
@@ -195,6 +206,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### [1.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.14.0...1.16.0) RELEASE
 
+- 📖 DOC: Changelog [`f60fd4a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f60fd4a63be2c42588249a6db036b62c4ca2c0c8)
+
 ![img](https://on.ahmda.ws/t77b/c)
 
 - 👌 IMPROVE: Update npm packages [`e9a50ad`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e9a50ad9a5e0e9c975afe976ab622c7b44860a65)
@@ -225,6 +238,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 <br>
 
 ### [1.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.12.0...1.13.0) RELEASE
+
+- 📖 DOC: 🦄 1.9.0 to 1.12.0 [`8c570b3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8c570b313d83f5e1db89c8e255015944797d1158)
 
 ![img](https://on.ahmda.ws/t5Xs/c)
 
@@ -263,6 +278,11 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 - 📦 NEW: YouTube Video Demo [`d1681c8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d1681c854bf082ed4891b01ffbf404c2687bca0b)
 
+- 📖 DOC: Better YouTube Video Section [`4c5c551`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4c5c5519de5297c51c6251f675ab67df74ec3f2e)
+- 📖 DOC: New badges with shades of purple [`49d1725`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/49d172586fc2ba11c5dc12905ac835922e29124e)
+- 📖 DOC: VSCode Shades-of-Purple icon [`984695a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/984695a92de502b2559a560aeb9d3e6f37fd44b0)
+- 📖 DOC: Attribution [`176e846`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/176e8460660e037a3ca48943356bf0f27f66995b)
+
 ![img](https://on.ahmda.ws/t77b/c)
 
 - 👌 IMPROVE: TypeScript Arrangment [`fbfa14d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fbfa14d808c079af89b8e9850c653990207e7638)
@@ -295,6 +315,9 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0) RELEASE
 
+- 📖 DOC: Add VSCode.pro links [`4fb5d52`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4fb5d52a97f27cff9304cab2576e56d27f02c56d)
+- 📖 DOC: MacOS only options [`43743d5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/43743d55346be77a6ec8f532c855e2450b77c578)
+
 <br>
 
 ![hr](https://on.ahmda.ws/t6N5/c)
@@ -302,6 +325,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 <br>
 
 ### [1.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.6.0...1.7.0) RELEASE
+
+- 📖 DOC: Shades of Puprle for Konsole [`2828bb0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2828bb0c51ba950790cf3e084475d125205a1921)
 
 ![img](https://on.ahmda.ws/t77b/c)
 
@@ -352,6 +377,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: Slack Theme [`656b010`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/656b010aa74b17379622dec76474e8095810e6b9)
 - 📦 NEW: Publish via vsce before git and npm [`269cb56`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/269cb561c85dec8a2c82a7ff75b087b8d1b5c347)
 
+- 📖 DOC: Update changelog [`01e59e0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/01e59e0a534de2892226032cc12373a165470726)
+
 ![img](https://on.ahmda.ws/t77b/c)
 
 - 👌 IMPROVE: Settings Suggestions [`9a18865`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9a188658ef05fb2e92a48913a78d6ef8e3755991)
@@ -377,6 +404,11 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: Logo [`758c265`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/758c265e8ffb91d0145352689fbb1cd3a7101af0)
 - 📦 NEW: VSC marketplace badge [`b0ec4d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b0ec4d956b0cadc78594a342769da62a76321ec4)
 - 📦 NEW: Version 1.0.0 [`2229722`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/22297227cd53b5273ecf973cd5a09f1c5038868c)
+
+- 📖 DOC: Credit dhanishgajjar [`4237fe2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4237fe2a3500a73cf66c54cda7d11fd2e2696669)
+- 📖 DOC: Best Custom Settings [`fce09c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fce09c1326eb4530777f6b8f15782f059b2d6517)
+- 📖 DOC: Best Custom Settings [`3ee8d80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ee8d805d07bf172d017ad98c56ce0d6cb7f927e)
+-  📖 DOC: Changelog [`f2d1e2f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2d1e2f00cfe81df9b0a423e3c873b6f845ad971)
 
 ![img](https://on.ahmda.ws/t77b/c)
 
