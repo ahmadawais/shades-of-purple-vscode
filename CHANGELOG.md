@@ -12,13 +12,27 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.32.0...1.32.0) RELEASE
+### [1.33.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.33.0...1.33.0) RELEASE
 
--  📖 DOC: Update the changelog [`f2eb42e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2eb42e65ffa2d92c68ee7c9efe74f8c205f4fff)
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.31.0...1.32.0) RELEASE
+
+-  📖 DOC: Update the changelog [`0507e09`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0507e09abe6ffa15dd45bb0c9eabc7841f5f1911)
+
+![img](https://on.ahmda.ws/t77b/c)
+
+- 👌 IMPROVE: No verbose log [`e30a147`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e30a147eec40056e432c4b5dd3b3b89b982f7085)
+- 👌 IMPROVE: No images [`8364353`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8364353b1a0f34ecfcfe67f036673051563135d0)
 
 ![img](https://on.ahmda.ws/t5Xs/c)
 
-- 🐛 FIX: Changelog [`4eaca1a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4eaca1a07c97d6ef85d4133c9a65b22558d995f0)
+- 🐛 FIX: Remove wrong credits [`48a31e5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/48a31e5947fb97773a6dac8c9c730db0be53433a)
+- 🐛 FIX: npm ignore [`52d723b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52d723b8437d89c4e40b826672465a6bd948851a)
 
 <br>
 
