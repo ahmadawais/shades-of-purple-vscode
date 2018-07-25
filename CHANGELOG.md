@@ -14,6 +14,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ### [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.32.0...1.32.0) RELEASE
 
+-  📖 DOC: Update the changelog [`f2eb42e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2eb42e65ffa2d92c68ee7c9efe74f8c205f4fff)
+
 <br>
 
 ![hr](https://on.ahmda.ws/t6N5/c)
