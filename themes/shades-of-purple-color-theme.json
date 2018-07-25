@@ -872,6 +872,27 @@
 			"settings": {
 				"foreground": "#ff9d00"
 			}
+		},
+		{
+			"name": "[ITALLICS] All the awesome itallics live here.",
+			"scope": [
+				"modifier",
+				"this",
+				"comment",
+				"storage.modifier.js",
+				"entity.other.attribute-name.js",
+				"entity.other.attribute-name.html",
+				"punctuation.definition.comment",
+				"text.html.basic entity.other",
+				"entity.other.attribute-name.tsx",
+				"entity.other.attribute-name.jsx",
+				"markup.quote.markdown meta.paragraph.markdown",
+				"markup.italic.markdown",
+				"text.jade entity.other.attribute-name.tag"
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
