@@ -12,6 +12,14 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.30.0...1.30.0) RELEASE
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
@@ -22,6 +30,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 📦 NEW: auto-changelog FTW [`5933528`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/593352884f0a68ca2f15ccc6e85b65dea1a37f2f)
 - 📦 NEW: Changelog Template [`ec3f9e7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ec3f9e78e7be88280589c9c11b1286ddc6e3358c)
 
+-  📖 DOC: Update the changelog [`0ca951d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0ca951d78239d7380ab966330d7ffb6fe58953d3)
 -  📖 DOC: Update the changelog [`292ecb8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/292ecb89ab6b9531c65e7471186b139211a2cedb)
 -  📖 DOC: Update the changelog [`acedb59`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/acedb592dabfe7159990a1cde437ce55310b8939)
 -  📖 DOC: Update the changelog [`db34351`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/db3435163e35f663f72e5d54bc7d07f334374179)
@@ -34,8 +43,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 👌 IMPROVE: Have dry run [`0d6d1f0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0d6d1f0a7d1c920be1a724af28ec5029f06c3c63)
 - 👌 IMPROVE: Create assets [`3978946`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/39789469488c218e46ad59259908314e57f257a9)
 - 👌 IMPROVE: Ignore [`a2d7ed4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d7ed44d11653dd1893a54780ba67a8a9243b26)
-- 👌 IMPROVE: [PHP] - Color for Entity [`7092467`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/70924674af56e870ca35c8e1f2176bd9460e8792)
 - 👌 IMPROVE:  Better npm script [`effceb4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/effceb44888fa27d349b71b0b21ffbd36b07f015)
+- 👌 IMPROVE: [PHP] - Color for Entity [`7092467`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/70924674af56e870ca35c8e1f2176bd9460e8792)
 
 ![img](https://on.ahmda.ws/t5Xs/c)
 
@@ -48,6 +57,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 - 🐛 FIX: Changelog formatting [`b897046`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b8970461104976baf0d3046b05d763292e460663)
 - 🐛 FIX: No assets [`b67b4d7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b67b4d768e9d8cac711a62407cd3885093bba75e)
 - 🐛 FIX: Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd)
+- 🐛 FIX: no dry runs [`5487849`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/54878498bb0cf5caea45d909f789799ef03e058c)
 - 🐛 FIX: version update [`196f463`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/196f4635d679a7c467654b2e0d2d06490b9f8a6f)
 
 <br>
