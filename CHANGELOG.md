@@ -12,7 +12,22 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.31.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.31.0...1.31.0) RELEASE
+### [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.32.0...1.32.0) RELEASE
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### [1.31.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.30.0...1.31.0) RELEASE
+
+![img](https://on.ahmda.ws/t5AU/c)
+
+- 📦 NEW: NPM Ignore [`b77dc5b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b77dc5b8a45e872538e5ee3df3cabebd48efbf55)
+- 📦 NEW: [ITALLICS] All the awesome itallics live here [`ffad837`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ffad837cc52ef8fa8f5b288da6bdfc3a1d760cff)
+
+-  📖 DOC: Update the changelog [`2c92d6c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2c92d6c9a4f1e7c5c1198057b676a25ca1752a5c)
 
 <br>
 
