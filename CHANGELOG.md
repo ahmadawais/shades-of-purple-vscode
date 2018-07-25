@@ -12,7 +12,19 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.30.0...1.30.0) RELEASE
+### [1.31.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.31.0...1.31.0) RELEASE
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.29.0...1.30.0) RELEASE
+
+![img](https://on.ahmda.ws/t5Xs/c)
+
+- 🐛 FIX: Tag 1.30.0 [`b9f87d1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b9f87d1a770cefd9b8474741e90ef603bce30fad)
 
 <br>
 
