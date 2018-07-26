@@ -12,6 +12,24 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### [1.35.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.34.0...1.35.0) RELEASE
+
+-  📖 DOC: Update the changelog [`b13f676`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b13f676232ad45f5f69b2625378715880e9a0c7b)
+
+![img](https://on.ahmda.ws/tGtO/c)
+
+- 👌 IMPROVE: release automation [`7b85e68`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7b85e68295cf24181cf0b78d4fc7bed0a0e0e62a)
+
+![img](https://on.ahmda.ws/t5Xs/c)
+
+- 🐛 FIX: Changelog [`27fd273`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/27fd273f27291af8ae65652d8cd968c2e8d020fc)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### [1.34.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.33.0...1.34.0) RELEASE
 
 ![img](https://on.ahmda.ws/t5Xs/c)

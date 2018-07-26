@@ -6,10 +6,10 @@
 	"increment": "minor",
 	"beforeChangelogCommand": "auto-changelog",
 	"safeBump": false,
-	"afterReleaseCommand": "echo Successfully released ${version}.",
 	"src": {
 		"commitMessage": "🦄 Release %s",
-		"tagAnnotation": "🦄 Release %s"
+		"tagAnnotation": "🦄 Release %s",
+		"afterReleaseCommand": "echo Successfully released ${version}."
 	},
 	"npm": {
 		"publish": true
