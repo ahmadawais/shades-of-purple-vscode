@@ -12,7 +12,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.35.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.34.0...1.35.0) RELEASE
+### RELEASE: [1.35.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.34.0...1.35.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -32,7 +32,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.34.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.33.0...1.34.0) RELEASE
+### RELEASE: [1.34.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.33.0...1.34.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -44,7 +44,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.33.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.32.0...1.33.0) RELEASE
+### RELEASE: [1.33.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.32.0...1.33.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -61,7 +61,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.31.0...1.32.0) RELEASE
+### RELEASE: [1.32.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.31.0...1.32.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -83,7 +83,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.31.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.30.0...1.31.0) RELEASE
+### RELEASE: [1.31.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.30.0...1.31.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -100,7 +100,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.29.0...1.30.0) RELEASE
+### RELEASE: [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.29.0...1.30.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -112,7 +112,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0) RELEASE
+### RELEASE: [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -160,7 +160,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.27.0...1.28.0) RELEASE
+### RELEASE: [1.28.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.27.0...1.28.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -172,7 +172,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.27.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.26.0...1.27.0) RELEASE
+### RELEASE: [1.27.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.26.0...1.27.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -184,7 +184,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.26.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.25.0...1.26.0) RELEASE
+### RELEASE: [1.26.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.25.0...1.26.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -200,7 +200,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.25.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.24.0...1.25.0) RELEASE
+### RELEASE: [1.25.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.24.0...1.25.0)
 
 <br>
 
@@ -208,7 +208,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.24.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.23.0...1.24.0) RELEASE
+### RELEASE: [1.24.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.23.0...1.24.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -220,7 +220,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.23.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.22.0...1.23.0) RELEASE
+### RELEASE: [1.23.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.22.0...1.23.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -236,7 +236,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.21.0...1.22.0) RELEASE
+### RELEASE: [1.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.21.0...1.22.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -252,7 +252,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.20.0...1.21.0) RELEASE
+### RELEASE: [1.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.20.0...1.21.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -272,7 +272,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0) RELEASE
+### RELEASE: [1.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.19.0...1.20.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
@@ -284,7 +284,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.18.0...1.19.0) RELEASE
+### RELEASE: [1.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.18.0...1.19.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -296,7 +296,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.17.0...1.18.0) RELEASE
+### RELEASE: [1.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.17.0...1.18.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -308,7 +308,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.16.0...1.17.0) RELEASE
+### RELEASE: [1.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.16.0...1.17.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -320,7 +320,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.15.0...1.16.0) RELEASE
+### RELEASE: [1.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.15.0...1.16.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -338,7 +338,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.14.0...1.15.0) RELEASE
+### RELEASE: [1.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.14.0...1.15.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -354,7 +354,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.13.0...1.14.0) RELEASE
+### RELEASE: [1.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.13.0...1.14.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -366,7 +366,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.12.0...1.13.0) RELEASE
+### RELEASE: [1.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.12.0...1.13.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -383,7 +383,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.11.0...1.12.0) RELEASE
+### RELEASE: [1.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.11.0...1.12.0)
 
 <br>
 
@@ -391,7 +391,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.10.0...1.11.0) RELEASE
+### RELEASE: [1.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.10.0...1.11.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -403,7 +403,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.9.0...1.10.0) RELEASE
+### RELEASE: [1.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.9.0...1.10.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -434,7 +434,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.8.0...1.9.0) RELEASE
+### RELEASE: [1.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.8.0...1.9.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -446,7 +446,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0) RELEASE
+### RELEASE: [1.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.7.0...1.8.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
@@ -459,7 +459,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.6.0...1.7.0) RELEASE
+### RELEASE: [1.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.6.0...1.7.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
@@ -480,7 +480,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.5.0...1.6.0) RELEASE
+### RELEASE: [1.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.5.0...1.6.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -499,7 +499,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.2.0...1.5.0) RELEASE
+### RELEASE: [1.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.2.0...1.5.0)
 
 <br>
 
@@ -507,7 +507,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### [1.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.1.0...1.2.0) RELEASE
+### RELEASE: [1.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.1.0...1.2.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -535,7 +535,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### 1.1.0 RELEASE
+### RELEASE: 1.1.0
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
