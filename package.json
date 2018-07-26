@@ -43,14 +43,13 @@
 	"scripts": {
 		"start": "nodemon --exec vsce package",
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "release-it && auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push && npx vsce publish",
+		"release": "release-it && npx vsce publish",
 		"release-dry": "release-it --dry-run"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
 		"template": "clTemplate.hbs",
 		"unreleased": false,
-		"commitLimit": false,
-		"package": true
+		"commitLimit": false
 	}
 }

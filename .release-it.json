@@ -4,6 +4,9 @@
 	"force": true,
 	"non-interactive": true,
 	"increment": "minor",
+	"beforeChangelogCommand": "auto-changelog",
+	"safeBump": false,
+	"afterReleaseCommand": "echo Successfully released ${version}.",
 	"src": {
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
