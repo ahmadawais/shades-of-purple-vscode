@@ -49,7 +49,14 @@
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
 		"template": "clTemplate.hbs",
-		"unreleased": false,
-		"commitLimit": false
+		"commitLimit": false,
+		"package": true,
+		"replaceText": {
+			"FIX: ": "",
+			"NEW: ": "",
+			"IMPROVE: ": "",
+			"DOC: ": ""
+
+		}
 	}
 }
