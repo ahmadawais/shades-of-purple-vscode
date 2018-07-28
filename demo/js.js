@@ -1,8 +1,7 @@
 /**
  * JavaScript is fun
  *
- * Spent a whole night building this theme
- * now my neck hurts. Time to hit the bed.
+ * Shades of purple is genius.
  *
  * @param String hello Hello.
  * @param Number count Count of hells said.

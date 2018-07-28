@@ -433,7 +433,7 @@
 			"name": "[Support] Variable Property DOM Colors",
 			"scope": "support.variable.property.dom",
 			"settings": {
-				"foreground": "#A599E9"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -584,6 +584,13 @@
 			}
 		},
 		{
+			"name": "[HTML/PUG] Equals Sign",
+			"scope": ["meta.tag.inline.any.html", "meta.tag.other"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
 			"name": "[JSON] - Color for Support",
 			"scope": "source.json support",
 			"settings": {
@@ -723,14 +730,14 @@
 			"name": "[JAVASCRIPT] - Parameters",
 			"scope": "variable.parameter.js",
 			"settings": {
-				"foreground": "#FB94FF"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
 			"name": "[PYTHON] - Color for Self Argument",
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
-				"foreground": "#FB94FF"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -889,6 +896,27 @@
 			}
 		},
 		{
+			"name": "[PUG] - Types",
+			"scope": ["storage.type.function.pug"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[PUG] - Var Params",
+			"scope": ["variable.parameter.function.js"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[PUG] - Imports",
+			"scope": "variable.control.import.include.pug",
+			"settings": {
+				"foreground": "#92FC79"
+			}
+		},
+		{
 			"name": "[PUG] - Color for String Interpolated",
 			"scope": "text.jade string.interpolated",
 			"settings": {
@@ -979,7 +1007,8 @@
 				"markup.quote.markdown meta.paragraph.markdown",
 				"markup.italic.markdown",
 				"text.jade entity.other.attribute-name.tag",
-				"keyword.control.from.js"
+				"keyword.control.from.js",
+				"entity.other.attribute-name.tag.pug"
 			],
 			"settings": {
 				"fontStyle": "italic"
