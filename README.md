@@ -130,32 +130,25 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ## Screenshots: Shades of Purple Theme
 
 > ### Markdown Syntax
-
-![markdown](https://on.ahmda.ws/tIZ6/c)
+> ![markdown](https://on.ahmda.ws/tIZ6/c)
 
 > ### JavaScript Syntax
-
-![JavaScript](https://on.ahmda.ws/tITd/c)
+> ![JavaScript](https://on.ahmda.ws/tITd/c)
 
 > ### PHP Syntax
-
-![PHP](https://on.ahmda.ws/tJch/c)
+> ![PHP](https://on.ahmda.ws/tJch/c)
 
 > ### HTML Syntax
-
-![HTML](https://on.ahmda.ws/tJ2Y/c)
+> ![HTML](https://on.ahmda.ws/tJ2Y/c)
 
 > ### Pug Syntax
-
-![Pug](https://on.ahmda.ws/tJdq/c)
+> ![Pug](https://on.ahmda.ws/tJdq/c)
 
 > ### Python Syntax
-
-![Python](https://on.ahmda.ws/tJ3u/c)
+> ![Python](https://on.ahmda.ws/tJ3u/c)
 
 > ### Go Syntax
-
-![Go](https://on.ahmda.ws/tJDr/c)
+> ![Go](https://on.ahmda.ws/tJDr/c)
 
 <br>
 
