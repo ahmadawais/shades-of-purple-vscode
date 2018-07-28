@@ -1,10 +1,10 @@
+<div align="center">
 <img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" />
 
-<h1 align="center">Shades of Purple Theme for VS Code</h1>
+# Shades of Purple Theme for VS Code
 
-<div align="center">
-
-[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple) [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
 
 </div>
 
@@ -128,6 +128,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ![Screenshots](https://on.ahmda.ws/tJeg/c)
 
 ## Screenshots: Shades of Purple Theme
+<div align="center">
 
 ![Markdown Syntax](https://img.shields.io/badge/Syntax-Markdown-gray.svg?colorB=5532F3)
 ![markdown](https://on.ahmda.ws/tIZ6/c)
@@ -186,6 +187,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ![Go Syntax](https://img.shields.io/badge/Syntax-Go-gray.svg?colorB=5532F3)
 ![Go](https://on.ahmda.ws/tJDr/c)
 
+</div>
 <br>
 
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
