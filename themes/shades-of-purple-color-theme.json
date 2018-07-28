@@ -377,14 +377,14 @@
 			"name": "[Punctuation] — Color for Punctuation Parameters",
 			"scope": "punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
 			"name": "[Punctuation] — Color for Punctuation Template Expression",
 			"scope": "punctuation.definition.template-expression",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 			"name": "[INI] - Color for Punctuation Definition",
 			"scope": "source.ini punctuation.definition",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 				"source.stylus support.constant"
 			],
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 				"source.stylus punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -653,12 +653,8 @@
 				"storage.type.js",
 				"storage.type.class.js",
 				"storage.modifier.js",
-				"keyword.control.flow.js",
-				"keyword.control.import.js",
-				"keyword.control.export.js",
-				"keyword.control.from.js",
-				"keyword.operator.logical.js",
-				"keyword.operator.relational.js"
+				"keyword.control",
+				"keyword.operator"
 			],
 			"settings": {
 				"foreground": "#FF9D00"
@@ -676,6 +672,13 @@
 			"scope": ["keyword.operator.assignment.tsx", "keyword.operator.assignment.jsx"],
 			"settings": {
 				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] Keyword Operator Assignment",
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#FF9D00"
 			}
 		},
 		{
@@ -756,7 +759,7 @@
 			"name": "[TYPESCRIPT] - Color for Punctuation Arrow Parameters",
 			"scope": "meta.arrow.ts punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -891,7 +894,7 @@
 			"name": "[PUG] - Color for String Interpolated",
 			"scope": "text.jade string.interpolated",
 			"settings": {
-				"foreground": "#ffee80"
+				"foreground": "#FFEE80"
 			}
 		},
 		{

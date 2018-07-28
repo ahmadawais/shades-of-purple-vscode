@@ -21,6 +21,7 @@ class vsc extends React.Component {}
 const ahmad = function nameAhmad() {
 	return 'Ahmad';
 };
+ahmad();
 
 // Let.
 let awais = () => 'Awais';
@@ -39,6 +40,7 @@ maedah('Maedah Batool');
 
 // Regex.
 const coursePlatformURL = new RegExp('/' + window.location.host + '/');
+console.log('coursePlatformURL', coursePlatformURL);
 
 import { btnBarSvgSpeed } from './constants';
 
