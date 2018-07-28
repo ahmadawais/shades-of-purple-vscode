@@ -654,6 +654,20 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT REACT] — JSX HTML",
+			"scope": ["punctuation.definition.tag.begin.js", "punctuation.definition.tag.end.js"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT REACT] — JSX HTML Children Text",
+			"scope":"meta.jsx.children.js",
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
 			"name": "[JAVASCRIPT] — Storage types",
 			"scope": [
 				"storage.type.js",
