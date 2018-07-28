@@ -1,4 +1,4 @@
-<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif" />
+<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/3p2r0M1c0Y32270Q2a19/SOPv2-1920x1080-Small.gif" />
 
 <h1 align="center">Shades of Purple Theme for VS Code</h1>
 
@@ -122,6 +122,38 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ```
 
 💜 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
+
+<br>
+
+## Screenshots: Shades of Purple Theme
+
+### Markdown Syntax
+
+![markdown](https://on.ahmda.ws/tIZ6/c)
+
+### JavaScript Syntax
+
+![JavaScript](https://on.ahmda.ws/tITd/c)
+
+### PHP Syntax
+
+![PHP](https://on.ahmda.ws/tJch/c)
+
+### HTML Syntax
+
+![HTML](https://on.ahmda.ws/tJ2Y/c)
+
+### Pug Syntax
+
+![Pug](https://on.ahmda.ws/tJdq/c)
+
+### Python Syntax
+
+![Python](https://on.ahmda.ws/tJ3u/c)
+
+### Go Syntax
+
+![Go](https://on.ahmda.ws/tJDr/c)
 
 <br>
 
