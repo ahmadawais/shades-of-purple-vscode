@@ -125,6 +125,8 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
+![Screenshots](https://on.ahmda.ws/tJeg/c)
+
 ## Screenshots: Shades of Purple Theme
 
 ### Markdown Syntax
