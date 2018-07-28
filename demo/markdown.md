@@ -37,4 +37,5 @@ const sum = (x, y) => x + y;
 // PHP Sum functions.
 function sum( x, y ) { return x + y; }
 ```
+
 Cool markdown, the syntax is hidden and you can just write stuff.
