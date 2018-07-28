@@ -4,8 +4,9 @@
  * Spent a whole night building this theme
  * now my neck hurts. Time to hit the bed.
  *
- * @param hello
- * @return bye
+ * @param String hello Hello.
+ * @return Boolean
+ * @since 1.0.0
  */
 
 const hello = 'Hey, hello there there there there';

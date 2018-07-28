@@ -340,7 +340,7 @@
 		},
 		{
 			"name": "[Keyword] — The main color for Keyword",
-			"scope": "keyword, storage.type.class.js",
+			"scope": ["keyword, storage.type.class.js"],
 			"settings": {
 				"foreground": "#ff9d00"
 			}
@@ -624,6 +624,13 @@
 			"scope": "storage.type.extends.js",
 			"settings": {
 				"foreground": "#ff9d00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Docs Keywords",
+			"scope": "punctuation.definition.block.tag.jsdoc",
+			"settings": {
+				"foreground": "#FAD000",
 			}
 		},
 		{
