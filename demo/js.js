@@ -16,6 +16,7 @@ const hello = 'Hey, hello there there there there';
 
 // Class.
 class vsc extends React.Component {}
+console.log(vsc);
 
 // Const.
 const ahmad = function nameAhmad() {

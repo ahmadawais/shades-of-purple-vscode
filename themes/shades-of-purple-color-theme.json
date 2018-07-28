@@ -924,17 +924,43 @@
 			}
 		},
 		{
-			"name": "[PHP] - Color for Variables",
-			"scope": "variable.other.php",
+			"name": "[PHP] - Docs Keywords",
+			"scope": ["keyword.other.phpdoc.php"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[PHP] - Functions",
+			"scope": [
+				"entity.name.function.php",
+				"support.function.basic_functions.php",
+				"meta.function-call.php",
+				"variable.other.property.php"
+			],
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
+			"name": "[PHP] - Varaiables",
+			"scope": ["variable.other.php", "punctuation.definition.variable.php"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
 			"name": "[PHP] - Color for Storage Modifiers",
-			"scope": "storage.modifier.php",
+			"scope": ["storage.modifier.php", "keyword.other.namespace.php"],
 			"settings": {
 				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[PHP] - Keywords for definition",
+			"scope": ["storage.type.function.php", "meta.function.parameters.php"],
+			"settings": {
+				"foreground": "#FB94FF"
 			}
 		},
 		{
