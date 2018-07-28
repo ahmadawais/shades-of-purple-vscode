@@ -11,7 +11,6 @@
 <br>
 
 
-
 <table width='100%' align="center">
     <tr>
         <td align='left' width='100%' colspan='2'>
@@ -53,7 +52,6 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 </h4>
 
 
-
 <br>
 
 ![Install](https://on.ahmda.ws/qWVC/c)
@@ -87,7 +85,6 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
 _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
-
 
 ```js
 
@@ -125,7 +122,6 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ```
 
 💜 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
-
 
 <br>
 
