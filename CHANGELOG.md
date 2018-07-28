@@ -11,6 +11,40 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.0.0...2.1.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Go Lang Syntax [`ca668b7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ca668b7af5e452f3b0230ab79faa725c7d3c59ed) <br>
+> 📦 YML Formatting [`8f6fa28`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8f6fa28f754912c21a0bc7c60e8731665df0148e) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Syntax Demo [`faaa12c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/faaa12cc9ac5e5d78f33ab286216800ec7024021) <br>
+> 👌 Formatting [`9efb2a3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9efb2a3b454b1f0757737f52020c66e15ea055fa) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Pug [`42893eb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/42893ebce70f8a8afb152447b8c3dad13e28e88e) <br>
+> 🐛 Formatting across files [`fa55854`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fa55854113eede335fd81a02a17930a9e81fd222) <br>
+> 🐛 Lint Mdown [`de26dfb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/de26dfb9dcf3dd13414080571a69598f34aa50d9) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Sheilds formatting [`be45d82`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/be45d8255efbfb3b1b31b8619491b05cedfc9694) <br>
+> 📖 Screenshots [`9e642e1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e642e1e7de90f6d7e7c6bccca52fc72f9bfe824) <br>
+> 📖 Formatting resizing [`e8e0c9a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e8e0c9afd1658127b2c1e6ccf20a3932ae5f600d) <br>
+> 📖 Formatting resizing [`9e5d24f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e5d24f41a9c53b13eca4322cfbb2fc891552295) <br>
+> 📖 Img name Upper case [`fa370ef`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fa370eff55e6b3393e270e5f61843a54bf18f994) <br>
+> 📖 Sheilds [`ee97213`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ee97213675f00a5e63d586fa7d3907d3ccd68519) <br>
+> 📖 formatting [`e39fa66`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e39fa66b9a5ed81dfb7e281b6c7b34e1555fbf3c) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.36.0...2.0.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
