@@ -640,13 +640,6 @@
 			}
 		},
 		{
-			"name": "[JAVASCRIPT] — ES6 Keywords",
-			"scope": ["variable.other.readwrite.alias.js", "entity.other.inherited-class.js"],
-			"settings": {
-				"foreground": "#FAD000"
-			}
-		},
-		{
 			"name": "[JAVASCRIPT] — Doc Var Types",
 			"scope": ["variable.other.jsdoc", "entity.name.type.instance.jsdoc"],
 			"settings": {
@@ -718,7 +711,9 @@
 				"entity.other.inherited-class.tsx",
 				"entity.other.inherited-class.jsx",
 				"variable.other.readwrite.alias.tsx",
+				"variable.other.readwrite.alias.ts",
 				"variable.other.readwrite.alias.jsx",
+				"variable.other.readwrite.alias.js",
 				"variable.other.object.tsx",
 				"variable.other.object.jsx",
 				"support.class.component.tsx",
