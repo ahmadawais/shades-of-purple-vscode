@@ -532,7 +532,25 @@
 		},
 		{
 			"name": "[HTML] - Color for Entity Name",
-			"scope": "text.html.basic entity.name",
+			"scope": [
+				"text.html.basic entity.name",
+				"punctuation.definition.tag.html",
+				"entity.name.tag.inline.any.html",
+				"meta.tag.other.html",
+				"meta.tag.inline.any.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"entity.name.tag",
+				"meta.tag.other.html",
+				"meta.tag.other.js",
+				"meta.tag.other.tsx",
+				"entity.name.tag.tsx",
+				"entity.name.tag.js",
+				"entity.name.tag",
+				"meta.tag.js",
+				"meta.tag.tsx",
+				"meta.tag.html"
+			],
 			"settings": {
 				"foreground": "#9effff"
 			}
