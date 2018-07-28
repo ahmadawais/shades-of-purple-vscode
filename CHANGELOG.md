@@ -11,7 +11,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [1.36.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.36.0...1.36.0)
+### RELEASE: [2.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.36.0...2.0.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -36,6 +36,29 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 🐛 duplicate rules [`ea9f334`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ea9f334fdb19c59b8f5ebe8d1f3dad33b5c16af4) <br>
 > 🐛 markdown lint [`190257a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/190257ab92395b3979698d971012ab643474d41b) <br>
 > 🐛 wrong download reports [`0721b99`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0721b99aaa3ee09dd8d52572d2f0c1b43c697a1c) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`3032f0b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3032f0b358e654abbf208e655627832180a641a4) <br>
+> 📖 fix spacing [`eac3cfa`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/eac3cfae171c46e1e336cb4c5645aea5a117cc89) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [1.36.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.35.0...1.36.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog ready [`0a4f9e4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a4f9e487da771f2fb65f0e51e48674df835323c) <br>
+> 📖 Changelog quote with br [`881207f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/881207f8102850a80f9e90df42dae48e235b929c) <br>
+> 📖 Changelog quote [`3eb5d72`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3eb5d7256aab254fa9f95cb61d0cbfc855cbd069) <br>
+> 📖 Changelog [`1ae7e8f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1ae7e8f6a413367cba0d90f47acc7542ff1f41f7) <br>
+> 📖 Changelog release before [`1bb01ce`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1bb01ce82bc8e1e8aad6714e5d339f29e50cc022) <br>
+> 📖 Changelog [`9354de2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9354de24b5976e86cee9f9231499efe20ff8c31a) <br>
+> 📖 Changelog [`9171186`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/91711864ecb63311f3d1f74c938ee36e22629b0a) <br>
 
 <br>
 

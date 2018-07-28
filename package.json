@@ -2,7 +2,7 @@
 	"name": "shades-of-purple",
 	"displayName": "Shades of Purple",
 	"description": "⚡ A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.",
-	"version": "1.36.0",
+	"version": "2.0.0",
 	"publisher": "ahmadawais",
 	"engines": {
 		"vscode": "^1.15.0"
