@@ -3,7 +3,6 @@
 All notable changes in this project's [released versions](https://github.com/ahmadawais/shades-of-purple-vscode/releases) are documented in this file.
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Installs](https://img.shields.io/vscode-marketplace/d/ahmadawais.shades-of-purple.svg?label=Developers&colorB=b362ff)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 <br>
@@ -12,17 +11,31 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [1.36.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.35.0...1.36.0)
+### RELEASE: [1.36.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.36.0...1.36.0)
 
-![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
->  📖 Changelog ready [`0a4f9e4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a4f9e487da771f2fb65f0e51e48674df835323c) <br>
-> 📖 Changelog quote with br [`881207f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/881207f8102850a80f9e90df42dae48e235b929c) <br>
-> 📖 Changelog quote [`3eb5d72`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3eb5d7256aab254fa9f95cb61d0cbfc855cbd069) <br>
-> 📖 Changelog [`1ae7e8f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1ae7e8f6a413367cba0d90f47acc7542ff1f41f7) <br>
-> 📖 Changelog release before [`1bb01ce`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1bb01ce82bc8e1e8aad6714e5d339f29e50cc022) <br>
-> 📖 Changelog [`9354de2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9354de24b5976e86cee9f9231499efe20ff8c31a) <br>
-> 📖 Changelog [`9171186`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/91711864ecb63311f3d1f74c938ee36e22629b0a) <br>
+> 📦 Scripts for releasing [`9f58489`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9f58489136d9c02c5ea89bbe35b5affb8c6f8b4d) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 PHP Vars and Functions Highlight [`361bd10`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/361bd101687a0531bf5822a1b6431a00920aaf7c) <br>
+> 👌 Uppercase all colors [`347b2eb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/347b2eba6d2abdcd8c40a91b51fbb37f6e63b4fe) <br>
+> 👌 Pug syntax [`531cc05`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/531cc059588e9b08d1061eee700b855a20aa50e2) <br>
+> 👌 Params [`94b02df`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/94b02dff4dd6563a12b01fb55a916232367b2220) <br>
+> 👌 JS Doc param [`9c2c184`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9c2c184b28beee868de4a81fdde35fdf85f834cf) <br>
+> 👌 Much better HTML Syntax [`d7d2b4c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d7d2b4c4c5e996dcf847af57b69b45491484f278) <br>
+> 👌 Uppercase colors [`3c8dd34`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3c8dd34ed2c80a6fccfd9a10d11e3d47046e77a2) <br>
+> 👌 React component syntax [`c69a9b5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c69a9b584e34e1c4ca802445082043ade2634361) <br>
+> 👌 Python functions syntax [`4b96f50`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4b96f50e68c804a423ad50895acf9f76bcedc302) <br>
+> 👌 Keywords in JS Doc [`099de44`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/099de441c01588db595237ea86c7fa5d1faac61a) <br>
+> 👌 Typescript variable.other.readwrite.alias.js/ts [`c9cc059`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c9cc0592f61ad1d711d906714c0064deb9048aae) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 duplicate rules [`ea9f334`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ea9f334fdb19c59b8f5ebe8d1f3dad33b5c16af4) <br>
+> 🐛 markdown lint [`190257a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/190257ab92395b3979698d971012ab643474d41b) <br>
+> 🐛 wrong download reports [`0721b99`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0721b99aaa3ee09dd8d52572d2f0c1b43c697a1c) <br>
 
 <br>
 
