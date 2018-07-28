@@ -10,7 +10,6 @@
 
 <br>
 
-
 <table width='100%' align="center">
     <tr>
         <td align='left' width='100%' colspan='2'>
@@ -51,7 +50,6 @@ Watch the following video on YouTube to find out more about Shades of Purple the
   📺 Watch The Video To Learn More → </a>
 </h4>
 
-
 <br>
 
 ![Install](https://on.ahmda.ws/qWVC/c)
@@ -80,14 +78,13 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 ![Tips](https://on.ahmda.ws/qVjy/c)
 
-## Best Custom Settings!
+## Best Custom Settings
 
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
 _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
 
-```js
-
+```json
 // Theme Setup.
   "workbench.colorTheme": "Shades of Purple",
   "workbench.iconTheme": "vscode-icons",
@@ -118,10 +115,9 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
   "workbench.fontAliasing": "auto",
   "terminal.integrated.macOptionIsMeta": true,
   "workbench.statusBar.feedback.visible": false,
-
 ```
 
-💜 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
+🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
 
 <br>
 
@@ -209,14 +205,11 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
-
 I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web Developer and a regular core contributor at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WordPress Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [WPCouple.com](https://WPCouple.com/).
 
 If you'd like to get insights into our love for open source software, professional full stack development, WordPress community, the growth of JavaScript or growing a family, building, and bootstrapping a business, then subscribe to our premium newsletter called ↣ [The WordPress Takeaway](https://WPTakeaway.club)!
 
-
 #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
-
 
 If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
 
@@ -225,7 +218,6 @@ If you'd like us to keep producing professional free and open source software (F
 ![Partners](https://on.ahmda.ws/osEJ/c)
 
 ### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
-
 
 This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible.
 
