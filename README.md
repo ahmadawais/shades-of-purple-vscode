@@ -130,7 +130,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ## Screenshots: Shades of Purple Theme
 <div align="center">
 
-![Markdown Syntax](https://img.shields.io/badge/Syntax-Markdown-gray.svg?colorB=5532F3)
+![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
 ![markdown](https://on.ahmda.ws/tIZ6/c)
 
 <br>
@@ -139,7 +139,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![JavaScript Syntax](https://img.shields.io/badge/Syntax-JavaScript-gray.svg?colorB=5532F3)
+![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
 ![JavaScript](https://on.ahmda.ws/tITd/c)
 
 <br>
@@ -148,7 +148,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![PHP Syntax](https://img.shields.io/badge/Syntax-PHP-gray.svg?colorB=5532F3)
+![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
 ![PHP](https://on.ahmda.ws/tJch/c)
 
 <br>
@@ -157,7 +157,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![HTML Syntax](https://img.shields.io/badge/Syntax-HTML-gray.svg?colorB=5532F3)
+![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
 ![HTML](https://on.ahmda.ws/tJ2Y/c)
 
 <br>
@@ -166,7 +166,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Pug Syntax](https://img.shields.io/badge/Syntax-Pug-gray.svg?colorB=5532F3)
+![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
 ![Pug](https://on.ahmda.ws/tJdq/c)
 
 <br>
@@ -175,7 +175,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Python Syntax](https://img.shields.io/badge/Syntax-Python-gray.svg?colorB=5532F3)
+![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
 ![Python](https://on.ahmda.ws/tJ3u/c)
 
 <br>
@@ -184,7 +184,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Go Syntax](https://img.shields.io/badge/Syntax-Go-gray.svg?colorB=5532F3)
+![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
 ![Go](https://on.ahmda.ws/tJDr/c)
 
 </div>
