@@ -741,6 +741,17 @@
 			}
 		},
 		{
+			"name": "[PYTHON] - Functions",
+			"scope": [
+				"meta.function-call.python",
+				"meta.function-call.generic.python",
+				"support.function.builtin.python"
+			],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
 			"name": "[TYPESCRIPT] - Color for Entity Name Type",
 			"scope": "source.ts entity.name.type",
 			"settings": {
@@ -1008,7 +1019,8 @@
 				"markup.italic.markdown",
 				"text.jade entity.other.attribute-name.tag",
 				"keyword.control.from.js",
-				"entity.other.attribute-name.tag.pug"
+				"entity.other.attribute-name.tag.pug",
+				"keyword.control.flow.python"
 			],
 			"settings": {
 				"fontStyle": "italic"
