@@ -655,7 +655,7 @@
 		},
 		{
 			"name": "[JAVASCRIPT REACT] — JSX HTML Children Text",
-			"scope":"meta.jsx.children.js",
+			"scope": "meta.jsx.children.js",
 			"settings": {
 				"foreground": "#FFFFFF"
 			}
@@ -1000,6 +1000,15 @@
 		{
 			"name": "[PHP] - Color for Storage Modifiers",
 			"scope": ["storage.modifier.php", "keyword.other.namespace.php"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[YML]",
+			"scope": [
+				"punctuation.definition.block.sequence.item.yaml",
+			],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
