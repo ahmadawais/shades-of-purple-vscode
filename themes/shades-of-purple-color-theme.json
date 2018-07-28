@@ -620,9 +620,9 @@
 		},
 		{
 			"name": "[JAVASCRIPT] - Color for Inherited Component",
-			"scope": "entity.other.inherited-class.js",
+			"scope": ["entity.other.inherited-class"],
 			"settings": {
-				"foreground": "#CCC"
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -684,7 +684,7 @@
 			"name": "Typescript React Assignment Operator",
 			"scope": ["keyword.operator.assignment.tsx", "keyword.operator.assignment.jsx"],
 			"settings": {
-				"foreground": "#9EFFFF"
+				"foreground": "#FF9D00"
 			}
 		},
 		{
@@ -706,11 +706,8 @@
 			"scope": [
 				"entity.name.type.class.tsx",
 				"entity.name.type.class.jsx",
-				"entity.name.type.module.tsx",
-				"entity.name.type.module.jsx",
-				"entity.other.inherited-class.tsx",
-				"entity.other.inherited-class.jsx",
 				"variable.other.readwrite.alias.tsx",
+				"variable.other.readwrite.tsx",
 				"variable.other.readwrite.alias.ts",
 				"variable.other.readwrite.alias.jsx",
 				"variable.other.readwrite.alias.js",
@@ -721,11 +718,17 @@
 				"entity.name.type.tsx",
 				"entity.name.type.jsx",
 				"variable.other.readwrite.js",
-				"variable.other.object.js",
-				"variable.other.property.js"
+				"variable.other.object.js"
 			],
 			"settings": {
 				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - .something",
+			"scope": ["variable.other.property", "variable.other.object.property"],
+			"settings": {
+				"foreground": "#FFEE80"
 			}
 		},
 		{
@@ -737,7 +740,7 @@
 		},
 		{
 			"name": "[JAVASCRIPT] - Parameters",
-			"scope": "variable.parameter.js",
+			"scope": ["variable.parameter"],
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
@@ -984,7 +987,7 @@
 				"entity.name.function.php",
 				"support.function.basic_functions.php",
 				"meta.function-call.php",
-				"variable.other.property.php"
+				"variable.other.property"
 			],
 			"settings": {
 				"foreground": "#FAD000"
@@ -1006,9 +1009,7 @@
 		},
 		{
 			"name": "[YML]",
-			"scope": [
-				"punctuation.definition.block.sequence.item.yaml",
-			],
+			"scope": ["punctuation.definition.block.sequence.item.yaml"],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -1018,6 +1019,38 @@
 			"scope": ["storage.type.function.php", "meta.function.parameters.php"],
 			"settings": {
 				"foreground": "#FB94FF"
+			}
+		},
+		{
+			"name": "[GO] - Keywords for definition",
+			"scope": ["keyword.package.go", "keyword.import.go"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[GO] - Functions",
+			"scope": ["keyword.function.go"],
+			"settings": {
+				"foreground": "#FB94FF"
+			}
+		},
+		{
+			"name": "[GO] - Variables",
+			"scope": ["variable.other.assignment.go"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[GO] - Punctuation",
+			"scope": [
+				"punctuation.definition.string.begin.go",
+				"punctuation.definition.string.end.go",
+				"support.function.go"
+			],
+			"settings": {
+				"foreground": "#FAD000"
 			}
 		},
 		{
@@ -1037,8 +1070,7 @@
 				"markup.italic.markdown",
 				"text.jade entity.other.attribute-name.tag",
 				"keyword.control.from.js",
-				"entity.other.attribute-name.tag.pug",
-				"keyword.control.flow.python"
+				"entity.other.attribute-name.tag.pug"
 			],
 			"settings": {
 				"fontStyle": "italic"
