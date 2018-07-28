@@ -44,6 +44,8 @@
 		"start": "nodemon --exec vsce package",
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
 		"release": "release-it && npx vsce publish",
+		"release-major": "release-it major && npx vsce publish",
+		"release-patch": "release-it patch && npx vsce publish",
 		"release-dry": "release-it --dry-run"
 	},
 	"auto-changelog": {
