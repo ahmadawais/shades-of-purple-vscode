@@ -30,13 +30,13 @@ Thanks to VSCode team at Microsoft for creating such an awesome code editor. Als
 Say 👋 to me on Twitter via `@MrAhmadAwais`
 
 ```JS
-	// JavaScript Sum functions.
-	const sum = (x, y) => x + y;
+// JavaScript Sum functions.
+const sum = (x, y) => x + y;
 ```
 
 ```PHP
-	// PHP Sum functions.
-	function sum( x, y ) { return x + y; }
+// PHP Sum functions.
+function sum( x, y ) { return x + y; }
 ```
 
 Cool markdown, the syntax is hidden and you can just write stuff.
