@@ -26,7 +26,6 @@
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration.
 
-
 Say 👋 to me on Twitter via `@MrAhmadAwais`
 
 ```JS
