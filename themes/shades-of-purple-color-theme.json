@@ -157,7 +157,7 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
 		"extensionButton.prominentBackground": "#5D37F0",
 		"extensionButton.prominentForeground": "#FFFFFF",
-		"extensionButton.prominentHoverBackground": "#ff9d00",
+		"extensionButton.prominentHoverBackground": "#FF9D00",
 		"focusBorder": "#1E1E3F",
 		"foreground": "#A599E9",
 
@@ -342,14 +342,14 @@
 			"name": "[Keyword] — The main color for Keyword",
 			"scope": ["keyword, storage.type.class.js"],
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[Meta] — The main color for Meta",
 			"scope": "meta",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 			"name": "[Support] Function Colors",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#FF9D00"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 			"name": "[INI] - Color for Punctuation Separator",
 			"scope": "source.ini punctuation.separator",
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#FF9D00"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"name": "[CSS] - Color for Variable",
 			"scope": ["source.css variable", "source.stylus variable"],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -552,7 +552,7 @@
 				"meta.tag.html"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -621,23 +621,44 @@
 		},
 		{
 			"name": "[JAVASCRIPT] - Color for React Extends keyword",
-			"scope": "storage.type.extends.js",
+			"scope": ["storage.type.extends.js", "storage.type.class.jsdoc"],
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] — Docs Keywords",
 			"scope": "punctuation.definition.block.tag.jsdoc",
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Docs Type",
+			"scope": "variable.other.jsdoc",
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Storage types",
+			"scope": ["storage.type.js", "storage.type.class.js", "storage.modifier.js", "keyword.control.flow.js"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] — Docs Useless stuff",
+			"scope": "punctuation.definition.bracket.curly",
+			"settings": {
+				"foreground": "#494685"
 			}
 		},
 		{
 			"name": "Typescript React Assignment Operator",
 			"scope": ["keyword.operator.assignment.tsx", "keyword.operator.assignment.jsx"],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -669,7 +690,7 @@
 				"variable.other.property.js"
 			],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -718,7 +739,7 @@
 			"name": "[TYPESCRIPT] - Color for Storage",
 			"scope": "source.ts storage",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -812,14 +833,14 @@
 			"name": "[MARKDOWN] - Color for Link Address",
 			"scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Color for Inline Code",
 			"scope": ["fenced_code.block.language", "markup.inline.raw.markdown"],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -839,7 +860,7 @@
 			"name": "[PUG] - Color for Entity Name",
 			"scope": "text.jade entity.name",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -853,14 +874,14 @@
 			"name": "[C#] - Color for Annotations",
 			"scope": "storage.type.cs",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
 			"name": "[C#] - Color for Properties",
 			"scope": "entity.name.variable.property.cs",
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -874,7 +895,7 @@
 			"name": "[PHP] - Color for Entity",
 			"scope": ["source.php entity", "variable.other.class.php"],
 			"settings": {
-				"foreground": "#9effff"
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -888,7 +909,7 @@
 			"name": "[PHP] - Color for Storage Modifiers",
 			"scope": "storage.modifier.php",
 			"settings": {
-				"foreground": "#ff9d00"
+				"foreground": "#FF9D00"
 			}
 		},
 		{

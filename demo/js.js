@@ -5,24 +5,35 @@
  * now my neck hurts. Time to hit the bed.
  *
  * @param String hello Hello.
+ * @param Number count Count of hells said.
+ * @param Boolean isBye True or False.
  * @return Boolean
  * @since 1.0.0
  */
 
+// String.
 const hello = 'Hey, hello there there there there';
 
+// Class.
 class vsc extends React.Component {}
 
-const ahmad = function() {};
-let awais = function() {};
-awais = 01;
+// Const.
+const ahmad = function nameAhmad() {
+	return 'Ahmad';
+};
 
-const ahmad = 100;
+// Let.
+let awais = () => 'Awais';
+console.log(awais);
 
-function maedah() {
-	return true;
+/**
+ * Maedah's Function.
+ *
+ * @param String name
+ */
+function maedah(name) {
+	return name;
 }
 
-const batool = () => {};
-
-console.log(ahmad, awais);
+// Regex.
+const coursePlatformURL = new RegExp('/' + window.location.host + '/');
