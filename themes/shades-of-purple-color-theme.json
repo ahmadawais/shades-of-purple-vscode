@@ -38,7 +38,7 @@
 		// Contrast.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
 		"contrastActiveBorder": null,
-		"contrastBorder": "#ffffff00",
+		"contrastBorder": "#FFFFFF00",
 
 		// Base Colors.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_base-colors
@@ -89,7 +89,7 @@
 		// Errors and warnings:
 		// "editorError.border": "#ec3a37f5",
 		"editorError.foreground": "#ec3a37f5",
-		"editorWarning.border": "#ffffff00",
+		"editorWarning.border": "#FFFFFF00",
 		"editorWarning.foreground": "#FAD000",
 
 		// Gutter: The gutter contains the glyph margins and the line numbers:
@@ -150,7 +150,7 @@
 		"editorMarkerNavigationWarning.background": "#FAD000",
 
 		// To see the editor white spaces, enable Toggle Render Whitespace.
-		"editorWhitespace.foreground": "#ffffff1a",
+		"editorWhitespace.foreground": "#FFFFFF1a",
 		"errorForeground": "#ec3a37f5",
 
 		// Extensions.
@@ -184,28 +184,28 @@
 		"list.focusForeground": "#FFFFFF",
 		"list.highlightForeground": "#FAD000",
 		"list.hoverBackground": "#2D2B55",
-		"list.hoverForeground": "#cec5ff",
+		"list.hoverForeground": "#CEC5FF",
 		"list.inactiveSelectionBackground": "#2D2B55",
 		"list.inactiveSelectionForeground": "#aaa",
 
 		// Merge Conflicts.
-		"merge.border": "#ffffff00",
-		"merge.commonContentBackground": "#ffffff00",
-		"merge.commonHeaderBackground": "#ffffff00",
-		"merge.currentContentBackground": "#ffffff00",
-		"merge.currentHeaderBackground": "#ffffff00",
-		"merge.incomingContentBackground": "#ffffff00",
-		"merge.incomingHeaderBackground": "#ffffff00",
+		"merge.border": "#FFFFFF00",
+		"merge.commonContentBackground": "#FFFFFF00",
+		"merge.commonHeaderBackground": "#FFFFFF00",
+		"merge.currentContentBackground": "#FFFFFF00",
+		"merge.currentHeaderBackground": "#FFFFFF00",
+		"merge.incomingContentBackground": "#FFFFFF00",
+		"merge.incomingHeaderBackground": "#FFFFFF00",
 
 		// Notification Colors.
 		"notificationCenter.border": "#1E1E3F", // Notification Center border color.
-		"notificationCenterHeader.foreground": "#ffffff", // Notification Center header foreground color.
+		"notificationCenterHeader.foreground": "#FFFFFF", // Notification Center header foreground color.
 		"notificationCenterHeader.background": "#6943ff", // Notification Center header background color.
 		"notificationToast.border": "#1E1E3F", // Notification toast border color.
-		"notifications.foreground": "#cec5ff", // Notification foreground color.
+		"notifications.foreground": "#CEC5FF", // Notification foreground color.
 		"notifications.background": "#1E1E3F", // Notification background color.
 		"notifications.border": "#2D2B55", // Notification border color separating from other notifications in the Notification Center.
-		"notificationLink.foreground": "#ffffff", // Notification links foreground color.
+		"notificationLink.foreground": "#FFFFFF", // Notification links foreground color.
 
 		// Panel.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_panel-colors
@@ -271,17 +271,17 @@
 		"terminal.ansiBlue": "#6943ff",
 		"terminal.ansiMagenta": "#ff2c70",
 		"terminal.ansiCyan": "#80fcff",
-		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiWhite": "#FFFFFF",
 		"terminal.ansiBrightBlack": "#5C5C61",
 		"terminal.ansiBrightRed": "#ec3a37f5",
 		"terminal.ansiBrightGreen": "#3ad900",
 		"terminal.ansiBrightYellow": "#FAD000",
 		"terminal.ansiBrightBlue": "#6943ff",
-		"terminal.ansiBrightMagenta": "#fb94ff",
+		"terminal.ansiBrightMagenta": "#FB94FF",
 		"terminal.ansiBrightCyan": "#80fcff",
 		"terminal.ansiBrightWhite": "#2D2B55",
 		"terminal.background": "#1E1E3F",
-		"terminal.foreground": "#ffffff",
+		"terminal.foreground": "#FFFFFF",
 		"terminalCursor.background": "#FAD000",
 		"terminalCursor.foreground": "#FAD000",
 
@@ -363,14 +363,14 @@
 			"name": "[Meta Brace] — The main color for Meta Brace",
 			"scope": "meta.brace",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[Punctuation] — The main color for Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
@@ -433,21 +433,21 @@
 			"name": "[Support] Variable Property DOM Colors",
 			"scope": "support.variable.property.dom",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#A599E9"
 			}
 		},
 		{
 			"name": "[Variable]",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[INI] - Color for Entity",
 			"scope": "source.ini entity",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
@@ -602,21 +602,21 @@
 			"name": "[JAVASCRIPT] - Color for Storage Type Function",
 			"scope": "source.js storage.type.function",
 			"settings": {
-				"foreground": "#fb94ff"
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] - Color for Variable Language",
 			"scope": "variable.language, entity.name.type.class.js",
 			"settings": {
-				"foreground": "#fb94ff"
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] - Color for Inherited Component",
 			"scope": "entity.other.inherited-class.js",
 			"settings": {
-				"foreground": "#ccc"
+				"foreground": "#CCC"
 			}
 		},
 		{
@@ -634,15 +634,32 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] — ES6 Keywords",
+			"scope": ["variable.other.readwrite.alias.js", "entity.other.inherited-class.js"],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
 			"name": "[JAVASCRIPT] — Docs Type",
-			"scope": "variable.other.jsdoc",
+			"scope": ["variable.other.jsdoc", "entity.name.type.instance.jsdoc"],
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
 		},
 		{
 			"name": "[JAVASCRIPT] — Storage types",
-			"scope": ["storage.type.js", "storage.type.class.js", "storage.modifier.js", "keyword.control.flow.js"],
+			"scope": [
+				"storage.type.js",
+				"storage.type.class.js",
+				"storage.modifier.js",
+				"keyword.control.flow.js",
+				"keyword.control.import.js",
+				"keyword.control.export.js",
+				"keyword.control.from.js",
+				"keyword.operator.logical.js",
+				"keyword.operator.relational.js"
+			],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -665,7 +682,7 @@
 			"name": "[JAVASCRIPT] Typescript/React Children",
 			"scope": "meta.jsx.children.tsx",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -697,14 +714,21 @@
 			"name": "[JAVASCRIPT] - Color for Text inside JSX",
 			"scope": "JSXNested",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "[JAVASCRIPT] - Parameters",
+			"scope": "variable.parameter.js",
+			"settings": {
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[PYTHON] - Color for Self Argument",
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
-				"foreground": "#fb94ff"
+				"foreground": "#FB94FF"
 			}
 		},
 		{
@@ -725,7 +749,7 @@
 			"name": "[TYPESCRIPT] - Color for Punctuation Parameters",
 			"scope": "source.ts punctuation.definition.parameters",
 			"settings": {
-				"foreground": "#e1efff"
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
@@ -758,7 +782,7 @@
 			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -927,7 +951,8 @@
 				"entity.other.attribute-name.jsx",
 				"markup.quote.markdown meta.paragraph.markdown",
 				"markup.italic.markdown",
-				"text.jade entity.other.attribute-name.tag"
+				"text.jade entity.other.attribute-name.tag",
+				"keyword.control.from.js"
 			],
 			"settings": {
 				"fontStyle": "italic"
