@@ -1,4 +1,4 @@
-<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/3p2r0M1c0Y32270Q2a19/SOPv2-1920x1080-Small.gif" />
+<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" />
 
 <h1 align="center">Shades of Purple Theme for VS Code</h1>
 
@@ -129,31 +129,31 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 ## Screenshots: Shades of Purple Theme
 
-### Markdown Syntax
+> ### Markdown Syntax
 
 ![markdown](https://on.ahmda.ws/tIZ6/c)
 
-### JavaScript Syntax
+> ### JavaScript Syntax
 
 ![JavaScript](https://on.ahmda.ws/tITd/c)
 
-### PHP Syntax
+> ### PHP Syntax
 
 ![PHP](https://on.ahmda.ws/tJch/c)
 
-### HTML Syntax
+> ### HTML Syntax
 
 ![HTML](https://on.ahmda.ws/tJ2Y/c)
 
-### Pug Syntax
+> ### Pug Syntax
 
 ![Pug](https://on.ahmda.ws/tJdq/c)
 
-### Python Syntax
+> ### Python Syntax
 
 ![Python](https://on.ahmda.ws/tJ3u/c)
 
-### Go Syntax
+> ### Go Syntax
 
 ![Go](https://on.ahmda.ws/tJDr/c)
 
