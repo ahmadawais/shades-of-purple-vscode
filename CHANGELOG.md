@@ -11,6 +11,23 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.1.0...2.2.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 PHP Global other vars [`ece37b5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ece37b59d83a014bd3db33d0597891566f30f260) <br>
+> 👌 formatting [`9348db8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9348db8a1ab8cfae94eba5f71c43c66f956182a8) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Lint errors of spacing [`a02e5f6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a02e5f6a2886883f8a9055dfeed248abc8a8f7ee) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.0.0...2.1.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -35,8 +52,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 > 📖 Screenshots [`9e642e1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e642e1e7de90f6d7e7c6bccca52fc72f9bfe824) <br>
 > 📖 Formatting resizing [`e8e0c9a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e8e0c9afd1658127b2c1e6ccf20a3932ae5f600d) <br>
 > 📖 Formatting resizing [`9e5d24f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e5d24f41a9c53b13eca4322cfbb2fc891552295) <br>
-> 📖 Img name Upper case [`fa370ef`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fa370eff55e6b3393e270e5f61843a54bf18f994) <br>
 > 📖 Sheilds [`ee97213`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ee97213675f00a5e63d586fa7d3907d3ccd68519) <br>
+> 📖 Img name Upper case [`fa370ef`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fa370eff55e6b3393e270e5f61843a54bf18f994) <br>
 > 📖 formatting [`e39fa66`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e39fa66b9a5ed81dfb7e281b6c7b34e1555fbf3c) <br>
 
 <br>
