@@ -995,7 +995,7 @@
 		},
 		{
 			"name": "[PHP] - Varaiables",
-			"scope": ["variable.other.php", "punctuation.definition.variable.php"],
+			"scope": ["variable.other.php", "punctuation.definition.variable.php", "variable.other.global.php"],
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
