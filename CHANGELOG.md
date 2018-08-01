@@ -11,10 +11,11 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [2.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.1.0...2.2.0)
+### RELEASE: [2.1.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.1.0...2.1.1)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
+> 👌 this color in php [`5da4c7f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5da4c7f613915132686dff7ea7e7a12709313701) <br>
 > 👌 PHP Global other vars [`ece37b5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ece37b59d83a014bd3db33d0597891566f30f260) <br>
 > 👌 formatting [`9348db8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9348db8a1ab8cfae94eba5f71c43c66f956182a8) <br>
 
