@@ -702,6 +702,13 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] - Object keys",
+			"scope": "meta.object-literal.key.js",
+			"settings": {
+				"foreground": "#80FFBB"
+			}
+		},
+		{
 			"name": "Typescript/React Classnames and Modules",
 			"scope": [
 				"entity.name.type.class.tsx",
