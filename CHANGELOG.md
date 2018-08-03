@@ -11,6 +11,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.3.0...2.4.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 JS Obj keys color [`dcb297e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/dcb297e59806dbe8741547a1430ef66f6601163f) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.2.0...2.3.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
