@@ -24,7 +24,7 @@
         </td>
         <td align='center'>
             <a  target="_blank" href='https://AhmadAwais.com/'>
-                <img src='https://i.imgur.com/Asg4d3k.png' width='100' />
+                <img src='https://img.shields.io/badge/%20AHMAD%20AWAIS%20-gray.svg?colorA=5734F5&colorB=5734F5&style=flat-square' width='100' />
             </a>
         </td>
     </tr>
