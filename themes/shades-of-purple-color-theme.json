@@ -311,7 +311,14 @@
 		"walkThrough.embeddedEditorBackground": "#1E1E3F",
 		"welcomePage.buttonBackground": "#1E1E3F",
 		"welcomePage.buttonHoverBackground": "#1E1E3F",
-		"widget.shadow": "#00000026"
+		"widget.shadow": "#00000026",
+
+		// Breadcrumbs.
+		"breadcrumb.foreground": "#A599E9",
+		"breadcrumb.focusForeground": "#FAD000",// Color of focused breadcrumb items.
+		"breadcrumb.activeSelectionForeground": "#FFFFFF",// Color of selected breadcrumb items.
+		"breadcrumbPicker.background": "#1E1E3F",// Background color of breadcrumb item picker.
+
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
