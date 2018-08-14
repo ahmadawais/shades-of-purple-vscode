@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" />
+<a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" /></a>
 
 # Shades of Purple Theme for VS Code
 
