@@ -11,6 +11,31 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.4.0...2.5.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Settings Editor Colors [`dbeb4b1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/dbeb4b172ac87b5a9d2656fbe6da62642476c6cb) <br>
+> 📦 breadcrumb styles [`d153c51`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d153c5193071abcf7125c1b76f4ee9037babe146) <br>
+> 📦 Link that emoji [`121ee87`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/121ee87c9baa926cda2f22dfbb0abfafe73c1289) <br>
+> 📦 Devs Using Stats [`0fa2048`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0fa2048d2ff36a4107440e827c1f749a10c2a0e7) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Description [`52c73b8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52c73b8ebb70188abdde1b7b26a2abf530d96c11) <br>
+> 👌 badge [`4720eab`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4720eabc2982a0d8ada3f6231c980bfc279e0528) <br>
+> 👌 badge [`6fc79c2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6fc79c2b7781b4b966bdf2396e2592a859f28f08) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Typo [`fb0fa32`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fb0fa32e76f9afcf686e5ed258911596f44d5346) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.3.0...2.4.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
