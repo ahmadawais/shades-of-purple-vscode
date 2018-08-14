@@ -37,7 +37,7 @@
 
 		// Contrast.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
-		"contrastActiveBorder": null,
+		"contrastActiveBorder": "#FFFFFF00",
 		"contrastBorder": "#FFFFFF00",
 
 		// Base Colors.
@@ -257,7 +257,7 @@
 		"statusBar.foreground": "#A599E9",
 		"statusBar.noFolderBackground": "#1E1E3F",
 		"statusBar.noFolderForeground": "#A599E9",
-		"statusBarItem.activeBackground": "#4d21fc",
+		"statusBarItem.activeBackground": "#4D21FC",
 		"statusBarItem.hoverBackground": "#2D2B55",
 		"statusBarItem.prominentBackground": "#1E1E3F",
 		"statusBarItem.prominentHoverBackground": "#2D2B55",
@@ -319,6 +319,22 @@
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",// Color of selected breadcrumb items.
 		"breadcrumbPicker.background": "#1E1E3F",// Background color of breadcrumb item picker.
 
+		// New Settings Editor.
+		"settings.headerForeground": "#FFFFFF",
+		"settings.modifiedItemForeground": "#3AD900",
+		"settings.inactiveSelectedItemBorder": "#FAD000",
+		"settings.dropdownBackground": "#1E1E3F",
+		"settings.checkboxBackground": "#1E1E3F",
+		"settings.textInputBackground": "#1E1E3F",
+		"settings.numberInputBackground": "#1E1E3F",
+		"settings.dropdownForeground": "#A599E9",
+		"settings.checkboxForeground": "#A599E9",
+		"settings.textInputForeground": "#A599E9",
+		"settings.numberInputForeground": "#A599E9",
+		"settings.dropdownBorder": "#1E1E3F",
+		"settings.checkboxBorder": "#1E1E3F",
+		"settings.textInputBorder": "#1E1E3F",
+		"settings.numberInputBorder": "#1E1E3F",
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
