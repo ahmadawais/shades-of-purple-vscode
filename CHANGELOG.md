@@ -11,6 +11,24 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.5.0...2.6.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Var type JS const forground color [`e40a3d8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e40a3d80e11044ab06a2bc43f748b3cb5b240f65) <br>
+> 📦 Tag Dark Theme [`d3924e5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d3924e5c2a440ad77140fd6365705b61c9a286ca) <br>
+> 📦 Marketplace link [`bb549ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/bb549bac71e527b711d47bf9e38d75c572afb033) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Release automation [`649a222`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/649a22210ebb791c51ecab998e118c9a65e82c70) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.4.0...2.5.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
