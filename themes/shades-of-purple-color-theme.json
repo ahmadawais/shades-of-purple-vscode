@@ -670,6 +670,13 @@
 			}
 		},
 		{
+			"name": "[JAVASCRIPT] — Var Types",
+			"scope": ["variable.other.constant.js"],
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
+		{
 			"name": "[JAVASCRIPT REACT] — JSX HTML",
 			"scope": ["punctuation.definition.tag.begin.js", "punctuation.definition.tag.end.js"],
 			"settings": {
