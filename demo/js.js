@@ -71,3 +71,12 @@ export const speedCSS = (one, two, three) => {
 		transform: 'rotate(' + three + 'deg)'
 	});
 };
+
+// Conditionals.
+if (ahmad) {
+	console.log('Ahmad loves open source');
+} else if (awais) {
+	console.log('Awais is making 🦄 Shades of Purple');
+} else {
+	console.log('In the middle of no where!');
+}
