@@ -13,7 +13,7 @@
 		// "activityBar.foreground": "#A599E9",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#FAD000",
-		"activityBarBadge.foreground": "#28284E",
+		"activityBarBadge.foreground": "#1E1E3F",
 
 		// Sidebar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
