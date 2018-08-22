@@ -27,7 +27,7 @@
 		// Badge.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
 		"badge.background": "#FAD000",
-		"badge.foreground": "#222244",
+		"badge.foreground": "#1E1E3F",
 
 		// Button.
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
