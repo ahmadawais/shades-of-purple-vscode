@@ -1,4 +1,4 @@
-# CHANGELOG: Shades of Purple
+# CHANGELOG: 🦄 Shades of Purple
 
 All notable changes in this project's [released versions](https://github.com/ahmadawais/shades-of-purple-vscode/releases) are documented in this file.
 
