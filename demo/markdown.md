@@ -38,4 +38,4 @@ const sum = (x, y) => x + y;
 function sum( x, y ) { return x + y; }
 ```
 
-Cool markdown, the syntax is hidden and you can just write stuff.
+> Cool markdown block-quote, the syntax is hidden and you can just write stuff.
