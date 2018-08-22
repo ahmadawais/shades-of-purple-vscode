@@ -11,6 +11,32 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.6.0...2.7.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Ruby Demo [`0a414af`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a414af22f830fe8eea64851ad86221c6a308603) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Not ready yet but let&#x27;s do italics [`fcfa9ed`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fcfa9ed1ef0363821140e001ef7d10ceca5158fc) <br>
+> 👌 Conditionals [`0e3c87f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0e3c87f345710025ab39b4e43d516dfdae905401) <br>
+> 👌 Upper Case Color Codes [`9e69c20`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e69c20731926d6780b0a14aea32b781e3fd436b) <br>
+> 👌 Status Bar Item Hover Background [`51ed4a9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/51ed4a9be9351d430ca9ab0ca1cf475ab6e0fd65) <br>
+> 👌 Badge Foreground [`6dfabf7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6dfabf70ff25e09ccbd15c3eb66ad8c716214b14) <br>
+> 👌 Activity Bar Badge Foreground [`df6de69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/df6de6958bfe4ba7d6e0505f19883292e4506fe6) <br>
+> 👌 Block Quote [`1a51c21`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1a51c21eb0c8ae9ffcf115397ea056a798cb32ae) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Status Bar Debugging Foreground [`26be3e0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/26be3e00a95ee132a7c49437f298b207084b4a52) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.5.0...2.6.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
