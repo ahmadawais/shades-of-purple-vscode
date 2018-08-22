@@ -290,7 +290,7 @@
 		"gitDecoration.modifiedResourceForeground": "#FAD000", // Color for modified git resources.
 		"gitDecoration.deletedResourceForeground": "#EC3A37F5", // Color for deleted git resources.
 		"gitDecoration.untrackedResourceForeground": "#3AD900", // Color for untracked git resources.
-		"gitDecoration.ignoredResourceForeground": "#a599e981", // Color for ignored git resources.
+		"gitDecoration.ignoredResourceForeground": "#A599E981", // Color for ignored git resources.
 		"gitDecoration.conflictingResourceForeground": "#FF7200", // Color for conflicting git resources.
 
 		// Text Colors — Colors inside a text document, such as the welcome page.
