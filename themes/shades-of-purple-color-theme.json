@@ -255,6 +255,8 @@
 		"statusBar.debuggingBackground": "#1E1E3F",
 		"statusBar.debuggingForeground": "#A599E9",
 		"statusBar.foreground": "#A599E9",
+		"statusBar.debuggingBackground": "#FAD000",
+		"statusBar.debuggingForeground": "#1E1E3F",
 		"statusBar.noFolderBackground": "#1E1E3F",
 		"statusBar.noFolderForeground": "#A599E9",
 		"statusBarItem.activeBackground": "#4D21FC",
