@@ -187,11 +187,20 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ![Go](https://on.ahmda.ws/tJDr/c)
 
 </div>
+
+<br>
+
+![Shades of purple FAQs](https://on.ahmda.ws/17e8a104b6db/c)
+
+## Frequently Asked Questions
+
+- 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
+
 <br>
 
 ![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
 
-## Put `Shades of Purple` In Other Places!
+## Put `Shades of Purple` In Other Places
 
 I have built other `Shades of Purple` themes for different software. Here's a list.
 
