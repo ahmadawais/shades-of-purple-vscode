@@ -1,10 +1,36 @@
-# CHANGELOG: 🦄 Shades of Purple
+# CHANGELOG: Shades of Purple
 
 All notable changes in this project's [released versions](https://github.com/ahmadawais/shades-of-purple-vscode/releases) are documented in this file.
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorB=B168F5)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
+### RELEASE: [2.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.7.0...2.8.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Alignment [`b70d905`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b70d9058d69b38d0164484fedadb4d9d8d77cf42) <br>
+> 👌 Changelog template + Title [`7faeff3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7faeff3c76abf155314430e5eb56ac917020493b) <br>
+> 👌 Status Bar Border + BG Colors [`df22f2b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/df22f2bbc525d5bf5cf358ecc1cbfd510f172bd8) <br>
+> 👌 Status Bar Highlight While Debugging [`b85e353`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b85e353399673a2e1d45202c58f01fa3781651be) <br>
+> 👌 🦄 All the way [`def761b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/def761b8794d7b2daf3e7367bddc40add272c5ff) <br>
+> 👌 Alt tag for badge [`0f10886`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0f1088604a1d29cdb34b416e6e68e8ae50764113) <br>
+> 👌 Changelog template [`5d386f1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5d386f1b7d1863c707298eb00f1a6ced5056cc3d) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Dummy file [`3ada12b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ada12b10efe2d34dbdffd9be26f9940ebc1f844) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 FAQs [`14d1d32`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/14d1d322cb8e9dec0edca13767856b83d36ef0c6) <br>
 
 <br>
 
