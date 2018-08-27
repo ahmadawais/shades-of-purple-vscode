@@ -122,6 +122,15 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
 
+
+<br>
+
+![Shades of purple FAQs](https://on.ahmda.ws/17e8a104b6db/c)
+
+## Frequently Asked Questions
+
+- 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
+
 <br>
 
 ![Screenshots](https://on.ahmda.ws/tJeg/c)
@@ -187,14 +196,6 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ![Go](https://on.ahmda.ws/tJDr/c)
 
 </div>
-
-<br>
-
-![Shades of purple FAQs](https://on.ahmda.ws/17e8a104b6db/c)
-
-## Frequently Asked Questions
-
-- 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
 
 <br>
 
