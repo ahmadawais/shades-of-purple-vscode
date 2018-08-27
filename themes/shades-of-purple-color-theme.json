@@ -250,10 +250,8 @@
 		// Status Bar Colors.
 		// The Status Bar is shown in the bottom of the workbench.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors
-		"statusBar.background": "#1E1E3F",
 		"statusBar.border": "#1E1E3F",
-		"statusBar.debuggingBackground": "#1E1E3F",
-		"statusBar.debuggingForeground": "#A599E9",
+		"statusBar.background": "#1E1E3F",
 		"statusBar.foreground": "#A599E9",
 		"statusBar.debuggingBackground": "#FAD000",
 		"statusBar.debuggingForeground": "#1E1E3F",
