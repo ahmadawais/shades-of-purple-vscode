@@ -12,6 +12,23 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.8.0...2.9.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 INI Syntax highlight in Markdown [`873bfc7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/873bfc71fc7f3e14d4d742f493bb717212585f76) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 INI files keyword.other.definition.ini [`52f110c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52f110c97544a653c916b69967e3baff2aa3e286) <br>
+> 👌 INI files meta.embedded.block.ini [`af5c699`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/af5c6995253e4f7c2d6fd6f93078b0c3f34261f3) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.7.0...2.8.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
