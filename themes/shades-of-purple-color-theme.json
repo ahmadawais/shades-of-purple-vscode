@@ -489,7 +489,7 @@
 		},
 		{
 			"name": "[INI] - Color for Punctuation Separator",
-			"scope": "source.ini punctuation.separator",
+			"scope": ["source.ini punctuation.separator", "punctuation.separator.key-value.ini"],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
