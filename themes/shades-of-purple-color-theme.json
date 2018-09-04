@@ -475,7 +475,7 @@
 		},
 		{
 			"name": "[INI] - Color for Keyword",
-			"scope": "source.ini keyword",
+			"scope": ["source.ini keyword","keyword.other.definition.ini"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
