@@ -385,6 +385,7 @@
 		{
 			"name": "[Meta Brace] — The main color for Meta Brace",
 				"meta.brace",
+				"punctuation.definition.parameters.begin.js", "punctuation.definition.parameters.end.js"
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
