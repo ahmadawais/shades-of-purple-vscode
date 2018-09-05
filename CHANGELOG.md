@@ -12,6 +12,23 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.9.0...2.10.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 JS Punctuation Params Color [`3d298a0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3d298a08825bfd1237eaf300ebdbd0e8ebb4a7fd) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 JSON Formatting [`1ff8ccc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1ff8ccc1341830a8ccaeb3dd5bbcf4d9e81392b9) <br>
+> 👌 Meta Alignment [`95ff652`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/95ff652dea193076e75ae6f83c7648889a967e44) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.8.0...2.9.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
