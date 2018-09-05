@@ -384,7 +384,7 @@
 		},
 		{
 			"name": "[Meta Brace] — The main color for Meta Brace",
-			"scope": "meta.brace",
+				"meta.brace",
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
