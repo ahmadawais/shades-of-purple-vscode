@@ -1,3 +1,4 @@
 {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "python.linting.enabled": false
 }
