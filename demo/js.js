@@ -12,6 +12,7 @@
 
 // String.
 const hello = 'Hey, hello there there there there';
+console.log('hello', hello);
 
 // Class.
 class vsc extends React.Component {}
