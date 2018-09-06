@@ -322,6 +322,7 @@
 		"breadcrumbPicker.background": "#1E1E3F",// Background color of breadcrumb item picker.
 
 		// New Settings Editor.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_settings-editor-colors
 		"settings.headerForeground": "#FFFFFF",
 		"settings.modifiedItemForeground": "#3AD900",
 		"settings.inactiveSelectedItemBorder": "#FAD000",
