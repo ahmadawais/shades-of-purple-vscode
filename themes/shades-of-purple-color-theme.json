@@ -304,6 +304,7 @@
 		"textSeparator.foreground": "#1E1E3F",
 
 		// Title bar.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_title-bar-colors
 		"titleBar.activeBackground": "#1E1E3F",
 		"titleBar.activeForeground": "#FFFFFF",
 		"titleBar.inactiveBackground": "#1E1E3F",
