@@ -315,6 +315,7 @@
 		"widget.shadow": "#00000026",
 
 		// Breadcrumbs.
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_breadcrumbs
 		"breadcrumb.foreground": "#A599E9",
 		"breadcrumb.focusForeground": "#FAD000",// Color of focused breadcrumb items.
 		"breadcrumb.activeSelectionForeground": "#FFFFFF",// Color of selected breadcrumb items.
