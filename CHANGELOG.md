@@ -12,6 +12,32 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [2.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.10.0...2.11.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Color for dropdownListBorder [`9d59615`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9d5961501895088428cfbb736c776ad48c7c7da5) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Foreground color for dropdownForeground [`b5172ab`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5172abaf57bd0f6af53ad3a3b47386f079cf7d7) <br>
+> 👌 modifiedItemIndicator is now yellow [`a89e2bb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a89e2bba49feeae32ff33860be529734d9d8e4a5) <br>
+> 👌 Foreground color for numberInputForeground [`3c6bc23`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3c6bc235b9ab6f4bd48c665856d740b11f22102e) <br>
+> 👌 Foreground color for textInputForeground [`4963f6c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4963f6c9c034d49448b5533215995bfbd9142db7) <br>
+> 👌 Foreground color for textInputForeground [`8c90717`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8c90717a21878b6cea029a5b2ffbc4fa2af14714) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Link for New Settings Editor [`0e5c9a1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0e5c9a160661f06b785166b8b4d7bd68e5ecdad7) <br>
+>  📖 Link for Breadcrumbs [`f43ec9e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f43ec9ea91b2cb501d24694c6c4e656a0b1dd9e5) <br>
+>  📖 Link for Title bar [`751fbcd`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/751fbcd669c44be83a42a1233a8af1433fae5e4a) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.9.0...2.10.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
