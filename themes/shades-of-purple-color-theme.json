@@ -333,6 +333,7 @@
 		"settings.dropdownForeground": "#E5E4FB",
 		"settings.checkboxForeground": "#E5E4FB",
 		"settings.textInputForeground": "#E5E4FB",
+		"settings.numberInputForeground": "#E5E4FB",
 		"settings.dropdownBorder": "#1E1E3F",
 		"settings.checkboxBorder": "#1E1E3F",
 		"settings.textInputBorder": "#1E1E3F",
