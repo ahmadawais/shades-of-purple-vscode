@@ -324,8 +324,6 @@
 		// New Settings Editor.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_settings-editor-colors
 		"settings.headerForeground": "#FFFFFF",
-		"settings.modifiedItemForeground": "#3AD900",
-		"settings.inactiveSelectedItemBorder": "#FAD000",
 		"settings.dropdownBackground": "#1E1E3F",
 		"settings.checkboxBackground": "#1E1E3F",
 		"settings.textInputBackground": "#1E1E3F",
@@ -339,6 +337,7 @@
 		"settings.textInputBorder": "#1E1E3F",
 		"settings.numberInputBorder": "#1E1E3F",
 		"settings.dropdownListBorder" : "#2D2B55",
+		"settings.modifiedItemIndicator" : "#FAD000",
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
