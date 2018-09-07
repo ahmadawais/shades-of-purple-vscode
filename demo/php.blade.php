@@ -118,3 +118,9 @@
 @else
 	<p>Dummy text.</p>
 @endif
+
+{{-- Basic --}}
+Hello, {{ $name }}.
+Hello, {!! $name !!}.
+<h1>Laravel</h1>
+
