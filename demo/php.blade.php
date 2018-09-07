@@ -124,3 +124,24 @@ Hello, {{ $name }}.
 Hello, {!! $name !!}.
 <h1>Laravel</h1>
 
+{{-- More --}}
+@verbatim
+<div class="container">
+	Hello, {{ name }}.
+</div>
+@endverbatim
+
+{{-- More --}}
+@unless (Auth::check())
+    You are not signed in.
+@endunless
+
+{{-- More --}}
+@hasSection('navigation')
+    <div class="pull-right">
+        @yield('navigation')
+    </div>
+
+    <div class="clearfix"></div>
+@endif
+
