@@ -1070,6 +1070,14 @@
 			}
 		},
 		{
+			"name": "[PHP Blade] - Keywords for definition",
+			"scope": [
+				"keyword.blade",
+			],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
 			"name": "[GO] - Keywords for definition",
 			"scope": ["keyword.package.go", "keyword.import.go"],
 			"settings": {
