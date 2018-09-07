@@ -12,6 +12,40 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.11.0...3.0.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Laravel Blade (blade) language support demo [`5928f1d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5928f1dc473fcf8d791c5bbb6cf17e7010826614) <br>
+> 📦 Laravel Blade (blade) Construct Colors [`0d99e93`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0d99e9398e3ad4d2c46899563da913733828ad39) <br>
+> 📦 Laravel Blade (blade) punctuation colors [`dee45bb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/dee45bb067f115e1fdcaa2a754c6b664d6cd4ee8) <br>
+> 📦 Laravel Blade (blade) language keywords color [`f808b26`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f808b26c76f6d0738515029f7a452006a83c4ce7) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Modern JS String [`86874ca`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/86874ca718ca12fd2fb49a0934d2cdec771fbcde) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Stop it lint [`45d4d3a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/45d4d3a0a6af496b7f4d5ee7ebd01d9cff61c4b3) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Laravel Blade Loops [`b162f05`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b162f0574dba01dc83387d37532643d7e1b5366c) <br>
+>  📖 More blade examples [`2db1717`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2db1717089e1dc68fd56ff2685a3d78dceacf13b) <br>
+>  📖 Laravel Blade Switch Case [`6a3675f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6a3675f661c631d7954b1cd2dbb6f2aff1936920) <br>
+>  📖 Laravel Blade Service Injection Synctax [`02b3d31`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/02b3d317e4a69e817e3ff508faefd8c54ce81366) <br>
+>  📖  Dummy text [`5156432`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5156432bad56ffd311de7e13afc8f0a2e46b5a8e) <br>
+>  📖 Basic Laravel Blace [`74db2b1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/74db2b17e5ce28e8c464a775a4d275a3a778c113) <br>
+>  📖 Laravel Blade Basic [`d95796a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d95796ab083b9ea84399a3735a705cf9950c99ac) <br>
+>  📖 log [`f2fc048`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2fc04864d5099e42f88889d2e11648d2a76d963) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [2.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.10.0...2.11.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
