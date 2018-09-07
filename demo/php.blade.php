@@ -104,17 +104,17 @@
 
 {{-- Record --}}
 @empty($record)
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum consequatur blanditiis aut, illo excepturi tempora.</p>
+	<p>Dummy text.</p>
 @endempty
 
 {{-- Sections --}}
 @section('content')
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum consequatur blanditiis aut, illo excepturi tempora.</p>
+	<p>Dummy text.</p>
 @endsection
 
 {{-- More --}}
 @if (is_array($message))
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum consequatur blanditiis aut, illo excepturi tempora.</p>
+	<p>Dummy text.</p>
 @else
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum consequatur blanditiis aut, illo excepturi tempora.</p>
+	<p>Dummy text.</p>
 @endif
