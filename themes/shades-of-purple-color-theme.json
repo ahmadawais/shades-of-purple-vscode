@@ -1078,6 +1078,16 @@
 				"foreground": "#FF9D00"
 			}
 		},
+		{
+			"name": "[PHP Blade] - Punctuation",
+			"scope": [
+				"begin.bracket.round.blade.php",
+				"end.bracket.round.blade.php",
+			],
+			"settings": {
+				"foreground": "#E1EFFF"
+			}
+		},
 			"name": "[GO] - Keywords for definition",
 			"scope": ["keyword.package.go", "keyword.import.go"],
 			"settings": {
