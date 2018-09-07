@@ -119,7 +119,7 @@
 	<p>Dummy text.</p>
 @endif
 
-{{-- Basic --}}
+{{-- More --}}
 Hello, {{ $name }}.
 Hello, {!! $name !!}.
 <h1>Laravel</h1>
@@ -191,3 +191,9 @@ Hello, {!! $name !!}.
 @endforeach
 
 
+{{-- Service Injection --}}
+@inject('metrics', 'App\Services\MetricsService')
+
+<div>
+    Monthly Revenue: {{ $metrics->monthlyRevenue() }}.
+</div>
