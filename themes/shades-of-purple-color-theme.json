@@ -1088,6 +1088,17 @@
 				"foreground": "#E1EFFF"
 			}
 		},
+		{
+			"name": "[PHP Blade] - Construct",
+			"scope": [
+				"support.function.construct.begin.blade",
+				"support.function.construct.end.blade",
+			],
+			"settings": {
+				"foreground": "#FFEE80"
+			}
+		},
+		{
 			"name": "[GO] - Keywords for definition",
 			"scope": ["keyword.package.go", "keyword.import.go"],
 			"settings": {
