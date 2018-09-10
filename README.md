@@ -62,7 +62,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 1. Click **Install** to install it.
 1. Click **Reload** to reload your editor.
 1. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
-1. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 33+ awesome devs to appreciate the effort behind this theme.
+1. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 42+ awesome devs to appreciate the effort behind this theme.
 
 <br>
 
