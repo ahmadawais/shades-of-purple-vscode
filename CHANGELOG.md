@@ -12,6 +12,26 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.0.0...3.1.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 scrollbar slider active background [`24c3c44`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/24c3c44e31c614d4fee728af6228b531e3d0d12f) <br>
+> 📦 scrollbar slider hover background [`b52f109`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b52f1092b3ef95d5972988c4b219370ac5342b6a) <br>
+> 📦 scrollbarSlider background [`cf8c603`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cf8c60376946568883bac1a6cb454f21f7df511b) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 scrollbar shadow [`c69bb82`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c69bb82e3b88538dbb17f4aca817af7be6680129) <br>
+> 👌 Button Hover Color is a better shade of purple [`695bc52`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/695bc52174f41356798cd1a90ade5cbd205e995b) <br>
+> 👌 42 five star reviews [`e4c1df8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e4c1df855ef5aaca43ac80c8a18ffd4504aa86e3) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.11.0...3.0.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -34,8 +54,8 @@ All notable changes in this project's [released versions](https://github.com/ahm
 >  📖 Laravel Blade Loops [`b162f05`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b162f0574dba01dc83387d37532643d7e1b5366c) <br>
 >  📖 More blade examples [`2db1717`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2db1717089e1dc68fd56ff2685a3d78dceacf13b) <br>
 >  📖 Laravel Blade Switch Case [`6a3675f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6a3675f661c631d7954b1cd2dbb6f2aff1936920) <br>
->  📖 Laravel Blade Service Injection Synctax [`02b3d31`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/02b3d317e4a69e817e3ff508faefd8c54ce81366) <br>
 >  📖  Dummy text [`5156432`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5156432bad56ffd311de7e13afc8f0a2e46b5a8e) <br>
+>  📖 Laravel Blade Service Injection Synctax [`02b3d31`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/02b3d317e4a69e817e3ff508faefd8c54ce81366) <br>
 >  📖 Basic Laravel Blace [`74db2b1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/74db2b17e5ce28e8c464a775a4d275a3a778c113) <br>
 >  📖 Laravel Blade Basic [`d95796a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d95796ab083b9ea84399a3735a705cf9950c99ac) <br>
 >  📖 log [`f2fc048`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2fc04864d5099e42f88889d2e11648d2a76d963) <br>
