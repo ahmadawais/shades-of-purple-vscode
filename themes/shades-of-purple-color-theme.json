@@ -242,10 +242,7 @@
 
 		// Scroll Bar Control.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_scroll-bar-control
-		"scrollbar.shadow": "#00000000",
-		"scrollbarSlider.activeBackground": "#1E1E3FDA",
-		"scrollbarSlider.background": "#1E1E3F9D",
-		"scrollbarSlider.hoverBackground": "#1E1E3FD7",
+		"scrollbar.shadow": "#a599e981",
 
 		// Status Bar Colors.
 		// The Status Bar is shown in the bottom of the workbench.
