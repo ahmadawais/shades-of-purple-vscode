@@ -245,6 +245,7 @@
 		"scrollbar.shadow": "#a599e981",
 		"scrollbarSlider.background": "#a599e981",
 		"scrollbarSlider.hoverBackground": "#4D21FC",
+		"scrollbarSlider.activeBackground": "#FAD000",
 
 		// Status Bar Colors.
 		// The Status Bar is shown in the bottom of the workbench.
