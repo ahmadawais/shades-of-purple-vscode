@@ -1,4 +1,4 @@
-> ![new](https://img.shields.io/badge/%20-NEW-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat) _Shell + Ruby Syntax Improvements_
+![new](https://img.shields.io/badge/%20-NEW-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat) Shell + Ruby Syntax Improvements
 
 <div align="center">
 <a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" /></a>
