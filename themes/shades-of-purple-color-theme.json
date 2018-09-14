@@ -1181,6 +1181,12 @@
 			}
 		},
 		{
+			"name": "[SHELL] - Function Keyword",
+			"scope": ["storage.type.function.shell"],
+			"settings": {
+				"foreground": "#FB94FF",
+			}
+		},
 			"name": "[ITALLICS] All the awesome itallics live here.",
 			"scope": [
 				"modifier",
