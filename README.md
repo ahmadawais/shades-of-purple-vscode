@@ -1,3 +1,6 @@
+![new](https://img.shields.io/badge/🦄-NEW-gray.svg?colorB=5734F5&style=flat) Shell + Ruby Syntax Improvements
+
+
 <div align="center">
 <a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" /></a>
 
@@ -58,11 +61,11 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 ## Easy Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-1. Search for **Shades of Purple Theme**
-1. Click **Install** to install it.
-1. Click **Reload** to reload your editor.
-1. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
-1. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 42+ awesome devs to appreciate the effort behind this theme.
+2. Search for **Shades of Purple Theme**
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 42+ awesome devs to appreciate the effort behind this theme.
 
 <br>
 
@@ -274,4 +277,4 @@ This FOSS (free and open source software) project is updated and maintained with
 
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
-_👋 Follow Ahmad on Twitter —_ [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+_👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
