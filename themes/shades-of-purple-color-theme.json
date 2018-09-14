@@ -1133,7 +1133,7 @@
 		{
 			"name": "[RUBY] - Interpolation Quoted Double & Block Inline",
 			"scope": [
-				"punctuation.section.embedded.end.ruby", 
+				"punctuation.section.embedded.end.ruby",
 				"punctuation.section.embedded.begin.ruby",
 				"punctuation.section.scope.begin.ruby",
 				"punctuation.section.scope.end.ruby"
