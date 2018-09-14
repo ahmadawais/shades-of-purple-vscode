@@ -1,4 +1,4 @@
-<div align="left"><p><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img alt="New in the Shades of Purple Theme" align="left" src="https://img.shields.io/badge/NEW-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat" /></a>&nbsp;
+<div align="left"><p><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/NEW-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat" /></a>&nbsp;
 Shell + Ruby Syntax Improvements.
 </p></div>
 <div align="center">
