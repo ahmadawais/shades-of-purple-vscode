@@ -1131,6 +1131,56 @@
 			}
 		},
 		{
+			"name": "[RUBY] - Interpolation Quoted Double & Block Inline",
+			"scope": [
+				"punctuation.section.embedded.end.ruby", 
+				"punctuation.section.embedded.begin.ruby",
+				"punctuation.section.scope.begin.ruby",
+				"punctuation.section.scope.end.ruby"
+			],
+			"settings": {
+				"foreground": "#FFEE80"
+			}
+		},
+		{
+			"name": "[RUBY] - Constant",
+			"scope": "variable.other.constant.ruby",
+			"settings": {
+				"foreground": "#80FFBB",
+			}
+		},
+		{
+			"name": "[RUBY] - Class",
+			"scope": "entity.name.type.class.ruby",
+			"settings": {
+				"foreground": "#FB94FF",
+			}	
+		},
+		{
+			"name": "[RUBY] - Variables",
+			"scope": [
+				"variable.other.block.ruby",
+				"variable.other.ruby"
+			],
+			"settings": {
+				"foreground": "#9EFFFF",
+			}	
+		},
+		{
+			"name": "[RUBY] - Separators",
+			"scope": "punctuation.separator.other.ruby",
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[RUBY] - Special Methods",
+			"scope": "keyword.other.special-method.ruby",
+			"settings": {
+				"foreground": "#FFEE80",
+			}
+		},
+		{
 			"name": "[ITALLICS] All the awesome itallics live here.",
 			"scope": [
 				"modifier",
