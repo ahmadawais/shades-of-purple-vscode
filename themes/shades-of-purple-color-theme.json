@@ -1187,6 +1187,17 @@
 				"foreground": "#FB94FF",
 			}
 		},
+		{
+			"name": "[SHELL] - Var Other",
+			"scope": [
+				"variable.other.special.shell",
+				"punctuation.definition.variable.shell"
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
+		{
 			"name": "[ITALLICS] All the awesome itallics live here.",
 			"scope": [
 				"modifier",
