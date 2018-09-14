@@ -12,6 +12,28 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.1.0...3.2.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Shell variable and punctuation colors [`b5f67f6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5f67f68ca694f96ffdb6480c4e383bf9101f846) <br>
+> 📦 Shell Function Styles [`5df7e60`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5df7e608cc83c885f160964efa4f751bc851940d) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Ruby Syntax + Example [`826f25f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/826f25f5cbd3b2b8917d4248766adee81aac6909) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Empty whitespace tabs [`90bb5a0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/90bb5a0985af85724997b66b4bf13db551ec1d9b) <br>
+> 🐛 Whitespace [`48f81da`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/48f81da93e8691d392f8e2671ebc5abf1b218a4f) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.0.0...3.1.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
