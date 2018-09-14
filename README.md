@@ -1,14 +1,14 @@
-![new](https://img.shields.io/badge/🦄-NEW-gray.svg?colorB=5734F5&style=flat) Shell + Ruby Syntax Improvements
-
+![new](https://img.shields.io/badge/→-NEW-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat) | Shell + Ruby Syntax Improvements
+--- | ---
 
 <div align="center">
 <a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://dha4w82d62smt.cloudfront.net/items/1S3J0I0p2t3I303D0r24/SOPv2-1920x1080-Small-Slow-2mb.gif" /></a>
 
 # Shades of Purple Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorB=B168F5)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorA=2D2A56&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+[![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorA=2D2A56&colorB=B168F5)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
 
 </div>
 
@@ -27,7 +27,7 @@
         </td>
         <td align='center'>
             <a  target="_blank" href='https://AhmadAwais.com/'>
-                <img src='https://img.shields.io/badge/AHMAD-AWAIS-gray.svg?colorB=5734F5&style=flat' width='100' />
+                <img src='https://img.shields.io/badge/AHMAD-AWAIS-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat' width='100' />
             </a>
         </td>
     </tr>
