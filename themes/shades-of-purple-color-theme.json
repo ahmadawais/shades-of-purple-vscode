@@ -1154,7 +1154,7 @@
 			"scope": "entity.name.type.class.ruby",
 			"settings": {
 				"foreground": "#FB94FF",
-			}	
+			}
 		},
 		{
 			"name": "[RUBY] - Variables",
@@ -1164,7 +1164,7 @@
 			],
 			"settings": {
 				"foreground": "#9EFFFF",
-			}	
+			}
 		},
 		{
 			"name": "[RUBY] - Separators",
