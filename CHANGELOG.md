@@ -12,6 +12,43 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.2.0...3.3.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 ticker [`5df3ba5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5df3ba56bb94995711d3912649cc71d5b6d3a166) <br>
+> 📦 Marketing images [`50f174a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/50f174a23aeebd36af8a274ffee8e5bc2528156c) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 project ignore files [`18ba574`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/18ba574ce652c353307bcdd42660ea59ac7f202a) <br>
+> 👌 ticker should link to changelog [`9d02b61`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9d02b61d65cdb25fa91d11be3e7d94ebd1363b22) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 italic ticker no more [`1f729c9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1f729c96dbfeb0b932cfdd73da28128eceeb2ec3) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Prepare for next release [`31478be`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/31478be46324b11e0ef532c276f9b7e7b871b386) <br>
+> 📖 new ticker [`677dfdd`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/677dfddc552ec3c4005e6d191b142efa95d3ff84) <br>
+> 📖 new Color A for badge [`ab272c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab272c11a03c94448f6d7d6ef798ddc22270fbb7) <br>
+> 📖 ticker center [`282525f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/282525f21967b2b6d59966e0ebc6c22a1328c7ef) <br>
+> 📖 better center align [`e40faec`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e40faecde85cf5527c7751bc38e918aacd9e44f2) <br>
+> 📖 italic ticker [`d5e5db6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d5e5db6135ce9b511ec29aa3db66556541088f0f) <br>
+> 📖 Ticker NBPS [`f796bce`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f796bcefabffe8eab0c3286f1ba312c3fcd9a0b0) <br>
+> 📖 Improve ticker [`4c4c283`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4c4c2834deb162b009f7f1ce62a7075ba66610a3) <br>
+> 📖 ticker left [`10dee58`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/10dee588295aa215457d05325bde9b61c3286483) <br>
+> 📖 ticker left/center [`c7d1c39`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c7d1c394ec89e6a3c95de28a0400136346365537) <br>
+> 📖 ticker not without 🦄 [`80c3291`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/80c32918e944be7654868de0087fc5c52e5bd488) <br>
+> 📖 check square ticker [`3cf1d2a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3cf1d2a7e5b8566598b294c1242d778a7341c4a7) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.1.0...3.2.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
