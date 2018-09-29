@@ -3,6 +3,8 @@
  */
 
 .theme {
+	display: table;
+	width: 100%;
 	color: #b362ff;
 }
 
@@ -14,10 +16,15 @@ a {
 a:hover {
 	opacity: 1;
 }
+
 .css-class {
+	display: grid;
+	width: 100%;
 	color: #bada55;
 }
 
 #css-id {
+	display: inline;
+	padding: 5rem;
 	background: goldenrod;
 }
