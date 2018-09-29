@@ -516,8 +516,12 @@
 				"foreground": "#9EFFFF"
 			}
 		},
+		{
 			"name": "[CSS] - Color for ID Selector",
-			"scope": "entity.other.attribute-name.id.css",
+			"scope": [
+				"entity.other.attribute-name.id.css",
+				"entity.other.attribute-name.pseudo-class.css"
+			],
 			"settings": {
 				"foreground": "#FFB454"
 			}
@@ -542,7 +546,7 @@
 				"source.css constant",
 				"source.css support.constant",
 				"source.stylus constant",
-				"source.stylus support.constant"
+				"source.stylus support.constant",
 			],
 			"settings": {
 				"foreground": "#FFEE80"
