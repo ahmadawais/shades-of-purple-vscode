@@ -6,6 +6,14 @@
 	color: #b362ff;
 }
 
+a {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+a:hover {
+	opacity: 1;
+}
 .css-class {
 	color: #bada55;
 }
