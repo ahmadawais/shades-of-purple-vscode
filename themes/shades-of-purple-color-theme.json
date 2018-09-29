@@ -510,6 +510,12 @@
 			}
 		},
 		{
+			"name": "[CSS] - Color for Class Selector",
+			"scope": "entity.other.attribute-name.class.css",
+			"settings": {
+				"foreground": "#9EFFFF"
+			}
+		},
 			"name": "[CSS] - Color for ID Selector",
 			"scope": "entity.other.attribute-name.id.css",
 			"settings": {
