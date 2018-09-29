@@ -12,6 +12,25 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.3.0...3.4.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Color for Class Selector [`68c1c7b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/68c1c7b373385fe3e2294a07405aed75394007cc) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 pseudo-class color [`90d4a94`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/90d4a94b97f68db45f302a6314df041992a14f30) <br>
+> 👌  Anchor tag ex [`7657a74`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7657a746bc57f17ec4c67ed436382378656849f9) <br>
+> 👌 CSS demo [`080685c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/080685c19af00e7827669f733edeeae6eb963397) <br>
+> 👌 AA badge lowercase to upper [`4625c05`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4625c05e7940ec0a560a4630ae7a96c92ba0fb5e) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.2.0...3.3.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
