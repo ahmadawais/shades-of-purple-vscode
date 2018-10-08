@@ -26,6 +26,7 @@
 		"sideBarSectionHeader.background": "#1E1E3F",
 		"sideBarSectionHeader.foreground": "#A599E9",
 		"sideBarTitle.foreground": "#A599E9",
+		"sideBarSectionHeader.border": "#1E1E3F",
 
 		// Badge.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
