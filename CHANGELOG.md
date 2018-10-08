@@ -12,6 +12,25 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.4.0...3.5.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 tab stops bg and border colors [`2b747ec`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2b747eca7b75692165ce21b2112e70ecfc250fca) <br>
+> 📦 menu sep color [`d1879b3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d1879b3fae8003c267517ff6a90becebb3a528d2) <br>
+> 📦  sidebar section header border color [`141a364`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/141a364e3d49eb822084dc8b98776ba831decc3d) <br>
+> 📦 activity bar inactive foreground color [`06ee96d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/06ee96de611fdb8bb71bac11676dc0c1e705396a) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Changes to be added in todo [`2fb8e1e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2fb8e1ee693e48f7a508b22b03b1e468166f262e) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.3.0...3.4.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
