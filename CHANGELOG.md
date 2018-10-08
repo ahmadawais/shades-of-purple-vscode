@@ -12,6 +12,18 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.5.0...3.6.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 what&#x27;s new [`22aedb2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/22aedb2c46b2a7adb40508a6a7cc2dc96cb95a31) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.4.0...3.5.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
