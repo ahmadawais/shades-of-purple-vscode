@@ -10,9 +10,6 @@
 		"activityBar.background": "#28284E",
 		"activityBar.border": "#292952",
 		"activityBar.dropBackground": "#222145",
-		// "activityBar.foreground": "#A599E9",
-		// "activityBarItem.inactiveForeground": "#A599E9",
-		// "activityBarItem.activeForeground": "#FFFFFF",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBar.inactiveForeground": "#A599E9",
 		"activityBarBadge.background": "#FAD000",
@@ -345,6 +342,11 @@
 
 		// Customizable menu.
 		"menu.separatorBackground":"#A599E9",
+
+		// Tab stops.
+		"editor.snippetTabstopHighlightBackground": "#1E1E3F",
+		"editor.snippetTabstopHighlightBorder": "#1E1E3F",
+		"editor.snippetFinalTabstopHighlightBackground": "#1E1E3F",
 
 		// TODO: Colors to be added.
 		// "inputValidation.infoForeground": "#00000000", // Input validation foreground color for information severity.
