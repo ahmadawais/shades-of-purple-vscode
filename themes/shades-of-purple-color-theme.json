@@ -346,6 +346,10 @@
 		// Customizable menu.
 		"menu.separatorBackground":"#A599E9",
 
+		// TODO: Colors to be added.
+		// "inputValidation.infoForeground": "#00000000", // Input validation foreground color for information severity.
+		// "inputValidation.warningForeground": "#00000000", // Input validation foreground color for warning severity.
+		// "inputValidation.errorForeground": "#00000000", // Input validation foreground color for error severity.
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
