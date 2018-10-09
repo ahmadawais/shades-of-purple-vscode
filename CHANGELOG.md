@@ -12,11 +12,31 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-### RELEASE: [3.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.8.0...3.8.0)
+### RELEASE: [3.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.8.0...3.9.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 local image examples [`e0f398e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e0f398e7515697b55d2e3d18993fafacfd3b55a8) <br>
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 hr SSL [`deb796e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/deb796ef127a2287f6b09384e7d27a7e8edeade8) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`94580ae`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/94580aedd6d110724adf0fb876d94f83f6e0a043) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [3.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.7.0...3.8.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Images on SSL [`e87ae93`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e87ae93374d6e8051207c6817a4b932e3cac99c5) <br>
 
 <br>
 
