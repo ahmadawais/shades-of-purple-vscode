@@ -2,7 +2,7 @@
 Tab stops + Menu Separator + Activity Bar color improments.
 </p></div>
 <div align="center">
-<a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="./images/1_sop.gif" /></a>
+<a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 # Shades of Purple Theme for VS Code
 
@@ -42,21 +42,21 @@ Tab stops + Menu Separator + Activity Bar color improments.
 
 <br>
 
-![Install](./images/2_video_demo.png)
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png)
 
 ## Video Demo & Installation
 
 Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP.
 
 <h4 align="center">
-  <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="./images/3_sop_vdo.jpeg" />
+  <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" />
 
   📺 Watch The Video To Learn More → </a>
 </h4>
 
 <br>
 
-![Install](./images/4_install.png)
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png)
 
 ## Easy Installation
 
@@ -69,7 +69,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <br>
 
-![alternate installation](./images/5_alternate_installation.png)
+![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
 
 ## Alternate Installation
 
@@ -82,7 +82,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <br>
 
-![Tips](./images/6_custom_settings.png)
+![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
 
 ## Best Custom Settings
 
@@ -127,7 +127,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Shades of purple FAQs](./images/7_faq.png)
+![Shades of purple FAQs](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/7_faq.png)
 
 ## Frequently Asked Questions
 
@@ -135,73 +135,73 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Screenshots](./images/8_screenshots.png)
+![Screenshots](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/8_screenshots.png)
 
 ## Screenshots: Shades of Purple Theme
 <div align="center">
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-![markdown](./images/markdown.png)
+![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-![JavaScript](./images/JavaScript.png)
+![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-![PHP](./images/PHP.png)
+![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-![HTML](./images/HTML.png)
+![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-![Pug](./images/Pug.png)
+![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-![Python](./images/Python.png)
+![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)
 
 <br>
 
-![hr](./images/hr.png)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-![Go](./images/Go.png)
+![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)
 
 </div>
 
 <br>
 
-![Shades of purple for other software](./images/9_put_sop.png)
+![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9_put_sop.png)
 
 ## Put `Shades of Purple` In Other Places
 
@@ -216,7 +216,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 <br>
 
-![Hello](./images/10_hello.png)
+![Hello](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/10_hello.png)
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
@@ -230,7 +230,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 <br>
 
-![Partners & Backers](./images/11_backers.png)
+![Partners & Backers](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/11_backers.png)
 
 ### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
 
@@ -240,35 +240,35 @@ This FOSS (free and open source software) project is updated and maintained with
 
 <table width='100%'>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_gravity.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_kisnta.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpe.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_gravity.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_kisnta.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpe.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_sitelock.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpr.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_bv.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_sitelock.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpr.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_bv.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cwp.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpcbl.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cwys.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cwp.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_wpcbl.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cwys.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_czmz.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_geodir.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wp_sal.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_czmz.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_geodir.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wp_sal.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_mts.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_LiquidWeb?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_lw.png' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cby.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_mts.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_LiquidWeb?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_lw.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/wpc_cby.png' /></a></td>
 	</tr>
 </table>
 
 <br>
 
-![License & Attribution thanks](./images/12_license.png)
+![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
 
 ## License & Attribution
 
