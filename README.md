@@ -128,7 +128,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 <br>
 
-![Shades of purple FAQs](https://on.ahmda.ws/17e8a104b6db/c)
+![Shades of purple FAQs](./images/7_faq.png)
 
 ## Frequently Asked Questions
 
