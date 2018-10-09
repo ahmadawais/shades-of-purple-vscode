@@ -1,6 +1,6 @@
 # Shades of Purple Theme for VS Code
 
-![Install](https://on.ahmda.ws/qWVC/c)
+![Install](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png)
 
 ## Easy Installation
 
@@ -10,7 +10,7 @@
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
-![alternate installation](https://on.ahmda.ws/qWuq/c)
+![alternate installation](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png)
 
 ### Otherwise
 
@@ -20,7 +20,7 @@
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
-![Thanks](https://on.ahmda.ws/qWCl/c)
+![License & Attribution thanks](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png)
 
 ## Thanks
 
@@ -39,3 +39,4 @@ function sum( x, y ) { return x + y; }
 ```
 
 > Cool markdown block-quote, the syntax is hidden and you can just write stuff.
+> Follow Ahmad on [Twitter @MrAhmadAwais →](https://twitter.com/MrAhmadAwais/)
