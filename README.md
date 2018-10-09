@@ -82,7 +82,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <br>
 
-![Tips](https://on.ahmda.ws/qVjy/c)
+![Tips](./images/6_custom_settings.png)
 
 ## Best Custom Settings
 
