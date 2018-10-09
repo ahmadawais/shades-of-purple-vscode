@@ -125,7 +125,6 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
 
-
 <br>
 
 ![Shades of purple FAQs](./images/7_faq.png)
@@ -142,67 +141,67 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <div align="center">
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-![markdown](https://on.ahmda.ws/tIZ6/c)
+![markdown](./images/markdown.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-![JavaScript](https://on.ahmda.ws/tITd/c)
+![JavaScript](./images/JavaScript.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-![PHP](https://on.ahmda.ws/tJch/c)
+![PHP](./images/PHP.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-![HTML](https://on.ahmda.ws/tJ2Y/c)
+![HTML](./images/HTML.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-![Pug](https://on.ahmda.ws/tJdq/c)
+![Pug](./images/Pug.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-![Python](https://on.ahmda.ws/tJ3u/c)
+![Python](./images/Python.png)
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](./images/hr.png)
 
 <br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-![Go](https://on.ahmda.ws/tJDr/c)
+![Go](./images/Go.png)
 
 </div>
 
 <br>
 
-![Shades of purple for other software](https://on.ahmda.ws/qYAe/c)
+![Shades of purple for other software](./images/9_put_sop.png)
 
 ## Put `Shades of Purple` In Other Places
 
@@ -217,7 +216,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 <br>
 
-![Hello](https://on.ahmda.ws/os6O/c)
+![Hello](./images/10_hello.png)
 
 #### **Hello, we're the [WordPress Couple](https://WPCouple.com)**!
 
@@ -231,7 +230,7 @@ If you'd like us to keep producing professional free and open source software (F
 
 <br>
 
-![Partners](https://on.ahmda.ws/osEJ/c)
+![Partners & Backers](./images/11_backers.png)
 
 ### Project Backers & [WPCouple Partners](https://WPCouple.com/partners) ⚡️
 
@@ -241,35 +240,35 @@ This FOSS (free and open source software) project is updated and maintained with
 
 <table width='100%'>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrE/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu5O/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mto3/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.gravityforms.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_gravity.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://kinsta.com/?kaid=WMDAKYHJLNJX&utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_kisnta.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_WPE?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpe.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtyZ/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtph/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.sitelock.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_sitelock.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wp-rocket.me/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpr.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://blogvault.net/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_bv.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtmy/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtrW/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu0C/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://cridio.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cwp.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wecobble.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_wpcbl.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cloudways.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cwys.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu9W/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtwv/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtkh/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.cozmoslabs.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_czmz.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://wpgeodirectory.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_geodir.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://www.wpsecurityauditlog.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wp_sal.png' /></a></td>
 	</tr>
 	<tr>
-		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/n3ug/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_LiquidWeb?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mtnt/c' /></a></td>
-		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='https://on.ahmda.ws/mu3F/c' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://mythemeshop.com/?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_mts.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://ahmda.ws/USES_LiquidWeb?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_lw.png' /></a></td>
+		<td width='333.33'><a target='_blank' href='https://WPCouple.com/contact?utm_source=WPCouple&utm_medium=Partner'><img src='./images/wpc_cby.png' /></a></td>
 	</tr>
 </table>
 
 <br>
 
-![Thanks](https://on.ahmda.ws/orkW/c)
+![License & Attribution thanks](./images/12_license.png)
 
 ## License & Attribution
 
