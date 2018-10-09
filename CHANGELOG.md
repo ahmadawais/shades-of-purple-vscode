@@ -8,19 +8,19 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
-### RELEASE: [3.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.7.0...3.8.0)
+### RELEASE: [3.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.8.0...3.8.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
-> 🐛 Images on SSL [`e87ae93`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e87ae93374d6e8051207c6817a4b932e3cac99c5) <br>
+> 🐛 hr SSL [`deb796e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/deb796ef127a2287f6b09384e7d27a7e8edeade8) <br>
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -44,7 +44,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -56,7 +56,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -75,7 +75,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -94,7 +94,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -131,7 +131,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -153,7 +153,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -173,7 +173,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -207,7 +207,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -233,7 +233,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -250,7 +250,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -267,7 +267,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -293,7 +293,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -319,7 +319,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -337,7 +337,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -362,7 +362,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -374,7 +374,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -386,7 +386,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -398,7 +398,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -416,7 +416,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -450,7 +450,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -487,7 +487,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -505,7 +505,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -525,7 +525,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -537,7 +537,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -554,7 +554,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -576,7 +576,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -593,7 +593,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -605,7 +605,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -653,7 +653,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -665,7 +665,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -677,7 +677,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -693,7 +693,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -701,7 +701,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -713,7 +713,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -729,7 +729,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -745,7 +745,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -765,7 +765,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -777,7 +777,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -789,7 +789,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -801,7 +801,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -813,7 +813,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -831,7 +831,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -847,7 +847,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -859,7 +859,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -876,7 +876,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -884,7 +884,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -896,7 +896,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -927,7 +927,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -939,7 +939,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -952,7 +952,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -973,7 +973,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -992,7 +992,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -1000,7 +1000,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
@@ -1028,7 +1028,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
-![hr](https://on.ahmda.ws/t6N5/c)
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
 
 <br>
 
