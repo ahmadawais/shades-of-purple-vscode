@@ -42,7 +42,7 @@ Tab stops + Menu Separator + Activity Bar color improments.
 
 <br>
 
-![Install](https://on.ahmda.ws/qqJf/c)
+![Install](./images/2_video_demo.png)
 
 ## Video Demo & Installation
 
