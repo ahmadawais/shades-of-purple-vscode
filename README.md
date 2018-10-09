@@ -69,7 +69,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <br>
 
-![alternate installation](https://on.ahmda.ws/qWuq/c)
+![alternate installation](./images/5_alternate_installation.png)
 
 ## Alternate Installation
 
