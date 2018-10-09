@@ -56,7 +56,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 <br>
 
-![Install](https://on.ahmda.ws/qWVC/c)
+![Install](./images/4_install.png)
 
 ## Easy Installation
 
