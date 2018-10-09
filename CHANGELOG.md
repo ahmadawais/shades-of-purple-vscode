@@ -12,6 +12,30 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.6.0...3.7.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 local images [`2f64402`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2f6440294da7c9cfab411487d2f6e23a6ae9b8da) <br>
+> 👌 local Screenshots image [`082070d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/082070dd96245221812c782506e88ed18683dd4c) <br>
+> 👌 local FAQ image [`762e574`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/762e574c224d01ac57bd22cb3f3e133480e23075) <br>
+> 👌 local settings image [`40d7389`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/40d73893b59ac5a00ff58b943414c9eaa0230793) <br>
+> 👌 local alternate image [`d0dc04f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d0dc04f3eded326d008462e70daf584a54d312b2) <br>
+> 👌 local install image [`ff4ab44`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ff4ab44a72b94c40daef646b6e9a18704dbb620f) <br>
+> 👌 Local video image [`3f7e599`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3f7e599cf0c181f39ed143d56fe1bf5497d87278) <br>
+> 👌 local Install img [`9817265`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/98172657ba496c6452e79e1645c99163a6b1c118) <br>
+> 👌 Local GIF [`ecc7a61`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ecc7a61718476c507ff1e876fb3a8e0719bb3e5f) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Settings formatting in JSONC [`fdaf211`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fdaf2117d65d36fe668aa72dc00adda0a413f2c3) <br>
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### RELEASE: [3.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.5.0...3.6.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
