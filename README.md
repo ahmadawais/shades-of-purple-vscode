@@ -49,7 +49,7 @@ Tab stops + Menu Separator + Activity Bar color improments.
 Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP.
 
 <h4 align="center">
-  <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="https://on.ahmda.ws/qpkO/c" />
+  <a href="https://www.youtube.com/watch?v=Im2lTYuw4iQ" target="_blank"><img src="./images/3_sop_vdo.jpeg" />
 
   📺 Watch The Video To Learn More → </a>
 </h4>
