@@ -12,6 +12,23 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 <br>
 
+### RELEASE: [3.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.9.0...3.10.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 demo .ini file [`43a08d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/43a08d993d550120fab01c1f1de84589b31559d4) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Demo php.ini section [`52b7fd1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52b7fd153726d21caf3f5cf64160bffb49497b5d) <br>
+> 👌 syntax array [`f46300f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f46300f967375967d1fd378f753e7ed8085afcef) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.8.0...3.9.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
