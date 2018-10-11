@@ -502,7 +502,7 @@
 		},
 		{
 			"name": "[INI] - Color for Punctuation Definition",
-			"scope": "source.ini punctuation.definition",
+			"scope": ["source.ini punctuation.definition"],
 			"settings": {
 				"foreground": "#FFEE80"
 			}
