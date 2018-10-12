@@ -28,7 +28,7 @@ Tab stops + Menu Separator + Activity Bar color improvements.
         </td>
         <td align='center'>
             <a  target="_blank" href='https://AhmadAwais.com/'>
-                <img src='https://img.shields.io/badge/%E2%86%92-AHMAD%20AWAIS-gray.svg?colorA=2D2A56&colorB=5734F5&style=flat' width='100' />
+                <img src='https://img.shields.io/badge/%E2%86%92-AHMAD%20AWAIS-gray.svg?colorA=2D2A56&colorB=4D2AFF&style=flat' width='100' />
             </a>
         </td>
     </tr>
