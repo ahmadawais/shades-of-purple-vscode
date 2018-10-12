@@ -4,12 +4,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
-[![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/)
-
-![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
-
-## The [VSCode.pro Course →](https://vscode.pro)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
 Folks, I have spent an year in making a near-perfect [VSCode.pro](https://vscode.pro) course to help you become a VSCode Power User and learn most of the [VSCode Tips & Tricks](https://vscode.pro). Maybe you'd like to signup, I am launching the course this month.
 
@@ -46,10 +41,12 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 name of clog [`7931000`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7931000fcdfd5747fe77f3bd8e0c5ece866f0cc0) <br>
+> 🐛 CLog template [`deb5271`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/deb5271666c8c0628c27e28b7eed53ee184f2e76) <br>
 > 🐛 typo improvements [`02e8975`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/02e89754ea101780c7e430c0ae05c469d118e746) <br>
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+>  📖 Update the changelog [`3d48679`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3d48679003ff555a7e5c04663328d577f34368f5) <br>
 >  📖 backers [`269fbf6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/269fbf6881f31a93ba8182846054d5650c77a0f7) <br>
 
 <br>
