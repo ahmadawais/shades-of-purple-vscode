@@ -1,7 +1,7 @@
 {
 	"name": "shades-of-purple",
 	"displayName": "Shades of Purple",
-	"description": "⚡ A professional theme with hand-picked & bold shades of purple 🦄 to go along with your VS Code. Reviewed by several designers and 50+ releases to keep it updated. One of the best VSCode themes on VS Code Marketplace.",
+	"description": "⚡ A professional theme with hand-picked & bold shades of purple 🦄 to go along with your VS Code. Reviewed by several designers and 50+ releases to keep it updated. One of the best VSCode themes on VS Code Marketplace. Part of VSCode.pro course.",
 	"version": "3.10.0",
 	"publisher": "ahmadawais",
 	"engines": {
@@ -40,16 +40,9 @@
 		"nodemon": "^1.18.3",
 		"release-it": "^7.4.8"
 	},
-	"scripts": {
-		"start": "nodemon --exec vsce package",
-		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "release-it && npx vsce publish",
-		"release-major": "release-it major && npx vsce publish",
-		"release-dry": "release-it --dry-run"
-	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
-		"template": "clTemplate.hbs",
+		"template": ".clrc.hbs",
 		"commitLimit": false,
 		"package": true,
 		"replaceText": {
@@ -58,5 +51,12 @@
 			"IMPROVE: ": "",
 			"DOC: ": ""
 		}
+	},
+	"scripts": {
+		"start": "nodemon --exec vsce package",
+		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
+		"release": "release-it && npx vsce publish",
+		"release-major": "release-it major && npx vsce publish",
+		"release-dry": "release-it --dry-run"
 	}
 }
