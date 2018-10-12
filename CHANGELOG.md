@@ -20,7 +20,7 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
-### RELEASE: [3.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.10.0...3.10.0)
+### RELEASE: [3.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.10.0...3.11.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -48,6 +48,24 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 >  📖 Update the changelog [`3d48679`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3d48679003ff555a7e5c04663328d577f34368f5) <br>
 >  📖 backers [`269fbf6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/269fbf6881f31a93ba8182846054d5650c77a0f7) <br>
+>  📖 Update the changelog [`06f64b5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/06f64b5ec85beb39056cb47117715cde16a44183) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [3.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.9.0...3.10.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 demo .ini file [`43a08d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/43a08d993d550120fab01c1f1de84589b31559d4) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Demo php.ini section [`52b7fd1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52b7fd153726d21caf3f5cf64160bffb49497b5d) <br>
+> 👌 syntax array [`f46300f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f46300f967375967d1fd378f753e7ed8085afcef) <br>
 
 <br>
 
