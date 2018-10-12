@@ -8,7 +8,7 @@ Tab stops + Menu Separator + Activity Bar color improvements.
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorA=2D2A56&colorB=4d21fc)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorA=2D2A56&colorB=B168F5)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=A599E9)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
 [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/)
 
 </div>
