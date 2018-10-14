@@ -20,6 +20,22 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.11.0...3.12.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 galleryBanner color [`be9eeca`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/be9eeca906f84dbd4a6916380697570d44d9f5db) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Name badge colorB [`f48fe1b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f48fe1b79cd0b70b5909e8756118883733d8d881) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.10.0...3.11.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
