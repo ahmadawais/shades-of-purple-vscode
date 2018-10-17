@@ -20,6 +20,26 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.12.0...3.13.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 wifi pass function [`30b0d16`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/30b0d16eccc5e720f7934aa3e8750097949b9dde) <br>
+> 📦 easy cd navigation [`7caa12a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7caa12ab342eaa5cb7da2157fae19326fcd24051) <br>
+> 📦 command line rainbow [`5b5dcf5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5b5dcf5d75cb4a3dc631624ec6d59998ba1a7e2b) <br>
+> 📦 macOS battery % function [`6dbb26f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6dbb26f21aa720050e03c453bfb00371c4e83138) <br>
+> 📦 get year&#x27;s week [`8bd9210`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8bd9210ec5e81404cc698296734d98b24e555a85) <br>
+> 📦 delete .DS_Store alias [`d519b9c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d519b9c447b94f4f331ef842bc158313cb7251a0) <br>
+> 📦 functions [`39d0ff4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/39d0ff4a7e4074fac70bc7061632da7c1fc31bdd) <br>
+> 📦 aliases [`8bb22c9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8bb22c927fc7f68939347c0e7991009ea7f1c80a) <br>
+> 📦 shellscript demo file [`d9688ac`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d9688acd1acf92c8864f7965230f1fc0aa7b4cfa) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.11.0...3.12.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
