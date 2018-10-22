@@ -20,6 +20,33 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.13.0...3.14.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 changelog automation [`34ac224`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/34ac224072ab0d44356d7a3e40b69613b65dc8f3) <br>
+> 📦 hbs example header [`972035c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/972035c9189d278625cbc1a9c1aba3ad975f90e1) <br>
+> 📦 handlebars.js example [`2c91567`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2c915673a175fab864862235078a0e0de4244248) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 WifiPass function example [`7bcfae0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7bcfae0b9a0b850f6215c7a5be28194d877236b8) <br>
+> 👌 Easier directory navigation [`96bd584`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/96bd584d11162abab37eda54ee616317765435f8) <br>
+> 👌  Command line magic [`b612ca2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b612ca200761f6a3767e7bff12feed7cf18e170f) <br>
+> 👌 Show macOS Battery Percentage [`00cc8f9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/00cc8f93a50399c4173034de5c1a50b214a58fed) <br>
+> 👌 Recursively delete all &#x60;.DS_Store&#x60; files [`85f431c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/85f431ce586b1fa1569f6d08e03a94f9e1fe9cec) <br>
+> 👌  Get week number of the year [`be13ac1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/be13ac1ac79639c33bd6b4114c0a3b3a115ea2a6) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 VSCode.pro FTW [`f9b170c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f9b170c91fe9c646b81ec45977b6ef57be4fc3ab) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.12.0...3.13.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
