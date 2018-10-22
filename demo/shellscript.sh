@@ -13,3 +13,9 @@ alias rmds="find . -type f -name '*.DS_Store' -ls -delete"
 
 # Get week number of the year.
 alias week='date +%V'
+
+
+# Command line magic.
+function rainbow() {
+	yes "$(seq 231 -1 16)" | while read i; do printf "\x1b[48;5;${i}m\n"; sleep .02; done
+}
