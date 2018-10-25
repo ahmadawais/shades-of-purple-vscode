@@ -20,6 +20,18 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course â
 
 <br>
 
+### RELEASE: [3.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.14.0...3.15.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> ðŸ“¦  Cygwin theme link [`50c4965`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/50c49656a4a355642d1eaa42792d5d24d3eb6243) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.13.0...3.14.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
