@@ -214,6 +214,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 💜 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
 - 💜 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
 - 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
+- 💜 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
 
 <br>
 
