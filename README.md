@@ -122,6 +122,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "workbench.fontAliasing": "auto",
 "terminal.integrated.macOptionIsMeta": true,
 "workbench.statusBar.feedback.visible": false,
+// SOP's highlight matching tag setting.
 ```
 
 🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
