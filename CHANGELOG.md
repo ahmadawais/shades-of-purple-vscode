@@ -20,6 +20,21 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.15.0...3.16.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 right border width highlight matching tag [`3d92375`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3d923754cb9827665bd473d6874cb7c41409728a) <br>
+>  📖 left border style highlight matching tag [`ba14191`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ba14191f758242da4f0e82b99f912ea79120633f) <br>
+>  📖 bg color for highlight matching tag [`3cec348`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3cec348dbba9c1ffda99c5eae368528302ccef85) <br>
+>  📖  highlight matching tag setting [`b82320e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b82320ed2d8bd70ce1156e0e91dd14414c055716) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.14.0...3.15.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
