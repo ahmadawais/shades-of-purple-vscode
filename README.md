@@ -129,6 +129,9 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "highlight-matching-tag.leftStyle": {
     "borderWidth": "0"
 },
+"highlight-matching-tag.rightStyle": {
+    "borderWidth": "0"
+},
 ```
 
 🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
