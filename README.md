@@ -143,6 +143,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ## Frequently Asked Questions
 
 - 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
+- 👌 [Matching styles for the “Highlight Matching Tag” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
 
 <br>
 
