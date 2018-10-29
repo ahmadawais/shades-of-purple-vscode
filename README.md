@@ -1,5 +1,5 @@
 <div align="left"><p><a href="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/CHANGELOG.md"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/🦄-NEW-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp;
-Tab stops + Menu Separator + Activity Bar color improvements.
+Improved List Hover, Focus, Drag & Drop background colors.
 </p></div>
 <div align="center">
 <a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
