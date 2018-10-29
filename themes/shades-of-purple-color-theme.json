@@ -178,7 +178,7 @@
 
 		// Lists and Trees.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
-		"list.activeSelectionBackground": "#1E1E3F",
+		"list.dropBackground": "#2D2B55",
 		"list.activeSelectionForeground": "#FFFFFF",
 		"list.dropBackground": "#1E1E3F",
 		"list.focusBackground": "#1E1E3F",
