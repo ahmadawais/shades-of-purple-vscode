@@ -20,6 +20,28 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.16.0...3.17.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 FAQ Styles for “Highlight Matching Tag” extension [`fba87c0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fba87c0af5c0858fedc634805bb327bd557ab81e) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 focus background color [`14c0857`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/14c0857d5f12085754bed49f5627f3026df256d5) <br>
+> 👌 better bg color for drop area focus on file drag [`2f85114`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2f85114c9492db331ab6400684dc6268987e279e) <br>
+> 👌 active selection background color [`d18ad74`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d18ad74509bce8b2e8404821d311e38f39445e29) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Improved List Hover, Focus, Drag [`b558ab7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b558ab7b6a12f17bb63dd0ad37c9e3bda457028d) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.15.0...3.16.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
