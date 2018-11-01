@@ -20,6 +20,25 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.17.0...3.18.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 YouTube Video for Theme Setup [`56ef812`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/56ef812c9b9d36401a3500cf4114645283be0781) <br>
+> 📦 SOP Video Image [`6a29055`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6a290558cf12d77695b73f7df118e72f41b457b4) <br>
+> 📦 Small SOP Image [`1a68ea9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1a68ea924c127d33ca1575d6f17a582d9e524d6f) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Stats update [`b5f937b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5f937b041cbcc308b6196f04f85d8fe41bffea8) <br>
+> 👌 Theme description [`c6bf8b1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c6bf8b1812e9e68b5f6220ad35e6d2bbbe1d0649) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.16.0...3.17.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
