@@ -236,6 +236,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 | Other            | ![#9EFFFF](https://placehold.it/15/9EFFFF/000000?text=+) `#9EFFFF`       |
 | Strings          | ![#A5FF90](https://placehold.it/15/A5FF90/000000?text=+) `#A5FF90`       |
 | Templates        | ![#3AD900](https://placehold.it/15/3AD900/000000?text=+) `#3AD900`       |
+| Definitions      | ![#FB94FF](https://placehold.it/15/FB94FF/000000?text=+) `#FB94FF`       |
 <br>
 
 ![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
