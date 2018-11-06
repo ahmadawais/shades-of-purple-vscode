@@ -18,8 +18,7 @@ Improved List Hover, Focus, Drag & Drop background colors.
 <table width='100%' align="center">
     <tr>
         <td align='left' width='100%' colspan='2'>
-            <strong><code>Shades of Purple (SOP)</code></strong><br />
-            A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style. Become a <a href="https://VSCode.pro/" target="_blank">Visual Studio Code Power User →</a>
+            <strong><code>🦄 Shades of Purple (SOP)</code></strong><br />
         </td>
     </tr>
     <tr>
