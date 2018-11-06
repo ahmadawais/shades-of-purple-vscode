@@ -227,6 +227,10 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 💜 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
 - 💜 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
 
+## SOP's Syntax Colors
+
+Shades of purple theme is built with several shades of purple and a few contrast colors to make things pop. This also makes SOP a very good theme for teaching, presenting, and using on your site via Prisma or HighlightJS. A rough collection of important colors in SOP theme is listed below.
+
 <br>
 
 ![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
