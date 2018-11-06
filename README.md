@@ -238,6 +238,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 | Hover Background  | ![#4D21FC](https://placehold.it/15/4D21FC/000000?text=+) `#4D21FC`       |
 | Contrast          | ![#FAD000](https://placehold.it/15/FAD000/000000?text=+) `#FAD000`       |
 | Highlight         | ![#FF7200](https://placehold.it/15/FF7200/000000?text=+) `#FF7200`       |
+| Comment           | ![#B362FF](https://placehold.it/15/B362FF/000000?text=+) `#B362FF`       |
 <br>
 
 ![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
