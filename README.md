@@ -234,6 +234,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 |       USAGE       |                                HEX CODES                                 |
 | Background        | ![#2D2B55](https://placehold.it/15/2D2B55/000000?text=+) `#2D2B55`       |
 | Background Dark   | ![#1E1E3F](https://placehold.it/15/1E1E3F/000000?text=+) `#1E1E3F`       |
+| Foreground        | ![#A599E9](https://placehold.it/15/A599E9/000000?text=+) `#A599E9`       |
 <br>
 
 ![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
