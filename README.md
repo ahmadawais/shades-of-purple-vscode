@@ -47,12 +47,12 @@ Improved List Hover, Focus, Drag & Drop background colors.
 
 ## Video Demo & Installation
 
-Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP.
+Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. New video added.
 
 <h4 align="center">
   <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" />
 
-  📺 Watch The Video To Learn More → </a>
+  📺  Watch the Video to Learn More → </a>
 </h4>
 
 <br>
