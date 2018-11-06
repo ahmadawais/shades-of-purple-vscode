@@ -20,6 +20,41 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [3.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.18.0...3.19.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Syntax Colors [`e48b1dc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e48b1dc608aa0c518230d375b3a976289c2895e7) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 TitleCase things [`eb44f83`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/eb44f83d225eb3c9d79afc3cb4155ab736ca0c9e) <br>
+> 👌 Name + Emoji [`737d35c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/737d35c581f649196257037349856cdb1b618ef3) <br>
+> 👌 Theme description [`b644d66`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b644d6635aea1f56dd0819eb57eab82d1e363804) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖  Diff Colors [`f08d88d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f08d88d11b7d07937e1abc4a6f1b72db4fdda3ef) <br>
+>  📖  Constants Colors [`8e09fc0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8e09fc07bd04e501302f1d6b0a9216f4c2dc49c6) <br>
+>  📖 String Colors [`771f01d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/771f01d73a1df753ea08c468ca40d597ecb02c94) <br>
+> 📖 52 reviews [`521ee00`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/521ee00f75b2d0ecad4434b64b4591ee311e5ce9) <br>
+>  📖 Background color [`5bfea5c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5bfea5c12871b5d44ef68bf1e075d3760e57eafd) <br>
+>  📖 Highlight color [`9427472`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/94274725c1d9aae53eeef6f040c10179a8f1529f) <br>
+>  📖 Comment Color [`6f7376a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6f7376a3042eb1175687e11887ca2ad51940e51a) <br>
+>  📖 Foreground color [`ef7991f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ef7991fcfd192d2155c3c10e30061caec800bad4) <br>
+>  📖 Background Darck Color [`f67e22d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f67e22d90c6f00e44dbe811d0c4bd7b272d1acfe) <br>
+>  📖 Contrast color [`f3dddb7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f3dddb77eeaaafc954b6f9db4f37261cca12e1fa) <br>
+>  📖 Usage + HEX [`34e13d5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/34e13d5a94dce0377facc65d9aced3a6729fca52) <br>
+>  📖 Keywords colors [`4f7f6e9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4f7f6e9284df2604e36d77d26e0c5dfbdbc4fc82) <br>
+>  📖 Definitions color [`8330b69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8330b6980d009ab1eda5ac156f604d73ef411e12) <br>
+>  📖 Hover Background color [`28cae0d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/28cae0d34d5d5ec58c1c6fc6056082385e6992e3) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.17.0...3.18.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
