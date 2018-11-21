@@ -256,7 +256,8 @@ Shades of purple theme is built with several shades of purple and a few contrast
 
 ## COURSE: Become [VSCode Power User →](https://vscode.pro)
 
-After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course.
+<br><a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
   <a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
@@ -286,12 +287,18 @@ I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Deve
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
 _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
-## COURSE: Become [VSCode Power User →](https://vscode.pro)
 
-After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+<br>
+<br>
+<br>
+
+>After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course.
+<br>
+<a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
-  <a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
+  <a href="https://VSCode.pro/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-play.jpg" /><br>VSCode</a>
 
   _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
 </div>
