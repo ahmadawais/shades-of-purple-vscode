@@ -41,4 +41,5 @@ class VSCode extends React.Component {
 	}
 }
 
-VSCode();
+// Show it to all.
+render(VSCode, document.getElementById('root'));
