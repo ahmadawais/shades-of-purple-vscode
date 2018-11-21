@@ -272,7 +272,6 @@ After 10 years with Sublime Text, I switched to VSCode — the new open source c
 
 I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [Dev Couple](https://WPCouple.com/) blog.
 
-
 #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
 
 If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
