@@ -30,7 +30,7 @@ class VSCode extends React.Component {
 		};
 	}
 
-	// Render.
+	// Render it baby.
 	render() {
 		return (
 			<CustomDiv>
