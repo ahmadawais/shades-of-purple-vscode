@@ -123,15 +123,25 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "terminal.integrated.macOptionIsMeta": true,
 "workbench.statusBar.feedback.visible": false,
 // SOP's highlight matching tag setting.
-"highlight-matching-tag.style": {
-    "backgroundColor": "rgba(165, 153, 233, 0.3)"
-},
-"highlight-matching-tag.leftStyle": {
-    "borderWidth": "0"
-},
-"highlight-matching-tag.rightStyle": {
-    "borderWidth": "0"
-},
+"highlight-matching-tag.styles": {
+		"opening": {
+			"full": {
+				"custom": {
+					"backgroundColor": "rgba(165, 153, 233, 0.1)"
+				}
+			},
+			"left": {
+				"custom": {
+					"borderWidth": "0"
+				}
+			},
+			"right": {
+				"custom": {
+					"borderWidth": "0"
+				}
+			}
+		}
+	},
 // SOP's Import Cost Extension Settings.
 "importCost.largePackageColor": "#EC3A37F5",
 "importCost.mediumPackageColor": "#B362FF",
