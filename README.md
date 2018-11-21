@@ -132,6 +132,10 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "highlight-matching-tag.rightStyle": {
     "borderWidth": "0"
 },
+// SOP's Import Cost Extension Settings.
+"importCost.largePackageColor": "#EC3A37F5",
+"importCost.mediumPackageColor": "#B362FF",
+"importCost.smallPackageColor": "#B362FF"
 ```
 
 🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/) →_
