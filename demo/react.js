@@ -16,6 +16,7 @@ const Message = styled.p`
 	font-size: 1.8rem;
 	line-height: 1.45;
 `;
+
 /**
  * VSCode Component.
  *
