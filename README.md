@@ -268,23 +268,12 @@ After 10 years with Sublime Text, I switched to VSCode — the new open source c
 
 ![Hello](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/10_hello.png)
 
-#### **Hello, we're the [Dev Couple](https://WPCouple.com)**!
+#### **Hello, we're the [Dev Couple](https://TheDevCouple.com)**!
 
-I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://WPCouple.com/team), we run the [Dev Couple](https://WPCouple.com/) blog.
+I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog.
 
-#### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568) 🎩
-
-If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you.
-
-<br>
-
-![Partners & Backers](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/11_backers.png)
-
-### Project Backers & [TheDevCouple Partners](https://WPCouple.com/partners) ⚡️
-
-This FOSS (free and open source software) project is updated and maintained with the help of awesome businesses listed below. Without the support from these amazing companies/individuals, this project would not have been possible.
-
-— _What/How? [Read more about it →](https://WPCouple.com/partners)_
+> #### → [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
+> If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
 
 <br>
 
@@ -297,3 +286,12 @@ This FOSS (free and open source software) project is updated and maintained with
 Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
 _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+## COURSE: Become [VSCode Power User →](https://vscode.pro)
+
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+
+<div align="center">
+  <a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
+
+  _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
+</div>
