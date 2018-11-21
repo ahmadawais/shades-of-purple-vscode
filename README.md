@@ -2,7 +2,7 @@
 Improved List Hover, Focus, Drag & Drop background colors.
 </p></div>
 <div align="center">
-<a align="center" href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
+<a align="center" href="https://VSCode.pro/"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 # Shades of Purple Theme for VS Code
 
@@ -47,7 +47,7 @@ Improved List Hover, Focus, Drag & Drop background colors.
 
 ## Video Demo & Installation
 
-Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. New video added.
+Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. _Shhh this video is part of [VSCode.pro course →](https://VSCode.pro/)_
 
 <h4 align="center">
   <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" />
@@ -144,6 +144,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 
 - 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
 - 👌 [Matching styles for the “Highlight Matching Tag” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
+- 👌 [Can you share your VSCode Power User Setup?](https://VSCode.pro/)
 
 <br>
 
