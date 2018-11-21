@@ -33,15 +33,10 @@ class VSCode extends React.Component {
 	// Render it baby.
 	render() {
 		return (
-			<CustomDiv>
-				<button className="VSCode" onClick={() => alert('click')}>
-					{this.props.value}
-				</button>
-
-				<Message msg="Shades of Purple" titleClass="heading">
-					<p>Testing the settings in VSCode Shades of Purple 💜 theme.</p>
-				</Message>
-			</CustomDiv>
+			<Wrap>
+				<button onClick={() => alert('Stop clicking me!')}>{this.props.value}</button>
+				<Message>Testing the React.js Syntax in VSCode Shades of Purple 💜 theme.</Message>
+			</Wrap>
 		);
 	}
 }
