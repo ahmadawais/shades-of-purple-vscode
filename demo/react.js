@@ -5,7 +5,7 @@
  */
 import React from 'react';
 import { render } from 'react-dom';
-import './index.css';
+import styled from 'styled-components';
 
 const justChecking = render();
 justChecking();
