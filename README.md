@@ -256,7 +256,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 
 ## COURSE: Become [VSCode Power User →](https://vscode.pro)
 
-Folks, I have spent an year in making a near-perfect [VSCode.pro](https://vscode.pro) course to help you become a VSCode Power User and learn most of the [VSCode Tips & Tricks](https://vscode.pro). Maybe you'd like to signup, I am launching the course this month.
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
   <a href="https://VSCode.pro/" target="_blank"><img src="https://on.ahmda.ws/283bd9/c" />🎯 Learn VSCode →</a>
