@@ -7,8 +7,10 @@ import React from 'react';
 import { render } from 'react-dom';
 import styled from 'styled-components';
 
-const justChecking = render();
-justChecking();
+const Wrap = styled.div`
+	display: table;
+	width: 100%;
+`;
 
 /**
  * VSCode Component.
