@@ -6,13 +6,48 @@ All notable changes in this project's [released versions](https://github.com/ahm
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-Folks, I have spent an year in making a near-perfect [VSCode.pro](https://vscode.pro) course to help you become a VSCode Power User and learn most of the [VSCode Tips & Tricks](https://vscode.pro). Maybe you'd like to signup, I am launching the course this month.
+## COURSE: Become [VSCode Power User →](https://vscode.pro)
+
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
-<a href="https://VSCode.pro/" target="_blank"><img src="https://on.ahmda.ws/283bd9/c" />🎯 Learn VSCode →</a>
+<a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
 
 _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
 </div>
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [3.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.20.0...3.21.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Proposed Tab Colors [`b683911`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b6839119fe73a1c57dd73e0ac7543fd87ed1016a) <br>
+> 📦 Import Cost in Shades of Purple [`ad9d16d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ad9d16d29a4a07e2616e2613db6dc5959fbaacda) <br>
+> 📦 Spellings [`b0e4600`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b0e4600e8b91814a06d2dddc490393d3dd9ff429) <br>
+> 📦 Images [`6f6ee71`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6f6ee71051d0a6c8d0d8b686d51270e5c3bdeb9e) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 highlight matching tag in shades of purple [`d301308`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d30130808341b8e5cc8f946a9e50be26beb8557a) <br>
+> 👌 Play image [`0be4924`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0be492462f5ad72f4ce9316a1171e096827f5450) <br>
+> 👌 formatting images [`105550d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/105550d628e552aabeb410cedcb8bade87cc9d7e) <br>
+> 👌 Formatting [`888162b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/888162b02b697718e77d55fd4fac5df1e87cc451) <br>
+> 👌 Lingo [`0cdb60b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0cdb60b562a982795b25051f7ce37232667e1ac0) <br>
+> 👌 formatting hr [`d2920c2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d2920c27ac51872c482b444367cdea57a6e70e1e) <br>
+> 👌 Desc for the course [`3e25ade`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3e25ade2e2e42d3a94220bd459f8d7a58ddc6389) <br>
+> 👌 Heading [`495e7d2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/495e7d2b172766123c32d15db48b95563d4e5b47) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Formatting with empty line [`5044abb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5044abb132a2452c701926fa6192803e8db56b2d) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Better Support docs [`e90d7f4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e90d7f47abf57592116537383552fdecb230ba7f) <br>
 
 <br>
 
