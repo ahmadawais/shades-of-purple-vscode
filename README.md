@@ -256,8 +256,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 
 ## COURSE: Become [VSCode Power User →](https://vscode.pro)
 
-After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course.
-<br><a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
   <a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
@@ -273,7 +272,7 @@ After 10 years with Sublime Text, I switched to VSCode — the new open source c
 
 I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog.
 
-> #### → [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
+> #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
 > If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
 
 <br>
@@ -292,9 +291,10 @@ _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/t
 <br>
 <br>
 
->After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course.
+> After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+
 <br>
-<a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+<br>
 
 <div align="center">
   <a href="https://VSCode.pro/" target="_blank">
