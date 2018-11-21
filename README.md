@@ -294,6 +294,8 @@ _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/t
 > After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <br>
+<img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png" />
+<br>
 <br>
 
 <div align="center">
