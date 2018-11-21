@@ -21,6 +21,36 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
+### RELEASE: [v4.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/v4.0.0...v4.1.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Better React.js Example [`350f857`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/350f857df63ca4f6c0fa1cbd5436e5ce0b3524ae) <br>
+> 📦 Spellings [`aac8b71`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/aac8b71298e37f86619e4a6966526be38bbd062a) <br>
+> 📦 Wrap element CSS [`b31b29b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b31b29bd76636d6eaa8c7aa6d762dc1e0fc8fc5f) <br>
+> 📦  Msg CSS [`79c1545`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/79c1545eb6a3aa2f012d9fc1b69f71b5d7ebffd7) <br>
+> 📦 Render it [`27025db`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/27025dbf960039cf8be8fc6ccbcb264aa9a1e15c) <br>
+> 📦 Render it baby. [`3c30801`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3c30801fb4acdaf3e71f36be567936e1955a8071) <br>
+> 📦 styled-components ftw [`23e7341`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/23e7341260f1a5426906f4cef95ec1f23b6936ae) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Formatting [`9c9477c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9c9477c7806df295ae3c2a8a097ddf188b63bf14) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [v4.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.21.0...v4.0.0)
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
 ### RELEASE: [3.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/3.20.0...3.21.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
