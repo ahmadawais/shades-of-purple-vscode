@@ -11,7 +11,7 @@ All notable changes in this project's [released versions](https://github.com/ahm
 After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
-<a href="https://VSCode.pro/" target="_blank"><img src="images/vscodepro.jpg" />🎯 Learn VSCode →</a>
+<a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodepro.jpg" />🎯 Learn VSCode →</a>
 
 _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
 </div>
@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
-### RELEASE: [v4.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.1.0...v4.2.0)
+### RELEASE: [v4.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.2.0...v4.3.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Images from HTTPS [`3e77565`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3e77565a5105f27953b808151a6f10fd1ccf08a1) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.1.0...4.2.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
