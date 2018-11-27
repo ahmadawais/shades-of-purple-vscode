@@ -315,7 +315,7 @@ _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/t
 
 <div align="center">
   <a href="https://VSCode.pro/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-play.jpg" /><br>VSCode</a>
+  <img src="images/vscodepro.jpg" /><br>VSCode</a>
 
   _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
 </div>
