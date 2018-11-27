@@ -8,10 +8,10 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 ## COURSE: Become [VSCode Power User →](https://vscode.pro)
 
-After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions.<br>→ I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
-<a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro-course.jpg" />🎯 Learn VSCode →</a>
+<a href="https://VSCode.pro/" target="_blank"><img src="images/vscodepro.jpg" />🎯 Learn VSCode →</a>
 
 _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
 </div>
@@ -21,7 +21,25 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
-### RELEASE: [v4.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/v4.0.0...v4.1.0)
+### RELEASE: [v4.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.1.0...v4.2.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦  VSCode.pro Image [`1e7392b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1e7392b27b3fc81f6f6727bb76f8b83d988c70fa) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Course images [`b55993b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b55993bc65c44072c4fc78d970a3ee787f632e6f) <br>
+> 🐛 VSCode.pro Borken Images [`077281f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/077281fed698a2ce5d9ee88f48e4720851aa917d) <br>
+> 🐛 BR [`448c708`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/448c708e10a276fb7da6e23f2c3c9a915650ce33) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/v4.0.0...4.1.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
