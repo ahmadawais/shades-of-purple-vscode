@@ -1064,7 +1064,7 @@
 			}
 		},
 		{
-			"name": "[PHP] - Varaiables",
+			"name": "[PHP] - Variables",
 			"scope": [
 				"variable.other.php",
 				"punctuation.definition.variable.php",
