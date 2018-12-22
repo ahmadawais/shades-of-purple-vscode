@@ -1,6 +1,8 @@
-<div align="left"><p><a href="https://github.com/ahmadawais/shades-of-purple-vscode/blob/master/CHANGELOG.md"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/🦄-NEW-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp;
-Improved List Hover, Focus, Drag & Drop background colors.
+<div align="left"><p><a href="https://VSCode.pro/"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong>
+Improved Hover & Focus background colors.
 </p></div>
+
+
 <div align="center">
 <a align="center" href="https://VSCode.pro/"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
