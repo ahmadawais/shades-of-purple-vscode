@@ -932,7 +932,7 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Lists",
-			"scope": "beginning.punctuation.definition.list.markdown",
+			"scope": ["beginning.punctuation.definition.list.markdown", "punctuation.definition.list.begin.markdown", "markup.list.unnumbered.markdown"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
