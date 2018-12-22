@@ -17,3 +17,6 @@ changelog
 ci
 npx
 json
+yaml
+phpdoc
+cs
