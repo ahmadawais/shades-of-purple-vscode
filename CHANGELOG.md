@@ -4,16 +4,16 @@ All notable changes in this project's [released versions](https://github.com/ahm
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?label=Shades%20of%20Purple&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/installs/ahmadawais.shades-of-purple.svg?label=Developers&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+[![Rating](https://img.shields.io/vscode-marketplace/r/ahmadawais.shades-of-purple.svg?label=Ratings&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=sop) [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-## COURSE: Become [VSCode Power User →](https://vscode.pro)
+## COURSE: Become [VSCode Power User →](https://vscode.pro/?utm_source=sop)
 
-After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro#module1">switch today</a> and bring all your <a href="https://VSCode.pro#module2">custom settings</a> and the <a href="https://VSCode.pro#module3">power user workflows</a> for <a href="https://VSCode.pro#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro#module6">Markdown</a>, and everything from <a href="https://VSCode.pro#module7">JavaScript</a> to <a href="https://VSCode.pro#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/" target="_blank">Learn Visual Studio Code →</a>
+After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro/?utm_source=sop#module1">switch today</a> and bring all your <a href="https://VSCode.pro/?utm_source=sop#module2">custom settings</a> and the <a href="https://VSCode.pro/?utm_source=sop#module3">power user workflows</a> for <a href="https://VSCode.pro/?utm_source=sop#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro/?utm_source=sop#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro/?utm_source=sop#module6">Markdown</a>, and everything from <a href="https://VSCode.pro/?utm_source=sop#module7">JavaScript</a> to <a href="https://VSCode.pro/?utm_source=sop#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro/?utm_source=sop#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/?utm_source=sop" target="_blank">Learn Visual Studio Code →</a>
 
 <div align="center">
-<a href="https://VSCode.pro/" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodepro.jpg" />🎯 Learn VSCode →</a>
+<a href="https://VSCode.pro/?utm_source=sop" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/vscodepro.jpg" />🎯 Learn VSCode →</a>
 
-_<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course →</a></small>_
+_<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Power User Course →</a></small>_
 </div>
 <br>
 
@@ -21,7 +21,30 @@ _<small><a href="https://VSCode.pro/" target="_blank">VSCode Power User Course �
 
 <br>
 
-### RELEASE: [v4.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.2.0...v4.3.0)
+### RELEASE: [v4.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.3.0...v4.4.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Top bar [`ac54743`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ac54743e3ebe8154419756da97f86d931d5ff81f) <br>
+> 📦 Markdown list syntax colors [`7a220cf`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7a220cf9f4d5bf434fa305c4a82da8a5d6ebc333) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 UTM Source [`cf225cb`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cf225cb31f5dd8c6e980bdb1aa80de06da6db6d0) <br>
+> 👌 UTM Source [`31a5a01`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/31a5a01dc6cf6cf3df6ca0656ab0ee8a791b76d8) <br>
+> 👌 Spellings [`61969ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/61969ba967eae3829e4aa89ab1d194a36fb999b0) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Spelligns [`7049d8a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7049d8ae33b2fd06850522e76306d1e043e550d7) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.2.0...4.3.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
