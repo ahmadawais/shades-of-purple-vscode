@@ -9,6 +9,7 @@ Improved Markdown list syntax colors.
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?subject=Shades%20of%20Purple&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/downloads/ahmadawais.shades-of-purple.svg?subject=Developers&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
 [![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=sop)
 
 </div>
