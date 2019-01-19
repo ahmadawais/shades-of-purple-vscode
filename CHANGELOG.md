@@ -21,7 +21,20 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.3.0...v4.4.0)
+### RELEASE: [v4.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.4.0...v4.5.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Dev Badge [`fb0cd8b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fb0cd8b5ea27e2bbb1b345c2b598fb1749310f07) <br>
+>  📖 Ratings badge [`9488aa0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9488aa0dd9b7ac938f9027387aac5294641b6d1f) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.3.0...4.4.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
