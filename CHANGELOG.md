@@ -21,7 +21,21 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.4.0...v4.5.0)
+### RELEASE: [v4.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.5.0...v4.6.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Markdow Test Headings [`db564f8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/db564f842af3b8c530992991a8f089ddf14e0bec) <br>
+> 📦 Markdown Test Mixed Lists [`3a865c2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3a865c28648ae369d7211949596d8c3fd59c7c86) <br>
+> 📦 Markdow Test Lists [`82c9d75`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/82c9d75a6eef157fda907a6eea4d080a909e8883) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.4.0...4.5.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
