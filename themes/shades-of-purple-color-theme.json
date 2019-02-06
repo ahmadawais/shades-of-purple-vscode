@@ -351,6 +351,11 @@
 		"editor.snippetTabstopHighlightBorder": "#1E1E3F",
 		"editor.snippetFinalTabstopHighlightBackground": "#1E1E3F",
 
+		// Tree List Filter Colors.
+		"listFilterWidget.background": "#2D2B55",
+		"listFilterWidget.outline": "#2D2B55",
+		"listFilterWidget.noMatchesOutline": "#EC3A37F5",
+
 		// TODO: Colors to be added.
 		// "inputValidation.infoForeground": "#00000000", // Input validation foreground color for information severity.
 		// "inputValidation.warningForeground": "#00000000", // Input validation foreground color for warning severity.
