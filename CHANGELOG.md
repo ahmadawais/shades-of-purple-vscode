@@ -21,7 +21,29 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.5.0...v4.6.0)
+### RELEASE: [v4.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.6.0...v4.7.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Vue Sample Demo [`6439e17`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6439e1757ea89f2595b7d22b4a7851449b78b201) <br>
+> 📦 Tree List Filter Colors [`8f14f2d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8f14f2d6f533f8f0f484117f66bc34637357291e) <br>
+> 📦 Update in 4.7.0 [`ee2d68c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ee2d68ce7ae88a6d472e7ace3815d2014407ebd5) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Spellings [`0a344a9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a344a9b73f7157a171a152668b151fe0764c0e6) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Typos [`0ff34f5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0ff34f55805044bafd8a39784c2b4fe66af6cb58) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.5.0...4.6.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
