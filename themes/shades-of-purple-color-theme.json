@@ -60,12 +60,12 @@
 		"editorLineNumber.foreground": "#A599E9", // Color of editor line numbers.
 		"editorCursor.foreground": "#FAD000", //  Color of the editor cursor.
 
-		//  The slection color battle starts here.
+		//  The selection color battle starts here.
 		"editor.selectionBackground": "#B362FF88", // Color of the editor selection.
 		"editor.inactiveSelectionBackground": "#7580B8C0", // Color of the selection in an inactive editor. The color must not be opaque to not hide underlying decorations.
 		"editor.selectionHighlightBackground": "#7E46DF46", // Color for regions with the same content as the selection. The color must not be opaque to not hide underlying decorations.
 		"editor.wordHighlightBackground": "#FFFFFF0D", // Same words other places.
-		"editor.wordHighlightStrongBackground": "#FFFFFF0D", // Cursor inside current vairable.
+		"editor.wordHighlightStrongBackground": "#FFFFFF0D", // Cursor inside current variable.
 		"editor.findMatchBackground": "#FF7200", // Color of the current search match.
 		"editor.findMatchHighlightBackground": "#FFFF0336", // #FF730056 Color of the other search matches.The color must not be opaque to not hide underlying decorations.
 		"editor.findRangeHighlightBackground": "#FFFF0336", // #FF730056 No idea. Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque to not hide underlying decorations.
