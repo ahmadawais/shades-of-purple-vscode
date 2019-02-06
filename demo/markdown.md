@@ -40,3 +40,19 @@ function sum( x, y ) { return x + y; }
 
 > Cool markdown block-quote, the syntax is hidden and you can just write stuff.
 > Follow Ahmad on [Twitter @MrAhmadAwais →](https://twitter.com/MrAhmadAwais/)
+
+---
+
+## Markdown Test
+
+# Heading #1
+
+## Heading #2
+
+### Heading #3
+
+#### Heading #4
+
+##### Heading #5
+
+###### Heading #6
