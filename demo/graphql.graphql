@@ -1,0 +1,24 @@
+query($extensionName: String!) {
+	extensionsJson(extensionName: { eq: $extensionName }) {
+		extensionName
+		displayName
+		shortDescription
+		tags
+		categories
+		publisher {
+			publisherName
+			displayName
+		}
+		statistics {
+			statisticName
+			value
+		}
+		versions {
+			version
+			files {
+				assetType
+				source
+			}
+		}
+	}
+}
