@@ -1230,6 +1230,14 @@
 			}
 		},
 		{
+			"name": "[GRAPHQL] — Variable",
+			"scope": [
+				"variable.graphql"
+			],
+			"settings": {
+				"foreground":"#FAEFA5",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
