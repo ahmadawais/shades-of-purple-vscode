@@ -1,5 +1,5 @@
 <div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong>
-Improved List/Tree & Markdown colors.
+Improved List/Tree & GraphQL Syntax colors.
 </p></div>
 
 <div align="center">
