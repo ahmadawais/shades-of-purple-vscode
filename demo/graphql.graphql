@@ -1,24 +1,17 @@
-query($extensionName: String!) {
-	extensionsJson(extensionName: { eq: $extensionName }) {
-		extensionName
-		displayName
-		shortDescription
-		tags
+query($teamName: String!) {
+	teamsJson(teamName: { eq: $teamName }) {
+		name
 		categories
-		publisher {
-			publisherName
+		user {
+			userName
 			displayName
 		}
-		statistics {
+		facts {
 			statisticName
 			value
 		}
 		versions {
-			version
-			files {
-				assetType
-				source
-			}
+			files
 		}
 	}
 }
