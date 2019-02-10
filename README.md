@@ -254,6 +254,8 @@ Shades of purple theme is built with several shades of purple and a few contrast
 | Foreground       | ![#A599E9](https://placehold.it/15/A599E9/000000?text=+) `#A599E9`       |
 | Hover Background | ![#4D21FC](https://placehold.it/15/4D21FC/000000?text=+) `#4D21FC`       |
 | Contrast         | ![#FAD000](https://placehold.it/15/FAD000/000000?text=+) `#FAD000`       |
+| Contrast Lite    | ![#FFEE80](https://placehold.it/15/FFEE80/000000?text=+) `#FFEE80`       |
+| Contrast Lite II | ![#FAEFA5](https://placehold.it/15/FAEFA5/000000?text=+) `#FAEFA5`       |
 | Highlight        | ![#FF7200](https://placehold.it/15/FF7200/000000?text=+) `#FF7200`       |
 | Comment          | ![#B362FF](https://placehold.it/15/B362FF/000000?text=+) `#B362FF`       |
 | Constants        | ![#FF628C](https://placehold.it/15/FF628C/000000?text=+) `#FF628C`       |
