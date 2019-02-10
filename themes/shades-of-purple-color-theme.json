@@ -1238,6 +1238,16 @@
 				"foreground":"#FAEFA5",
 			}
 		},
+		{
+			"name": "[GRAPHQL] — Keywords",
+			"scope": [
+				"keyword.operation.graphql"
+			],
+			"settings": {
+				"foreground": "#FB94FF",
+			}
+		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
