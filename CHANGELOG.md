@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.6.0...v4.7.0)
+### RELEASE: [v4.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.7.0...v4.8.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 GraphQL Demo [`10cd0db`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/10cd0dbadf7f181e887d126ec471b22e3129c60d) <br>
+> 📦 GraphQL demo [`b2caf43`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b2caf43c45835fefed07b2f9665cb9c9aa094960) <br>
+> 📦 GraphQL keywords syntax colors [`9dd8429`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9dd8429192da4eb1e854dc46cc21df4758ea76cb) <br>
+> 📦 GraphQL varaibales syntax [`6962b13`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6962b13f7c6c3b3c876304a551ab3f6d4a4db606) <br>
+> 📦 Grammar [`28ba6f8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/28ba6f8c70141b22de78216f174b904523e9f878) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.6.0...4.7.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
