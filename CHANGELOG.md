@@ -21,7 +21,21 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.7.0...v4.8.0)
+### RELEASE: [v4.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.8.0...v4.9.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 New colors for contrast [`89d176d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/89d176d013eba60654e96f3eb8260882bced066e) <br>
+> 📖 72 ratings [`e175a66`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e175a665938c8bb51e1c0047fba6484b5432898d) <br>
+> 📖 GraphQL info [`58219f9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/58219f926fb2d0b9868aa0c788f01ea9af645a91) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.7.0...4.8.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
