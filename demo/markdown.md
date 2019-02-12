@@ -59,6 +59,9 @@ function sum( x, y ) { return x + y; }
 
 ## Lists
 
+- Red
+- Green
+- Blue
 - This
 - That
   1. First
