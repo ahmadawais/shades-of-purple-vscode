@@ -43,7 +43,7 @@ function sum( x, y ) { return x + y; }
 
 ---
 
-## Markdown Test
+## Markdown Syntax — Kitchen Sink
 
 # Heading #1
 
