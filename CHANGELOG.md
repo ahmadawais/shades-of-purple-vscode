@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.8.0...v4.9.0)
+### RELEASE: [v4.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.9.0...v4.10.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Blockquote &amp; Nested elements [`3dfae87`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3dfae8785c842324abb2e1f4ff28a6a36d9339a3) <br>
+> 📦 Emphasis &amp; Italics [`2aa3e23`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2aa3e23912bd4537fe966f6461704c7a7f59e40e) <br>
+> 📦 Lists [`0f0b50e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0f0b50ec640a06959449e5fd38d3606f34acd77b) <br>
+> 📦 Markdown Syntax — Kitchen Sink [`4e34c45`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4e34c453bde4d92c55d33da28713c823d58bb82d) <br>
+> 📦 Grammar [`62690f2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/62690f2290a546d052b4f8a02cdf210f92983e33) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.8.0...4.9.0)
 
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
