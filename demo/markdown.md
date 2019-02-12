@@ -71,3 +71,17 @@ function sum( x, y ) { return x + y; }
   - Again
     - Open
     - Close
+
+## Blockquote & Nested elements
+> Blockquote: Code is poetry.
+
+
+> ## This is a header
+>
+> 1. This is the first list item.
+> 2. This is the second list item.
+>
+> Here's some example code:
+>
+>     Markdown.generate();
+
