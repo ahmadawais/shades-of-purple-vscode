@@ -85,3 +85,6 @@ function sum( x, y ) { return x + y; }
 >
 >     Markdown.generate();
 
+## Emphasis & Italics
+
+This is **bold** and this is just *italic*.
