@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.10.0...v4.11.0)
+### RELEASE: [v4.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.11.0...v4.12.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 No extra meta data [`1b0071f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1b0071f124f2f8babb818d40d138602233e85107) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.10.0...4.11.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
