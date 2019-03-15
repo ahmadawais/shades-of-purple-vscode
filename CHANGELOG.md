@@ -21,7 +21,27 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.9.0...v4.10.0)
+### RELEASE: [v4.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.10.0...v4.11.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Prism React &amp; Code Surfer Themes [`4510baa`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4510baaccbbf77b4158ac59da56de26394282b0b) <br>
+> 📦 Meta data [`a80a035`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a80a035253e63e2caded983b7bbdecb897965744) <br>
+> 📦 HighlightJS Theme [`adefdc5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/adefdc5c50561f8221e39bec5be04d6193c28de0) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Unicorn emoji [`d963d96`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d963d96034efd86d33f9efaea3fd59aaad1b474f) <br>
+> 👌 Stats and Description [`4beb80f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4beb80f4f1d2dbac4bce9dfb1f0898ec07337143) <br>
+> 👌 The &#x60;findMatchBackground&#x60; Color [`4429b24`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4429b24f719a7995b1ec59171fab64465f3f9b50) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.9.0...4.10.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
