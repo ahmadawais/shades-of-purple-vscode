@@ -29,10 +29,8 @@ if ( current_user_can( 'administrator' ) || current_user_can( 'subscriber' ) ) {
 // Footer.
 get_footer();
 
-
-
 /**
- * Small  Class.
+ * Small Class.
  *
  * @since 1.0.0
  */
@@ -57,3 +55,6 @@ class Small {
 		return $num1 + $num2;
 	}
 }
+
+// SQL for the win.
+$get = "SELECT * FROM mainweb WHERE country='$country_form' AND who='host' ORDER BY date DESC";
