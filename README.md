@@ -1,5 +1,5 @@
 <div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong>
-Improved List/Tree & GraphQL Syntax colors.
+Improved SQL & GraphQL Syntax colors.
 </p></div>
 
 <div align="center">
@@ -67,7 +67,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 3. Click **Install** to install it.
 4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
-6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 74+ awesome devs to appreciate the effort behind this theme.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 75+ awesome devs to appreciate the effort behind this theme.
 
 <br>
 
@@ -169,7 +169,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <div align="center">
 
 ![Markdown Syntax](https://img.shields.io/badge/SYNTAX-Markdown-gray.svg?colorB=5532F3)
-![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)
+[![markdown](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/markdown.png)][course]
 
 <br>
 
@@ -178,7 +178,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![JavaScript Syntax](https://img.shields.io/badge/SYNTAX-JavaScript-gray.svg?colorB=5532F3)
-![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)
+[![JavaScript](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/JavaScript.png)][course]
 
 <br>
 
@@ -187,7 +187,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![PHP Syntax](https://img.shields.io/badge/SYNTAX-PHP-gray.svg?colorB=5532F3)
-![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)
+[![PHP](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/PHP.png)][course]
 
 <br>
 
@@ -196,7 +196,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![HTML Syntax](https://img.shields.io/badge/SYNTAX-HTML-gray.svg?colorB=5532F3)
-![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)
+[![HTML](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/HTML.png)][course]
 
 <br>
 
@@ -205,7 +205,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![Pug Syntax](https://img.shields.io/badge/SYNTAX-Pug-gray.svg?colorB=5532F3)
-![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)
+[![Pug](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Pug.png)][course]
 
 <br>
 
@@ -214,7 +214,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![Python Syntax](https://img.shields.io/badge/SYNTAX-Python-gray.svg?colorB=5532F3)
-![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)
+[![Python](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Python.png)][course]
 
 <br>
 
@@ -223,7 +223,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 <br>
 
 ![Go Syntax](https://img.shields.io/badge/SYNTAX-Go-gray.svg?colorB=5532F3)
-![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)
+[![Go](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/Go.png)][course]
 
 </div>
 
@@ -324,3 +324,5 @@ _👋 Follow Ahmad on Twitter_ — [![Ahmad on Twitter](https://img.shields.io/t
 
   _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Power User Course →</a></small>_
 </div>
+
+[course]: https://VSCode.pro/?utm_source=sop
