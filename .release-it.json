@@ -13,6 +13,10 @@
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
 	},
+	"git": {
+		"commitMessage": "🦄 Release ${version}",
+		"tagAnnotation": "🦄 Release ${version}"
+	},
 	"npm": {
 		"publish": true
 	},
