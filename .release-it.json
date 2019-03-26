@@ -6,6 +6,9 @@
 	"increment": "minor",
 	"beforeChangelogCommand": "auto-changelog",
 	"safeBump": false,
+	"scripts": {
+		"beforeStage": "auto-changelog"
+	},
 	"src": {
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
