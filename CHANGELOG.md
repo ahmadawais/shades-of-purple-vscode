@@ -21,7 +21,35 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.13.0...v4.13.0)
+### RELEASE: [v4.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.14.0...v4.15.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Git&#x27;s commit message &amp; tag [`3347909`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3347909f880065cc68c6f9a428cc76d0a7af1c0b) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Release scripts and changelogs [`3b09a65`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3b09a658b700c74a0c35772620c4b9fcb9fa15be) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.13.0...4.14.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Spellings [`2afa35c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2afa35cee13846ec0bc60e343531efa965429ad4) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Auto log feature [`03a18a6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/03a18a6f6b2fd5fca0ca8aef658122f079a59326) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Update the changelog [`ddd2c30`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ddd2c30e29104198186e2eeba9da7b91d48020b4) <br>
 
 <br>
 
