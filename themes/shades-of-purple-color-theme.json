@@ -1269,7 +1269,8 @@
 		{
 			"name": "[SQL] — Functions Used",
 			"scope": [
-				"support.function.mysqli.php"
+				"support.function.mysqli.php",
+				"source.sql support.function"
 			],
 			"settings": {
 				"foreground": "#FAD000"
