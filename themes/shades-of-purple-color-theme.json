@@ -1266,6 +1266,15 @@
 				"foreground": "#FAEFA5"
 			}
 		},
+		{
+			"name": "[SQL] — Functions Used",
+			"scope": [
+				"support.function.mysqli.php"
+			],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
 			],
 			"settings": {
 				"foreground": "#FF9D00"
