@@ -1276,9 +1276,16 @@
 				"foreground": "#FAD000"
 			}
 		},
+		{
+			"name": "[SQL] — RegExp String",
+			"scope": [
+				"string.regexp",
+				"string.regexp keyword.other"
 			],
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#E1EFFF"
+			}
+		},
 			}
 		},
 			"name": "[ITALICS] All the awesome italics live here.",
