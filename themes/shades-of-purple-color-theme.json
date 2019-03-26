@@ -1248,6 +1248,14 @@
 			}
 		},
 		{
+			"name": "[SQL] Source",
+			"scope": [
+				"source.sql"
+			],
+			"settings": {
+				"foreground": "#E1EFFF"
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
