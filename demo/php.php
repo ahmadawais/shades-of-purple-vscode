@@ -57,4 +57,8 @@ class Small {
 }
 
 // SQL for the win.
-$get = "SELECT * FROM mainweb WHERE country='$country_form' AND who='host' ORDER BY date DESC";
+$get = "SELECT *
+			FROM blog
+			WHERE country='$country'
+			AND who='host'
+			ORDER BY date DESC";
