@@ -1256,6 +1256,15 @@
 				"foreground": "#E1EFFF"
 			}
 		},
+		{
+			"name": "[SQL] — Keywords",
+			"scope": [
+				"source.sql keyword.other"
+			],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
