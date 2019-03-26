@@ -1286,8 +1286,16 @@
 				"foreground": "#E1EFFF"
 			}
 		},
+		{
+			"name": "[SQL] — Other keywords",
+			"scope": [
+				"keyword.other.DML.sql"
+			],
+			"settings": {
+				"foreground":"#FF9D00",
 			}
 		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
