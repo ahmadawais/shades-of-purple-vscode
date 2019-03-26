@@ -57,7 +57,8 @@
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
 		"release": "release-it && npx vsce publish",
 		"release-major": "release-it major && npx vsce publish",
-		"release-dry": "release-it --dry-run"
+		"release-dry": "release-it --dry-run",
+		"beforeStage": "auto-changelog"
 	},
 	"__metadata": {
 		"id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
