@@ -1259,7 +1259,13 @@
 		{
 			"name": "[SQL] — Keywords",
 			"scope": [
-				"source.sql keyword.other"
+				"source.sql keyword.other",
+				"support.function.mysqli.php"
+			],
+			"settings": {
+				"foreground": "#FAEFA5"
+			}
+		},
 			],
 			"settings": {
 				"foreground": "#FF9D00"
