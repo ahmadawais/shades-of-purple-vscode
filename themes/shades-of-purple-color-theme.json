@@ -1331,6 +1331,15 @@
 				"foreground": "#FAD000"
 			}
 		},
+		{
+			"name": "[DOCKER] — Keywords",
+			"scope": [
+				"keyword.other.special-method.dockerfile"
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
