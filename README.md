@@ -1,5 +1,4 @@
-<div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong>
-Improved SQL & GraphQL Syntax colors.
+<div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong> Dockerfile, TOML, & YML syntax colors.
 </p></div>
 
 <div align="center">
@@ -20,7 +19,7 @@ Improved SQL & GraphQL Syntax colors.
     <tr>
         <td align='left' width='100%' colspan='2'>
             <strong><code>🦄 Shades of Purple (SOP)</code></strong><br />
-            A professional theme with hand-picked & bold shades of purple to go along with your VS Code. One of the best and top rated VSCode Themes in the marketplace. Become a <a href="https://VSCode.pro/?utm_source=sop" target="_blank">Visual Studio Code Power User →</a>
+            A professional theme with hand-picked & bold shades of purple for your VS Code editor and terminal. One of the excellent most downloaded and top rated VSCode Themes on the marketplace. Become a <a href="https://VSCode.pro/?utm_source=sop" target="_blank">Visual Studio Code Power User →</a>
         </td>
     </tr>
     <tr>
