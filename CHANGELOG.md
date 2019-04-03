@@ -21,7 +21,36 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.14.0...v4.15.0)
+### RELEASE: [v4.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.15.0...v4.16.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Demo dockerfile [`b5e3e34`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5e3e34d30cbd7105fc3d0517e283aa83250e32f) <br>
+> 📦 YML Keywords &amp; Punctuation color [`05dc481`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05dc481335b03a6bdaba9cc41e31355018f8d9ac) <br>
+> 📦 Other keywords [`e502087`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e502087b3941db27919761a3f90640a7a7225b64) <br>
+> 📦 Dockerfile Keyword colors [`b7b9b77`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b7b9b77b8189bb7fcf9669da1015b37bb1eeb656) <br>
+> 📦 TOML Keywords [`e879e02`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e879e021747d8779dc67852d43d70cf6df60d72f) <br>
+> 📦 Demo TOML file [`f5440ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f5440ba79c8292ab653290850e4f645a0e05efcd) <br>
+> 📦 TOML Syntax [`e9fa272`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e9fa272249a2080e2feb775d8d7c2ae7b617881a) <br>
+> 📦 Spellings [`cd36be1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cd36be1c1abf4e788d548003cae83925da0ed856) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Syntax colors [`49fc397`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/49fc39781eb351161ab9698a31b50ab122c5c415) <br>
+> 👌 Dockerfile Keyword colors [`1e558fa`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1e558fac31e03b75582681280873a898d8cfa5b1) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 New updates and description [`d8f0762`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d8f0762437fbb1ddbe80563c0417b5f074b81e21) <br>
+>  📖 New description [`b961769`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b961769773f52e4d90ddb543beca3ca67961540a) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.14.0...4.15.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
