@@ -1337,7 +1337,7 @@
 				"keyword.other.special-method.dockerfile"
 			],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FAD000",
 			}
 		},
 			"name": "[ITALICS] All the awesome italics live here.",
