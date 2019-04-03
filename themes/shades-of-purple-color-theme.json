@@ -1312,6 +1312,16 @@
 				"foreground": "#E1EFFF"
 			}
 		},
+		{
+			"name": "[TOML] — Other keywords",
+			"scope": [
+				"entity.other.attribute-name.table.array.toml",
+				"entity.other.attribute-name.table.toml"
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
