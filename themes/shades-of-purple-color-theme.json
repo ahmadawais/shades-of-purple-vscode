@@ -1103,6 +1103,7 @@
 				"foreground": "#E1EFFF"
 			}
 		},
+		{
 			"name": "[PHP] - Keywords for definition",
 			"scope": ["storage.type.function.php", "meta.function.parameters.php"],
 			"settings": {
@@ -1323,7 +1324,7 @@
 			}
 		},
 		{
-			"name": "[TOML] — KEYWORDS",
+			"name": "[TOML] — Keywords",
 			"scope": [
 				"keyword.key.toml"
 			],
@@ -1340,6 +1341,7 @@
 				"foreground": "#FAD000",
 			}
 		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
