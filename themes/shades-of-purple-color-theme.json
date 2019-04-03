@@ -1088,13 +1088,21 @@
 			}
 		},
 		{
-			"name": "[YML]",
-			"scope": ["punctuation.definition.block.sequence.item.yaml"],
+			"name": "[YML] — KEYWORDS",
+			"scope": [ "entity.name.tag.yaml"],
 			"settings": {
-				"foreground": "#FF9D00"
+				"foreground": "#FAD000"
 			}
 		},
 		{
+			"name": "[YML] — Punctuation",
+			"scope": [
+				"punctuation.definition.block.sequence.item.yaml",
+			],
+			"settings": {
+				"foreground": "#E1EFFF"
+			}
+		},
 			"name": "[PHP] - Keywords for definition",
 			"scope": ["storage.type.function.php", "meta.function.parameters.php"],
 			"settings": {
