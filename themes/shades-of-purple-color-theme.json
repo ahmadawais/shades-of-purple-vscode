@@ -1322,6 +1322,15 @@
 				"foreground": "#FF9D00",
 			}
 		},
+		{
+			"name": "[TOML] — KEYWORDS",
+			"scope": [
+				"keyword.key.toml"
+			],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
