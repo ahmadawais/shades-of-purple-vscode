@@ -347,9 +347,7 @@
 		"menu.separatorBackground":"#A599E9",
 
 		// Tab stops.
-		"editor.snippetTabstopHighlightBackground": "#1E1E3F",
-		"editor.snippetTabstopHighlightBorder": "#1E1E3F",
-		"editor.snippetFinalTabstopHighlightBackground": "#1E1E3F",
+		"editor.snippetTabstopHighlightBackground": "#6943ff62",
 
 		// Tree List Filter Colors.
 		"listFilterWidget.background": "#2D2B55",
