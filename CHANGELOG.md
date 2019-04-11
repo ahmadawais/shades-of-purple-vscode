@@ -21,17 +21,32 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.15.0...v4.16.0)
+### RELEASE: [v4.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.16.0...v4.17.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 snippet Tabstop HighlightBackground [`ede0e58`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ede0e583c78c98771ac322fe6d89776cd914f1d9) <br>
+> 📦 Highlight border color of the final tabstop of a snippet [`8f59584`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8f595843ff29a575405c85bf190f7f3874165932) <br>
+> 📦 Highlight background color of the final tabstop of a snippet [`c8d3ae0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c8d3ae0c53a9270706a6698be9f431807bf1711d) <br>
+> 📦 Highlight border color of a snippet tabstop [`33d308a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/33d308aa4b469fa3e4f24fc4df90fccbe70b3a93) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.16.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.15.0...4.16.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Demo dockerfile [`b5e3e34`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5e3e34d30cbd7105fc3d0517e283aa83250e32f) <br>
 > 📦 YML Keywords &amp; Punctuation color [`05dc481`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05dc481335b03a6bdaba9cc41e31355018f8d9ac) <br>
 > 📦 Other keywords [`e502087`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e502087b3941db27919761a3f90640a7a7225b64) <br>
-> 📦 Dockerfile Keyword colors [`b7b9b77`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b7b9b77b8189bb7fcf9669da1015b37bb1eeb656) <br>
 > 📦 TOML Keywords [`e879e02`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e879e021747d8779dc67852d43d70cf6df60d72f) <br>
-> 📦 Demo TOML file [`f5440ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f5440ba79c8292ab653290850e4f645a0e05efcd) <br>
+> 📦 Dockerfile Keyword colors [`b7b9b77`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b7b9b77b8189bb7fcf9669da1015b37bb1eeb656) <br>
 > 📦 TOML Syntax [`e9fa272`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e9fa272249a2080e2feb775d8d7c2ae7b617881a) <br>
+> 📦 Demo TOML file [`f5440ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f5440ba79c8292ab653290850e4f645a0e05efcd) <br>
 > 📦 Spellings [`cd36be1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cd36be1c1abf4e788d548003cae83925da0ed856) <br>
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
