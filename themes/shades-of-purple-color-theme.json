@@ -350,6 +350,7 @@
 		"editor.snippetTabstopHighlightBackground": "#6943ff62",
 		"editor.snippetTabstopHighlightBorder": "#6943ff62",
 		"editor.snippetFinalTabstopHighlightBackground": "#6943ff62",
+		"editor.snippetFinalTabstopHighlightBorder": "#6943ff62",
 
 		// Tree List Filter Colors.
 		"listFilterWidget.background": "#2D2B55",
