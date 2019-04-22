@@ -79,5 +79,5 @@ if (ahmad) {
 } else if (awais) {
 	console.log('Awais is making 🦄 Shades of Purple');
 } else {
-	console.log(`${ hello } In the middle of no where!`);
+	console.log(`${hello} In the middle of no where!`);
 }
