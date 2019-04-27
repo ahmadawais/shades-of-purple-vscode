@@ -1,4 +1,4 @@
-<div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong> Dockerfile, TOML, & YML syntax colors.
+<div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong> Rust-lang, Diff, Docker syntax support.
 </p></div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?subject=Shades%20of%20Purple&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Developers Using Shades of Purple](https://vsmarketplacebadge.apphb.com/downloads/ahmadawais.shades-of-purple.svg?subject=Developers&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
-[![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=sop)
+[![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)][course]
 
 </div>
 
@@ -47,7 +47,7 @@
 
 ## Video Demo & Installation
 
-Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. _Shhh this video is part of [VSCode.pro course →](https://VSCode.pro/?utm_source=sop)_
+Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. _Shhh this video is part of [VSCode.pro course →][course]_
 
 <h4 align="center">
   <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" />
@@ -148,7 +148,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "importCost.smallPackageColor": "#B362FF"
 ```
 
-🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro](https://VSCode.pro/?utm_source=sop). Interested?! Sign up to become a [VSCode Power User](https://VSCode.pro/?utm_source=sop) →_
+🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro][course]. Interested?! Sign up to become a [VSCode Power User][course] →_
 
 <br>
 
@@ -159,7 +159,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 - 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
 - 👌 [Matching styles for the “Highlight Matching Tag” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
 - 👌 [Matching styles for the “Indent Rainbow” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/37)
-- 👌 [Can you share your VSCode Power User Setup?](https://VSCode.pro/?utm_source=sop)
+- 👌 [Can you share your VSCode Power User Setup?][course]
 
 <br>
 
@@ -274,7 +274,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 
 ![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
 
-## COURSE: Become [VSCode Power User →](https://vscode.pro/?utm_source=sop)
+## COURSE: Become [VSCode Power User →][course]
 
 After 10 years with Sublime Text, I switched to VSCode — the new open source cross-platform editor everyone's talking about. I've spent over a 1,000 hours perfecting my setup to help you <a href="https://VSCode.pro/?utm_source=sop#module1">switch today</a> and bring all your <a href="https://VSCode.pro/?utm_source=sop#module2">custom settings</a> and the <a href="https://VSCode.pro/?utm_source=sop#module3">power user workflows</a> for <a href="https://VSCode.pro/?utm_source=sop#module4">HTML/CSS</a>, GitHub/<a href="https://VSCode.pro/?utm_source=sop#module5">Git &amp; Open Source</a>, supercharged <a href="https://VSCode.pro/?utm_source=sop#module6">Markdown</a>, and everything from <a href="https://VSCode.pro/?utm_source=sop#module7">JavaScript</a> to <a href="https://VSCode.pro/?utm_source=sop#module8">PHP</a>, Go, Python, C++, C#, ROR &amp; 50+ Extensions. I'm <a href="https://VSCode.pro/?utm_source=sop#module9">sharing it all</a> in five hours — 65 videos online course. <a href="https://VSCode.pro/?utm_source=sop" target="_blank">Learn Visual Studio Code →</a>
 
