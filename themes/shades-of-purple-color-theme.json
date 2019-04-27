@@ -1382,6 +1382,14 @@
 			}
 		},
 		{
+			"name": "[RUST] — Keywords",
+			"scope": [
+				"keyword.other.rust"
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
