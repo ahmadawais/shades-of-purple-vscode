@@ -887,6 +887,15 @@
 			}
 		},
 		{
+			"name": "[MARKDOWN] - Diff Code Inserted Block",
+			"scope": [
+				"markup.inserted.diff",
+				"punctuation.definition.inserted.diff"
+			],
+			"settings": {
+				"foreground": "#8efa00",
+			}
+		},
 			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
