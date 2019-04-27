@@ -21,7 +21,30 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.17.0...v4.18.0)
+### RELEASE: [v5.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.18.0...v5.0.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Diff Meta text [`46b5b46`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/46b5b465f386d62a0227dd56bb6ed771b8781987) <br>
+> 📦 Rust lang support [`72ecec0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/72ecec0fe6ae95796c23195e5b0c24e3989f5667) <br>
+> 📦 Rust-lang, Diff, Docker syntax support [`b3cb06a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b3cb06aa5cef3046d27a341e1b0710ddf2b5b134) <br>
+> 📦 Rust fn definitions [`ea10ff4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ea10ff4d08cf10cffff6386d148ce160f9baa6c2) <br>
+> 📦 Diff Deleted Code Block [`07b9773`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/07b9773d582778774be56083934e0107b7f83e63) <br>
+> 📦 Diff Code Inserted [`b0def02`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b0def024eb039c6d41a4d1ebb19550dd404d029d) <br>
+> 📦 Diff Styles [`4f644f1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4f644f10bb1f3d8d703b41fe3b4f6d5fe3d05b4d) <br>
+> 📦 Rust Keywords [`b0b6b82`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b0b6b8251b0403fe864d6d6dc2e7c30c1ff2a74b) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Spellings [`429b916`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/429b916cc4b0e97ddca7d6f9f221d936ced3d74a) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.17.0...4.18.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
