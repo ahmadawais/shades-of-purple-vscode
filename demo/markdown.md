@@ -75,7 +75,6 @@ function sum( x, y ) { return x + y; }
 ## Blockquote & Nested elements
 > Blockquote: Code is poetry.
 
-
 > ## This is a header
 >
 > 1. This is the first list item.
