@@ -1390,6 +1390,16 @@
 				"foreground": "#FF9D00",
 			}
 		},
+		{
+			"name": "[RUST] — Keyword Fn",
+			"scope": [
+				"keyword.other.fn.rust"
+			],
+			"settings": {
+				"foreground": "#FB94FF",
+			}
+		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
