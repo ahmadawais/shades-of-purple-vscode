@@ -21,7 +21,28 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v4.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.16.0...v4.17.0)
+### RELEASE: [v4.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.17.0...v4.18.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Indent Rainbow matching styles [`288a14c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/288a14c916870cbf9accb4c2c8e5dbfb9d748db3) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Remove that settings file [`528c3ab`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/528c3ab5b8f9d736f47c8eff077ba6c9608c0dfe) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Syntax [`dd24dba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/dd24dbae179829c8ca77bee8dd1581792b3e0d20) <br>
+> 🐛 Remove extra line [`cd531d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cd531d99f7ea6d0a8c75c9341a3e987a48e47426) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [4.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.16.0...4.17.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
