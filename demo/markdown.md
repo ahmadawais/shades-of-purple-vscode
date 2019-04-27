@@ -87,3 +87,12 @@ function sum( x, y ) { return x + y; }
 ## Emphasis & Italics
 
 This is **bold** and this is just *italic*.
+
+## Diff Styles
+
+```diff
+Retained line
++ Added line
+- Removed line
+--- Comment
+```
