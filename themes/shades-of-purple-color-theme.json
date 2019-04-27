@@ -906,10 +906,30 @@
 				"foreground": "#F16E6B",
 			}
 		},
+		{
+			"name": "[MARKDOWN] - Diff Meta text",
+			"scope": [
+				"meta.embedded.block.diff"
+			],
+			"settings": {
+				"foreground": "#FFFFFF",
+			}
+		},
+		{
 			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
 				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "[MARKDOWN] - Comment Punctuation",
+			"scope": [
+				"punctuation.definition.from-file.diff",
+				"meta.diff.header.from-file"
+			],
+			"settings": {
+				"foreground": "#B362FF"
 			}
 		},
 		{
