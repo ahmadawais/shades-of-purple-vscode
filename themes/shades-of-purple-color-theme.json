@@ -896,6 +896,16 @@
 				"foreground": "#8efa00",
 			}
 		},
+		{
+			"name": "[MARKDOWN] - Diff Deleted Code Block",
+			"scope": [
+				"markup.deleted.diff",
+				"punctuation.definition.deleted.diff"
+			],
+			"settings": {
+				"foreground": "#F16E6B",
+			}
+		},
 			"name": "[MARKDOWN] - Color for Paragraph",
 			"scope": "meta.paragraph.markdown",
 			"settings": {
