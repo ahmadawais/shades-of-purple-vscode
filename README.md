@@ -231,7 +231,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 🦄 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
 - 🦄 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
 - 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
-- 🦄 [Prism](https://github.com/FormidableLabs/prism-react-renderer/blob/master/themes/shadesOfPurple.js) + [Code-Surfer](https://code-surfer.netlify.com/theming/#8) theme — Shades of Purple
+- 🦄 [Prism JS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/themes/shadesOfPurple.js) [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr) + [Code-Surfer](https://code-surfer.netlify.com/theming/#8) theme — Shades of Purple
 
 ## SOP's Syntax Colors
 
