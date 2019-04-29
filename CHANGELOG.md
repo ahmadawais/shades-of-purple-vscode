@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.18.0...v5.0.0)
+### RELEASE: [v5.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.0.0...v5.1.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Highlight Matching Tag (UPDATED for v0.9.1) [`e4b8465`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e4b846533270adf555379746819563120d6c04d6) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Formatting [`150fe6a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/150fe6a3a3a9ddcfa71faff2efbd0fcbdab4a02d) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/4.18.0...5.0.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
