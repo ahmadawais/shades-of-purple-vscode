@@ -948,7 +948,7 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Quote Paragraph",
-			"scope": "markup.quote.markdown meta.paragraph.markdown",
+			"scope": ["markup.quote.markdown meta.paragraph.markdown","punctuation.definition.quote.begin.markdown"],
 			"settings": {
 				"foreground": "#A599E9"
 			}
