@@ -21,7 +21,27 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.0.0...v5.1.0)
+### RELEASE: [v5.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.1.0...v5.2.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Markdown Quotes [`a1e82e7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a1e82e7d775f3082664f57d26591f59af544e49e) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Formatting [`99b75b3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/99b75b39b2cb152c192cadeb8df7307aea6a620c) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Prism CSS [`e897f9a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e897f9af1e9d6d57b09430484473f4712c8ac0e8) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.0.0...5.1.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
