@@ -133,8 +133,8 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
 		"editorWidget.background": "#222244",
 		"editorWidget.border": "#1F1F41",
-		"editorHoverWidget.background": "#1F1F41",
-		"editorHoverWidget.border": "#1F1F41",
+		"editorHoverWidget.background": "#161633",
+		"editorHoverWidget.border": "#161633",
 		"editorSuggestWidget.background": "#1F1F41",
 		"editorSuggestWidget.border": "#1F1F41",
 		"editorSuggestWidget.foreground": "#A599E9",
@@ -358,9 +358,9 @@
 		"listFilterWidget.noMatchesOutline": "#EC3A37F5",
 
 		// TODO: Colors to be added.
-		// "inputValidation.infoForeground": "#00000000", // Input validation foreground color for information severity.
+		// "inputValidation.infoForeground": "#FAD000", // Input validation foreground color for information severity.
 		// "inputValidation.warningForeground": "#00000000", // Input validation foreground color for warning severity.
-		// "inputValidation.errorForeground": "#00000000", // Input validation foreground color for error severity.
+		// "inputValidation.errorForeground": "#EC3A37F5", // Input validation foreground color for error severity.
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
