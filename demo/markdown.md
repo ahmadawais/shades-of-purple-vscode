@@ -45,6 +45,11 @@ function sum( x, y ) { return x + y; }
 
 ## Markdown Syntax — Kitchen Sink
 
+
+## HEADINGS
+
+### ATX Style
+
 # Heading #1
 
 ## Heading #2
@@ -56,6 +61,14 @@ function sum( x, y ) { return x + y; }
 ##### Heading #5
 
 ###### Heading #6
+
+### SETEXT STYLE
+
+Heading #1
+==========
+
+Heading #2
+----------
 
 ## Lists
 
@@ -101,5 +114,7 @@ Retained line
 1. Regular link → [Link](https://awais.dev)
 2. Alternate type of link → [Alternate][link]
 3. Image → ![Alt](https://awais.dev/ahmad.png)
+4. Image Link → [![Alt](https://awais.dev/ahmad.png)](https://awais.dev)
+5. Image Alternate Link → [![Alt](https://awais.dev/ahmad.png)][link]
 
 [link]: https://awais.dev
