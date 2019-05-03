@@ -948,7 +948,10 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Quote Paragraph",
-			"scope": ["markup.quote.markdown meta.paragraph.markdown","punctuation.definition.quote.begin.markdown"],
+			"scope": [
+				"markup.quote.markdown meta.paragraph.markdown",
+				"punctuation.definition.quote.begin.markdown"
+			],
 			"settings": {
 				"foreground": "#A599E9"
 			}
@@ -998,19 +1001,11 @@
 		{
 			"name": "[MARKDOWN] - Color for Link/Image Title",
 			"scope": [
-				"string.other.link.title.markdown",
 				"string.other.link.description.markdown",
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#A5FF90"
-			}
-		},
-		{
-			"name": "[MARKDOWN] - Color for Link Address",
-			"scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
-			"settings": {
-				"foreground": "#9EFFFF"
+				"foreground": "#A599E9"
 			}
 		},
 		{
@@ -1026,10 +1021,28 @@
 				"punctuation.definition.markdown",
 				"punctuation.definition.raw.markdown",
 				"punctuation.definition.heading.markdown",
-				"punctuation.definition.bold.markdown"
+				"punctuation.definition.bold.markdown",
 			],
 			"settings": {
 				"foreground": "#494685"
+			}
+		},
+		{
+			"name": "[MARKDOWN] - Link URI",
+			"scope": [
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown",
+				"constant.other.reference.link.markdown",
+				"punctuation.definition.string.end.markdown",
+				"punctuation.definition.string.begin.markdown",
+				"punctuation.definition.metadata.markdown",
+				"punctuation.definition.constant.begin.markdown",
+				"punctuation.definition.constant.end.markdown",
+				"punctuation.definition.constant.markdown"
+			],
+			"settings": {
+				"foreground": "#A599E9",
+				"fontStyle": ""
 			}
 		},
 		{
