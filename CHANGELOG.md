@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.1.0...v5.2.0)
+### RELEASE: [v5.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.2.0...v5.3.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Make Editor Hover Widget Darker [`49b3e06`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/49b3e06ac93b181ac866b9b4f09db37e1310c600) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 JavaScript name [`13f4db4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/13f4db4d8926c38bef4bd8937bcaa2da0a418d1c) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.1.0...5.2.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
