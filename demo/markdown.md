@@ -74,7 +74,6 @@ function sum( x, y ) { return x + y; }
 
 ## Blockquote & Nested elements
 > Blockquote: Code is poetry.
-
 > ## This is a header
 >
 > 1. This is the first list item.
@@ -96,3 +95,11 @@ Retained line
 - Removed line
 --- Comment
 ```
+
+## Links
+
+1. Regular link → [Link](https://awais.dev)
+2. Alternate type of link → [Alternate][link]
+3. Image → ![Alt](https://awais.dev/ahmad.png)
+
+[link]: https://awais.dev
