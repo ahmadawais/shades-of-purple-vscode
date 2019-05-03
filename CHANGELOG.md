@@ -21,7 +21,33 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.2.0...v5.3.0)
+### RELEASE: [v5.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.3.0...v5.4.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Links Types [`c7cfa11`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c7cfa114cfb146771460800a3776ec3947561a54) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Markdown Link URI Colors &amp; Styles [`52b14b6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/52b14b6ef98f461ac7af87f5c0ea13c92442445f) <br>
+> 👌 Color for punctuation key-value in markdown [`e6725e6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e6725e6f63e8754b2b9de46e2126dace65151509) <br>
+> 👌 Color for Link Title Markdown [`51ad1d5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/51ad1d5d1a9cfedf579c78d3e74665caba55fed6) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Stop with the heading Linter [`4c12ad3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4c12ad32af770d3c24de8320c50f115d75de1b2f) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Comment more [`2efae9f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2efae9f57e2c86d30ed0870f5869be8697756ad3) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.2.0...5.3.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
