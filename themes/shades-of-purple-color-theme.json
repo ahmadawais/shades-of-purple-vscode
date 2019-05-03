@@ -989,9 +989,10 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Link Title",
-			"scope": "string.other.link.title.markdown",
+			"scope": ["string.other.link.title.markdown"],
 			"settings": {
-				"foreground": "#A5FF90"
+				"foreground": "#FAD000",
+				 "fontStyle": "underline"
 			}
 		},
 		{
