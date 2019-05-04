@@ -21,7 +21,34 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.4.0...v5.5.0)
+### RELEASE: [v5.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.5.0...v5.6.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Markdown test data [`6bedff3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6bedff372d8732ac91d8ba218b7d749c3dbff66b) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Links &amp; Image Link Types [`0f5e740`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0f5e7403b3dae9f236b39caa9b3d9ecf16ca35ec) <br>
+> 👌 Markdown link colors [`05bd0c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05bd0c1be8c8988b56e9eab033670e8eea33dc1e) <br>
+> 👌 Lnk brackets [`85477d6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/85477d6677e579a57bf4b3b72c303cc05afb28d1) <br>
+> 👌  Link alt URI [`2bed88e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2bed88e1ad43f25bbc32fcbadc132b6e06577169) <br>
+> 👌 Image link brackets [`c417554`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c4175545f7d30e334ac7d2793323d1720e6ac1a9) <br>
+> 👌 Markdown Image Title [`6ee92ce`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6ee92ce8bc89990cc3e79eb6e3cfa63091c50f85) <br>
+> 👌 Link URI Definition [`ccb8e2e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ccb8e2e499ed00eef9985cc91b99d6df0d93b189) <br>
+> 👌 Link [`32eb507`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/32eb507f66e4a8edfdff7ffedba305c557afa51e) <br>
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Markdown image title [`86cf0cd`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/86cf0cdaf1e26ddc8ac7acc968817501c0585e5b) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.4.0...5.5.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
