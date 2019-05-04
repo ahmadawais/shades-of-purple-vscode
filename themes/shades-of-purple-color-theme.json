@@ -1029,18 +1029,16 @@
 		{
 			"name": "[MARKDOWN] - Link URI",
 			"scope": [
-				"markup.underline.link.image.markdown",
+		{
+			"name": "[MARKDOWN] - LINK ALT URI",
+			"scope": [
 				"constant.other.reference.link.markdown",
-				"punctuation.definition.string.end.markdown",
-				"punctuation.definition.string.begin.markdown",
-				"punctuation.definition.metadata.markdown",
+				"punctuation.definition.constant.markdown",
 				"punctuation.definition.constant.begin.markdown",
 				"punctuation.definition.constant.end.markdown",
-				"punctuation.definition.constant.markdown"
 			],
 			"settings": {
-				"foreground": "#A599E9",
-				"fontStyle": ""
+				"foreground": "#A599E9"
 			}
 		},
 		{
