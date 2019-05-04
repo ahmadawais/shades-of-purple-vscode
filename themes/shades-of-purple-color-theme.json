@@ -1030,6 +1030,17 @@
 			"name": "[MARKDOWN] - Link URI",
 			"scope": [
 		{
+			"name": "[MARKDOWN] - IMG LINK Brackets",
+			"scope": [
+				"meta.image.inline.markdown punctuation.definition.string.begin.markdown",
+				"meta.image.inline.markdown punctuation.definition.string.end.markdown",
+				"string.other.link.description.markdown"
+			],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
 			"name": "[MARKDOWN] - LINK ALT URI",
 			"scope": [
 				"markup.underline.link.markdown",
