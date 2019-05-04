@@ -1032,6 +1032,9 @@
 		{
 			"name": "[MARKDOWN] - LINK ALT URI",
 			"scope": [
+				"markup.underline.link.markdown",
+				"punctuation.definition.metadata.markdown",
+				"markup.underline.link.image.markdown",
 				"constant.other.reference.link.markdown",
 				"punctuation.definition.constant.markdown",
 				"punctuation.definition.constant.begin.markdown",
