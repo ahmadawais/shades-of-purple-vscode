@@ -1000,8 +1000,12 @@
 				"fontStyle": "underline"
 			}
 		},
+		{
 			"name": "[MARKDOWN] - Color for Link Title",
-			"scope": ["string.other.link.title.markdown", "markup.underline.link.markdown"],
+			"scope": [
+				"meta.link.inline.markdown string.other.link.title.markdown","meta.link.reference.markdown string.other.link.title.markdown",
+				"meta.link.reference.def.markdown markup.underline.link.markdown"
+			],
 			"settings": {
 				"foreground": "#FAD000",
 				 "fontStyle": "underline"
@@ -1010,7 +1014,7 @@
 		{
 			"name": "[MARKDOWN] - Color for Link/Image Title",
 			"scope": [
-				"string.other.link.description.markdown",
+				"markup.underline.link.markdown",
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
@@ -1031,14 +1035,12 @@
 				"punctuation.definition.raw.markdown",
 				"punctuation.definition.heading.markdown",
 				"punctuation.definition.bold.markdown",
+				"punctuation.definition.italic.markdown"
 			],
 			"settings": {
 				"foreground": "#494685"
 			}
 		},
-		{
-			"name": "[MARKDOWN] - Link URI",
-			"scope": [
 		{
 			"name": "[MARKDOWN] - LINK Brackets",
 			"scope": [
@@ -1101,7 +1103,7 @@
 		},
 		{
 			"name": "[PUG] - Imports",
-			"scope": "variable.control.import.include.pug",
+			"scope": ["variable.control.import.include.pug"],
 			"settings": {
 				"foreground": "#92FC79"
 			}
