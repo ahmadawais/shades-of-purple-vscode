@@ -990,6 +990,16 @@
 			}
 		},
 		{
+			"name": "[MARKDOWN] - Image title string",
+			"scope": [
+				"string.other.link.description.title.markdown punctuation.definition.string.markdown",
+				"meta.image.inline.markdown string.other.link.description.title.markdown"
+			],
+			"settings": {
+				"foreground": "#A5FF90",
+				"fontStyle": "underline"
+			}
+		},
 			"name": "[MARKDOWN] - Color for Link Title",
 			"scope": ["string.other.link.title.markdown", "markup.underline.link.markdown"],
 			"settings": {
