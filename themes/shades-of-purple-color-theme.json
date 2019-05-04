@@ -1030,6 +1030,19 @@
 			"name": "[MARKDOWN] - Link URI",
 			"scope": [
 		{
+			"name": "[MARKDOWN] - LINK Brackets",
+			"scope": [
+				"meta.link.inline.markdown punctuation.definition.string.begin.markdown",
+				"meta.link.inline.markdown punctuation.definition.string.end.markdown",
+				"meta.link.reference.markdown punctuation.definition.string.begin.markdown",
+				"meta.link.reference.markdown punctuation.definition.string.end.markdown",
+				"string.other.link.description.markdown"
+			],
+			"settings": {
+				"foreground": "#FAD000"
+			}
+		},
+		{
 			"name": "[MARKDOWN] - IMG LINK Brackets",
 			"scope": [
 				"meta.image.inline.markdown punctuation.definition.string.begin.markdown",
