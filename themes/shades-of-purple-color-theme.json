@@ -984,7 +984,6 @@
 				"beginning.punctuation.definition.list.markdown",
 				"punctuation.definition.list.begin.markdown",
 				"markup.list.unnumbered.markdown",
-				"punctuation.separator.key-value.markdown"
 			],
 			"settings": {
 				"foreground": "#FAD000"
@@ -992,7 +991,7 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Link Title",
-			"scope": ["string.other.link.title.markdown"],
+			"scope": ["string.other.link.title.markdown", "markup.underline.link.markdown"],
 			"settings": {
 				"foreground": "#FAD000",
 				 "fontStyle": "underline"
@@ -1030,7 +1029,6 @@
 		{
 			"name": "[MARKDOWN] - Link URI",
 			"scope": [
-				"markup.underline.link.markdown",
 				"markup.underline.link.image.markdown",
 				"constant.other.reference.link.markdown",
 				"punctuation.definition.string.end.markdown",
