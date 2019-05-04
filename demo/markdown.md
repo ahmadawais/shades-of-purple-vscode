@@ -45,7 +45,6 @@ function sum( x, y ) { return x + y; }
 
 ## Markdown Syntax — Kitchen Sink
 
-
 ## HEADINGS
 
 ### ATX Style
@@ -111,10 +110,20 @@ Retained line
 
 ## Links
 
-1. Regular link → [Link](https://awais.dev)
-2. Alternate type of link → [Alternate][link]
-3. Image → ![Alt](https://awais.dev/ahmad.png)
-4. Image Link → [![Alt](https://awais.dev/ahmad.png)](https://awais.dev)
-5. Image Alternate Link → [![Alt](https://awais.dev/ahmad.png)][link]
+|             `TYPE`             |                         `SYNTAX`                          |
+| ------------------------------ | --------------------------------------------------------: |
+| **LINK**: Regular              |                                 [Link](https://awais.dev) |
+| **LINK**: Alternate            |                                         [Alternate][link] |
+| **IMAGE**: Regular             |                         ![Alt](https://awais.dev/sopicon) |
+| **IMAGE**: Regular + Title     | ![Alt](https://awais.dev/sopicon "Shades of Purple icon") |
+| **IMAGE**: With Link           |    [![Alt](https://awais.dev/sopicon)](https://awais.dev) |
+| **IMAGE**: With alternate Link |                 [![Alt](https://awais.dev/sopicon)][link] |
+
+- [Link](https://awais.dev)
+- [Alternate][link]
+- ![Alt](https://awais.dev/sopicon)
+- ![Alt](https://awais.dev/sopicon "Shades of Purple icon")
+- [![Alt](https://awais.dev/sopicon)](https://awais.dev)
+- [![Alt](https://awais.dev/sopicon)][link]
 
 [link]: https://awais.dev
