@@ -21,7 +21,20 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.3.0...v5.4.0)
+### RELEASE: [v5.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.4.0...v5.5.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Markdown example [`cfdcf30`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cfdcf30f89c43b89d862407e0b83874181682077) <br>
+> 👌 Markdown Alternate style [`853df80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/853df80aaed2d23af3e3926fa60912185b7739a3) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.3.0...5.4.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
