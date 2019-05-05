@@ -990,9 +990,12 @@
 			}
 		},
 		{
-			"name": "[MARKDOWN] - Image title string",
+			"name": "[MARKDOWN] - Link/Image title string",
 			"scope": [
 				"string.other.link.description.title.markdown punctuation.definition.string.markdown",
+				"meta.link.inline.markdown string.other.link.description.title.markdown",
+				"string.other.link.description.title.markdown punctuation.definition.string.begin.markdown",
+				"string.other.link.description.title.markdown punctuation.definition.string.end.markdown",
 				"meta.image.inline.markdown string.other.link.description.title.markdown"
 			],
 			"settings": {
