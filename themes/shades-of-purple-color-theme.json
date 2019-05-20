@@ -975,7 +975,7 @@
 			"name": "[MARKDOWN] - Color for Emphasis Italic",
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"foreground": "#A599E9"
+				"fontStyle": "italic",
 			}
 		},
 		{
