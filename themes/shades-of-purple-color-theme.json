@@ -968,7 +968,6 @@
 			"scope": "markup.bold.markdown",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#A599E9"
 			}
 		},
 		{
