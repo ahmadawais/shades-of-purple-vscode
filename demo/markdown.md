@@ -6,7 +6,7 @@
 
 1. Open the extensions sidebar on Visual Studio Code
 2. Search for **Shades of Purple Theme**
-3. Click **Install** to install it.
+3. Click **Install** to *install* it.
 4. Click **Reload** to reload the your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 
