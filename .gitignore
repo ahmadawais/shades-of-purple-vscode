@@ -24,6 +24,7 @@ node_modules/
 *.sql
 !/demo/sql.sql
 *.env
+!demo/dot.env
 
 # OS generated files #
 ######################
