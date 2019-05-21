@@ -21,7 +21,27 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.7.0...v5.8.0)
+### RELEASE: [v5.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.8.0...v5.9.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Dot.env Demo File [`8d9c67c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8d9c67c4b9ef9366806f544a86e3e46d604d50a3) <br>
+> 📦 Env Punctuation Colors [`0a231a1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a231a1c204648bc94b5dd281924cfc6f364dd23) <br>
+> 📦 Env source colors [`42aee46`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/42aee4635a5f2b94e4d648e5de49e8ffc345fc39) <br>
+> 📦 Env Variable colors [`3ce3210`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ce3210c138185c74f615fb75ff744739430d9b0) <br>
+> 📦 Env Keyword [`7e358f9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7e358f9dc4883618db7f692e5d2249529b762511) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 INI Source Colors [`bc89b3c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/bc89b3cff0fa11609ae161353150f7d9abd32073) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.7.0...5.8.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
