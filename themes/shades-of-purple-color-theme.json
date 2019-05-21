@@ -497,7 +497,7 @@
 		},
 		{
 			"name": "[INI] - Color for Entity",
-			"scope": ["source.ini entity", "meta.embedded.block.ini"],
+			"scope": ["source.ini entity", "meta.embedded.block.ini", "source.ini"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
