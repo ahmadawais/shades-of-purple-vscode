@@ -1473,6 +1473,15 @@
 				"foreground": "#FAD000",
 			}
 		},
+		{
+			"name": "[ENV] — Source",
+			"scope": [
+				"source.env"
+			],
+			"settings": {
+				"foreground": "#E1EFFF",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
