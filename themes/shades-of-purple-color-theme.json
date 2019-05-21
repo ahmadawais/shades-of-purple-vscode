@@ -1456,6 +1456,14 @@
 			}
 		},
 		{
+			"name": "[ENV] — Keyword",
+			"scope": [
+				"keyword.other.env"
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
