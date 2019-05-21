@@ -1482,6 +1482,19 @@
 				"foreground": "#E1EFFF",
 			}
 		},
+		{
+			"name": "[ENV] — Punctuation",
+			"scope": [
+				"keyword.other.template.begin.env",
+				"keyword.other.template.end.env",
+				"keyword.operator.assignment.env",
+
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
