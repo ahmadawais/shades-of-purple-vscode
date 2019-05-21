@@ -1464,6 +1464,15 @@
 				"foreground": "#FF9D00",
 			}
 		},
+		{
+			"name": "[ENV] — Variable",
+			"scope": [
+				"variable.other.env"
+			],
+			"settings": {
+				"foreground": "#FAD000",
+			}
+		},
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
