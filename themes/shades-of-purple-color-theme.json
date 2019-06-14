@@ -1495,6 +1495,16 @@
 			}
 		},
 		{
+			"name": "[JS] —  Double Destructure of Object",
+			"scope": [
+				"variable.object.property.js",
+			],
+			"settings": {
+				"foreground": "#9EFFFF",
+			}
+		},
+
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
