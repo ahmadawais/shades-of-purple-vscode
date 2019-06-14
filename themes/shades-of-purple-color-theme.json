@@ -556,7 +556,7 @@
 		},
 		{
 			"name": "[CSS] - Color for Support",
-			"scope": ["source.css support", "source.stylus support"],
+			"scope": ["source.css support", "entity.name.tag.css","source.stylus support"],
 			"settings": {
 				"foreground": "#A5FF90"
 			}
