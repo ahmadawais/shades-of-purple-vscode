@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.9.0...v5.10.0)
+### RELEASE: [v5.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.10.0...v5.11.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Regex in JS Color [`c565453`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c56545333f34151b0f357565098439004b97ab0e) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.9.0...5.10.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
