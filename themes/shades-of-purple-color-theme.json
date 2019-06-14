@@ -1495,7 +1495,7 @@
 			}
 		},
 		{
-			"name": "[JS] —  Double Destructure of Object",
+			"name": "[JS] — Double Destructure of Object",
 			"scope": [
 				"variable.object.property.js",
 			],
@@ -1503,7 +1503,15 @@
 				"foreground": "#9EFFFF",
 			}
 		},
-
+		{
+			"name": "[JS] — Regex",
+			"scope": [
+				"string.regexp.js",
+			],
+			"settings": {
+				"foreground": "#FB94FF",
+			}
+		},
 		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
