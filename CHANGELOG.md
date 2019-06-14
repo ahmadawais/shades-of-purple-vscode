@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.10.0...v5.11.0)
+### RELEASE: [v5.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.11.0...v5.12.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 CSS Entity Name Color [`7a07352`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7a07352289cb80987607fc73d1eb7bb23f3ab251) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.10.0...5.11.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
