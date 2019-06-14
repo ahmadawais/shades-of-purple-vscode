@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.8.0...v5.9.0)
+### RELEASE: [v5.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.9.0...v5.10.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Double Destructure of Object [`19494ee`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/19494ee04ca80088107b954e4810ec0779b7adfb) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.8.0...5.9.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
