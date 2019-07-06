@@ -1513,6 +1513,15 @@
 			}
 		},
 		{
+			"name": "[CSV] — Keyword 2",
+			"scope": [
+				"keyword.rainbow2",
+			],
+			"settings": {
+				"foreground": "#FF9D00",
+			}
+		},
+		{
 			"name": "[ITALICS] All the awesome italics live here.",
 			"scope": [
 				"modifier",
