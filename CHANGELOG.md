@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.11.0...v5.12.0)
+### RELEASE: [v5.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.12.0...v5.13.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 CSV Syntax [`0d91c40`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0d91c409da2e95dd1b1a558bc0d574c7bcd0fa62) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.11.0...5.12.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
