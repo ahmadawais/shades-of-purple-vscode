@@ -171,13 +171,14 @@
 		"input.border": "#1E1E3F",
 		"input.foreground": "#FAD000",
 		"input.placeholderForeground": "#A599E9",
-		"inputOption.activeBorder": "#A599E9",
+		"inputOption.activeBorder": "#1E1E3F",
 		"inputValidation.errorBackground": "#2D2B55",
 		"inputValidation.errorBorder": "#FAD000",
 		"inputValidation.infoBackground": "#2D2B55",
 		"inputValidation.infoBorder": "#2D2B55",
 		"inputValidation.warningBackground": "#2D2B55",
 		"inputValidation.warningBorder": "#FAD000",
+		"inputOption.activeBackground": "#5D37F0",
 
 		// Lists and Trees.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
