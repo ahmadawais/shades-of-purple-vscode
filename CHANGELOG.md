@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.12.0...v5.13.0)
+### RELEASE: [v5.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.13.0...v5.14.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Input Activated BG Color [`f68fbc1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f68fbc186cd609dc388b728cb37d2777fbc70986) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.12.0...5.13.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
