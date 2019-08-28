@@ -1,18 +1,13 @@
 /**
- * JavaScript is fun
- *
- * Shades of purple is genius.
+ * JavaScript: Shades of purple can be genius
  *
  * @param String hello Hello.
- * @param Number count Count of hells said.
- * @param Boolean isBye True or False.
- * @return Boolean
  * @since 1.0.0
  */
 
 // String.
-const hello = 'Hey, hello there there there there';
-console.log('hello', hello);
+const sop = '🦄 Shades of Purple is an awesome syntax highlighting theme.';
+console.log('sop', sop);
 
 // Class.
 class vsc extends React.Component {}
@@ -63,13 +58,15 @@ export const speedAngles = {
 /**
  * Speed SVG CSS.
  *
- * @param Number Angle to rotate the SVG.
+ * @param Number one Angle to rotate the SVG.
+ * @param Number two Angle to rotate the SVG.
+ * @param Number three Angle to rotate the SVG.
  */
 export const speedCSS = (one, two, three) => {
 	btnBarSvgSpeed.css({
-		transform: 'rotate(' + one + 'deg)',
-		transform: 'rotate(' + two + 'deg)',
-		transform: 'rotate(' + three + 'deg)'
+		transform: `rotate(${one}deg)`,
+		transform: `rotate(${two}deg)`,
+		transform: `rotate(${three}deg)`
 	});
 };
 
@@ -79,5 +76,5 @@ if (ahmad) {
 } else if (awais) {
 	console.log('Awais is making 🦄 Shades of Purple');
 } else {
-	console.log(`${hello} In the middle of no where!`);
+	console.log('Call it SOP for brevity');
 }
