@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.13.0...v5.14.0)
+### RELEASE: [v5.15.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.14.0...v5.15.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 WordPress Shades of Purple Theme [`75080df`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/75080df6b60d0881c980e2f0c5f2d9693c4ed68b) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 JavaScript Example [`1960e7f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1960e7fc7d6f1e6b082b20318301ba7d9bbd47c6) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.13.0...5.14.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
