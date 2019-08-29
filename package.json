@@ -46,12 +46,17 @@
 		"commitLimit": false,
 		"package": true,
 		"replaceText": {
-			"FIX: ": "",
-			"NEW: ": "",
-			"IMPROVE: ": "",
-			"DOC: ": ""
+			"(NEW|IMPROVE|FIX|DOC|RELEASE|TEST): ": ""
 		}
 	},
+	"files": [
+		".vscodeignore",
+		"themes",
+		"themes/*",
+		"package.json",
+		"readme.md",
+		"code-of-conduct.md"
+	],
 	"scripts": {
 		"start": "nodemon --exec vsce package",
 		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
