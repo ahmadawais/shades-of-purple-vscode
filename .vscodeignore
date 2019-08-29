@@ -5,6 +5,7 @@
 # Whitelist what you need.
 !.vscodeignore
 !package.json
+!images/icon/logo.png
 !themes/shades-of-purple-color-theme.json
 !themes
 !themes/*

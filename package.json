@@ -7,7 +7,7 @@
 	"engines": {
 		"vscode": "^1.15.0"
 	},
-	"icon": "images/logo.png",
+	"icon": "images/icon/logo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ahmadawais/shades-of-purple-vscode"
@@ -51,8 +51,10 @@
 	},
 	"files": [
 		".vscodeignore",
+		"themes/shades-of-purple-color-theme.json",
 		"themes",
 		"themes/*",
+		"images/icon/logo.png",
 		"package.json",
 		"readme.md",
 		"code-of-conduct.md"
