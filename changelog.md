@@ -21,7 +21,20 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.16.0...v5.17.0)
+### RELEASE: [v5.18.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.17.0...v5.18.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Extension with imp files only [`c8b8920`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c8b89207efbddda0350532871d2c21929675fa62) <br>
+> 👌 npm pkg with imp files only [`3f6ae4b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3f6ae4b34f28d90c3c911989ae54382a633d5515) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.17.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.16.0...5.17.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
