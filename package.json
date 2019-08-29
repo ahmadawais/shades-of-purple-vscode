@@ -57,7 +57,8 @@
 		"images/icon/logo.png",
 		"package.json",
 		"readme.md",
-		"code-of-conduct.md"
+		"code-of-conduct.md",
+		"changelog.md"
 	],
 	"scripts": {
 		"start": "nodemon --exec vsce package",
