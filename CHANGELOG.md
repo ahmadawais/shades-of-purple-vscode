@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.18.0...v5.19.0)
+### RELEASE: [v5.20.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.19.0...v5.20.0)
+
+![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Changelog stops rendering with lower case :( [`1241cc4`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1241cc4a4bee3730f622ebdfae2d4eb1c37aa4a0) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.19.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.18.0...5.19.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
