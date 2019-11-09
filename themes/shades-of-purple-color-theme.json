@@ -8,14 +8,14 @@
 		// Activity Bar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
 		"activityBar.background": "#28284E",
-		"activityBar.border": "#222145",
+		"activityBar.border": "#222244",
 		"activityBar.dropBackground": "#222145",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBar.inactiveForeground": "#A599E9",
 		"activityBarBadge.background": "#FAD000",
 		"activityBarBadge.foreground": "#1E1E3F",
-		"activityBar.activeBorder": "#A599E981",
-		"activityBar.activeBackground": "#222145",
+		"activityBar.activeBorder": "#6943ff62",
+		"activityBar.activeBackground": "#222244",
 
 		// Sidebar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
