@@ -21,7 +21,23 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.21.0...v5.22.0)
+### RELEASE: [v5.23.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.22.0...v5.23.0)
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Activity bar colors [`735e970`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/735e970fa96c78182350a3bfe268aeaee4d6007d) <br>
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Activity Colors [`69cbeb0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/69cbeb06ddbd0bdd3d628fd253b950ab6aed8760) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.21.0...5.22.0)
 
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
