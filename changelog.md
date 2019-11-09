@@ -21,7 +21,24 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v5.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.20.0...v5.21.0)
+### RELEASE: [v5.22.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.21.0...v5.22.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Activity Element Colors [`4e71199`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4e71199b6ddb73742ba1a81493ce0177e474de9f) <br>
+> 📦 FOSS Sponsor [`cbc2e80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cbc2e802cc3e1432291ecf0732bcfec86760813b) <br>
+
+![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Merge branch &#x27;master&#x27; of https://github.com/ahmadawais/shades-of-purple-vscode [`919eadd`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/919eadd511372e729c32d438f13e07dffc61f865) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [5.21.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/5.20.0...5.21.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -410,8 +427,8 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 > 📦 Demo dockerfile [`b5e3e34`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b5e3e34d30cbd7105fc3d0517e283aa83250e32f) <br>
 > 📦 YML Keywords &amp; Punctuation color [`05dc481`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/05dc481335b03a6bdaba9cc41e31355018f8d9ac) <br>
 > 📦 Other keywords [`e502087`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e502087b3941db27919761a3f90640a7a7225b64) <br>
-> 📦 TOML Keywords [`e879e02`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e879e021747d8779dc67852d43d70cf6df60d72f) <br>
 > 📦 Dockerfile Keyword colors [`b7b9b77`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b7b9b77b8189bb7fcf9669da1015b37bb1eeb656) <br>
+> 📦 TOML Keywords [`e879e02`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e879e021747d8779dc67852d43d70cf6df60d72f) <br>
 > 📦 TOML Syntax [`e9fa272`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e9fa272249a2080e2feb775d8d7c2ae7b617881a) <br>
 > 📦 Demo TOML file [`f5440ba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f5440ba79c8292ab653290850e4f645a0e05efcd) <br>
 > 📦 Spellings [`cd36be1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cd36be1c1abf4e788d548003cae83925da0ed856) <br>
@@ -473,11 +490,11 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 ![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Features [`b3f5c5e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b3f5c5e8bd9231ec093075772948e243a87fbd6d) <br>
-> 📦 SQL functions [`2c78597`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2c7859769b1575aab433668035ae7b33c97c4461) <br>
 > 📦 SQL Regex [`6dfa855`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6dfa8554a2ebf1965d0711ad6cded5454c487e97) <br>
+> 📦 SQL functions [`2c78597`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2c7859769b1575aab433668035ae7b33c97c4461) <br>
 > 📦 SQL Keywords [`93a6e0a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/93a6e0a3d07c8b978e1c6bae320a2bbf5ef250ce) <br>
-> 📦 SQL Keywords [`e8d016a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e8d016ae9326c06979b69aacc197254de1f75556) <br>
 > 📦 SQL Other meta [`03ecf0d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/03ecf0db15ef1a89a11da22e7bdf305c6d36f286) <br>
+> 📦 SQL Keywords [`e8d016a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e8d016ae9326c06979b69aacc197254de1f75556) <br>
 > 📦 SQL Source [`c2dfe73`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c2dfe73fc02a2a551b46b65f34a58eec840281ac) <br>
 > 📦 Metadata for publisher [`021bf30`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/021bf30798eaf305c60af9d8255f08e3cf213a79) <br>
 > 📦 SQL Query [`46c1123`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/46c11237992300243482a58373b0250028d2333d) <br>
@@ -773,16 +790,16 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 >  📖  Constants Colors [`8e09fc0`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8e09fc07bd04e501302f1d6b0a9216f4c2dc49c6) <br>
 >  📖 String Colors [`771f01d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/771f01d73a1df753ea08c468ca40d597ecb02c94) <br>
 > 📖 52 reviews [`521ee00`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/521ee00f75b2d0ecad4434b64b4591ee311e5ce9) <br>
->  📖 Background color [`5bfea5c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5bfea5c12871b5d44ef68bf1e075d3760e57eafd) <br>
+>  📖 Definitions color [`8330b69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8330b6980d009ab1eda5ac156f604d73ef411e12) <br>
+>  📖 Keywords colors [`4f7f6e9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4f7f6e9284df2604e36d77d26e0c5dfbdbc4fc82) <br>
 >  📖 Comment Color [`6f7376a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6f7376a3042eb1175687e11887ca2ad51940e51a) <br>
+>  📖 Highlight color [`9427472`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/94274725c1d9aae53eeef6f040c10179a8f1529f) <br>
+>  📖 Contrast color [`f3dddb7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f3dddb77eeaaafc954b6f9db4f37261cca12e1fa) <br>
 >  📖 Hover Background color [`28cae0d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/28cae0d34d5d5ec58c1c6fc6056082385e6992e3) <br>
 >  📖 Foreground color [`ef7991f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ef7991fcfd192d2155c3c10e30061caec800bad4) <br>
 >  📖 Background Darck Color [`f67e22d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f67e22d90c6f00e44dbe811d0c4bd7b272d1acfe) <br>
->  📖 Highlight color [`9427472`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/94274725c1d9aae53eeef6f040c10179a8f1529f) <br>
+>  📖 Background color [`5bfea5c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5bfea5c12871b5d44ef68bf1e075d3760e57eafd) <br>
 >  📖 Usage + HEX [`34e13d5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/34e13d5a94dce0377facc65d9aced3a6729fca52) <br>
->  📖 Keywords colors [`4f7f6e9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4f7f6e9284df2604e36d77d26e0c5dfbdbc4fc82) <br>
->  📖 Definitions color [`8330b69`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8330b6980d009ab1eda5ac156f604d73ef411e12) <br>
->  📖 Contrast color [`f3dddb7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f3dddb77eeaaafc954b6f9db4f37261cca12e1fa) <br>
 
 <br>
 
@@ -1011,14 +1028,14 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 local images [`2f64402`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2f6440294da7c9cfab411487d2f6e23a6ae9b8da) <br>
-> 👌 local FAQ image [`762e574`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/762e574c224d01ac57bd22cb3f3e133480e23075) <br>
-> 👌 Local GIF [`ecc7a61`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ecc7a61718476c507ff1e876fb3a8e0719bb3e5f) <br>
 > 👌 local Screenshots image [`082070d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/082070dd96245221812c782506e88ed18683dd4c) <br>
+> 👌 local FAQ image [`762e574`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/762e574c224d01ac57bd22cb3f3e133480e23075) <br>
+> 👌 local settings image [`40d7389`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/40d73893b59ac5a00ff58b943414c9eaa0230793) <br>
 > 👌 local alternate image [`d0dc04f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d0dc04f3eded326d008462e70daf584a54d312b2) <br>
 > 👌 local install image [`ff4ab44`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ff4ab44a72b94c40daef646b6e9a18704dbb620f) <br>
 > 👌 Local video image [`3f7e599`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3f7e599cf0c181f39ed143d56fe1bf5497d87278) <br>
 > 👌 local Install img [`9817265`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/98172657ba496c6452e79e1645c99163a6b1c118) <br>
-> 👌 local settings image [`40d7389`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/40d73893b59ac5a00ff58b943414c9eaa0230793) <br>
+> 👌 Local GIF [`ecc7a61`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ecc7a61718476c507ff1e876fb3a8e0719bb3e5f) <br>
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -1103,13 +1120,13 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 > 📖 new Color A for badge [`ab272c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab272c11a03c94448f6d7d6ef798ddc22270fbb7) <br>
 > 📖 ticker center [`282525f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/282525f21967b2b6d59966e0ebc6c22a1328c7ef) <br>
 > 📖 better center align [`e40faec`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e40faecde85cf5527c7751bc38e918aacd9e44f2) <br>
-> 📖 italic ticker [`d5e5db6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d5e5db6135ce9b511ec29aa3db66556541088f0f) <br>
 > 📖 Ticker NBPS [`f796bce`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f796bcefabffe8eab0c3286f1ba312c3fcd9a0b0) <br>
-> 📖 Improve ticker [`4c4c283`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4c4c2834deb162b009f7f1ce62a7075ba66610a3) <br>
-> 📖 ticker left [`10dee58`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/10dee588295aa215457d05325bde9b61c3286483) <br>
-> 📖 ticker left/center [`c7d1c39`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c7d1c394ec89e6a3c95de28a0400136346365537) <br>
-> 📖 ticker not without 🦄 [`80c3291`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/80c32918e944be7654868de0087fc5c52e5bd488) <br>
+> 📖 italic ticker [`d5e5db6`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d5e5db6135ce9b511ec29aa3db66556541088f0f) <br>
 > 📖 check square ticker [`3cf1d2a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3cf1d2a7e5b8566598b294c1242d778a7341c4a7) <br>
+> 📖 ticker not without 🦄 [`80c3291`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/80c32918e944be7654868de0087fc5c52e5bd488) <br>
+> 📖 ticker left/center [`c7d1c39`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c7d1c394ec89e6a3c95de28a0400136346365537) <br>
+> 📖 ticker left [`10dee58`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/10dee588295aa215457d05325bde9b61c3286483) <br>
+> 📖 Improve ticker [`4c4c283`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4c4c2834deb162b009f7f1ce62a7075ba66610a3) <br>
 
 <br>
 
@@ -1181,8 +1198,8 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 >  📖 Laravel Blade Loops [`b162f05`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b162f0574dba01dc83387d37532643d7e1b5366c) <br>
 >  📖 More blade examples [`2db1717`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2db1717089e1dc68fd56ff2685a3d78dceacf13b) <br>
 >  📖 Laravel Blade Switch Case [`6a3675f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/6a3675f661c631d7954b1cd2dbb6f2aff1936920) <br>
->  📖  Dummy text [`5156432`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5156432bad56ffd311de7e13afc8f0a2e46b5a8e) <br>
 >  📖 Laravel Blade Service Injection Synctax [`02b3d31`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/02b3d317e4a69e817e3ff508faefd8c54ce81366) <br>
+>  📖  Dummy text [`5156432`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5156432bad56ffd311de7e13afc8f0a2e46b5a8e) <br>
 >  📖 Basic Laravel Blace [`74db2b1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/74db2b17e5ce28e8c464a775a4d275a3a778c113) <br>
 >  📖 Laravel Blade Basic [`d95796a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d95796ab083b9ea84399a3735a705cf9950c99ac) <br>
 >  📖 log [`f2fc048`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2fc04864d5099e42f88889d2e11648d2a76d963) <br>
@@ -1426,8 +1443,8 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 > 📖 Screenshots [`9e642e1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e642e1e7de90f6d7e7c6bccca52fc72f9bfe824) <br>
 > 📖 Formatting resizing [`e8e0c9a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e8e0c9afd1658127b2c1e6ccf20a3932ae5f600d) <br>
 > 📖 Formatting resizing [`9e5d24f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9e5d24f41a9c53b13eca4322cfbb2fc891552295) <br>
-> 📖 Sheilds [`ee97213`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ee97213675f00a5e63d586fa7d3907d3ccd68519) <br>
 > 📖 Img name Upper case [`fa370ef`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fa370eff55e6b3393e270e5f61843a54bf18f994) <br>
+> 📖 Sheilds [`ee97213`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ee97213675f00a5e63d586fa7d3907d3ccd68519) <br>
 > 📖 formatting [`e39fa66`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e39fa66b9a5ed81dfb7e281b6c7b34e1555fbf3c) <br>
 
 <br>
@@ -2038,8 +2055,8 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 ![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
 > 📖 Best Custom Settings [`3ee8d80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ee8d805d07bf172d017ad98c56ce0d6cb7f927e) <br>
-> 📖 Best Custom Settings [`fce09c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fce09c1326eb4530777f6b8f15782f059b2d6517) <br>
 > 📖 Credit dhanishgajjar [`4237fe2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4237fe2a3500a73cf66c54cda7d11fd2e2696669) <br>
+> 📖 Best Custom Settings [`fce09c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fce09c1326eb4530777f6b8f15782f059b2d6517) <br>
 >  📖 Changelog [`f2d1e2f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2d1e2f00cfe81df9b0a423e3c873b6f845ad971) <br>
 
 <br>
