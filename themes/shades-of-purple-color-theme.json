@@ -286,7 +286,7 @@
 		"terminal.ansiBrightBlue": "#6943FF",
 		"terminal.ansiBrightMagenta": "#FB94FF",
 		"terminal.ansiBrightCyan": "#80FCFF",
-		"terminal.ansiBrightWhite": "#2D2B55",
+		"terminal.ansiBrightWhite": "#FFFFFF",
 		"terminal.background": "#1E1E3F",
 		"terminal.foreground": "#FFFFFF",
 		"terminalCursor.background": "#FAD000",
