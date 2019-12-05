@@ -21,7 +21,15 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v6.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/v6.0.0...v6.1.0)
+### RELEASE: [v6.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.1.0...v6.2.0)
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [6.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/v6.0.0...6.1.0)
 
 ![FIX](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
