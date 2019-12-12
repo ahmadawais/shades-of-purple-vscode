@@ -17,6 +17,18 @@
 		"activityBar.activeBorder": "#6943ff62",
 		"activityBar.activeBackground": "#222244",
 
+		// Debug Icons.
+		"debugIcon.startForeground": "#FAD000",
+		"debugIcon.continueForeground":"#FAD000",
+		"debugIcon.disconnectForeground":"#FAD000",
+		"debugIcon.pauseForeground":"#FAD000",
+		"debugIcon.restartForeground":"#3AD900",
+		"debugIcon.stepBackForeground":"#FAD000",
+		"debugIcon.stepIntoForeground":"#FAD000",
+		"debugIcon.stepOutForeground":"#FAD000",
+		"debugIcon.stepOverForeground":"#FAD000",
+		"debugIcon.stopForeground":"#EC3A37F5",
+
 		// Sidebar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
 		"sideBar.background": "#222244",
