@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v6.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.1.0...v6.2.0)
+### RELEASE: [v6.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.2.0...v6.3.0)
+
+![NEW](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Debug Icon Colors [`b9845c2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b9845c283e17e5607dd83d2532fe505271e1ce09) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [6.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.1.0...6.2.0)
 
 <br>
 
