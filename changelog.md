@@ -21,7 +21,19 @@ _<small><a href="https://VSCode.pro/?utm_source=sop" target="_blank">VSCode Powe
 
 <br>
 
-### RELEASE: [v6.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.3.0...v6.4.0)
+### RELEASE: [v6.5.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.4.0...v6.5.0)
+
+![DOCS](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Semantic Highlighting Disabled [`19b5c16`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/19b5c16ea05207d83f1e9764b2e904a257a99b75) <br>
+
+<br>
+
+![hr](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/hr.png)
+
+<br>
+
+### RELEASE: [6.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.3.0...6.4.0)
 
 ![IMPROVEMENT](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
