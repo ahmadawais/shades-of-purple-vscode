@@ -2,7 +2,7 @@
 	"name": "shades-of-purple",
 	"displayName": "Shades of Purple",
 	"description": "⚡ A professional theme suite with hand-picked & bold 🦄 shades of purple for your VS Code editor and terminal apps. One of the excellent most downloaded and top rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
-	"version": "6.3.0",
+	"version": "6.4.0",
 	"publisher": "ahmadawais",
 	"engines": {
 		"vscode": "^1.15.0"
