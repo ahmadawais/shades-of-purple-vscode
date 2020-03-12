@@ -107,6 +107,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "editor.renderWhitespace": "all",
 "editor.snippetSuggestions": "top",
 "workbench.startupEditor": "newUntitledFile",
+"editor.semanticHighlighting.enabled": false,
 "editor.glyphMargin": true,
 "workbench.editor.enablePreview": false,
 "explorer.confirmDragAndDrop": false,
