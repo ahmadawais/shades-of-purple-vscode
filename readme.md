@@ -107,7 +107,6 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "editor.renderWhitespace": "all",
 "editor.snippetSuggestions": "top",
 "workbench.startupEditor": "newUntitledFile",
-"editor.semanticHighlighting.enabled": false,
 "editor.glyphMargin": true,
 "workbench.editor.enablePreview": false,
 "explorer.confirmDragAndDrop": false,
@@ -122,6 +121,8 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "workbench.fontAliasing": "auto",
 "terminal.integrated.macOptionIsMeta": true,
 "workbench.statusBar.feedback.visible": false,
+// The default syntax (TextMate) highlighter classifies many tokens as variables and these are now (since VSCode 1.43) resolved into namespaces, classes, parameters, and so on. This is called Semantic highlighting support for TypeScript and JavaScript. But many themes and language extensions seem broken with single-colored syntax. This came as a surprise to me. It's set `true` by default. I recommend disabling this for now.
+"editor.semanticHighlighting.enabled": false,
 // SOP's highlight matching tag setting.
 "highlight-matching-tag.styles": {
     "opening": {
