@@ -233,7 +233,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 🦄 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
 - 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
 - 🦄 [WordPress theme](https://ahmadawais.com/shades-of-purple-wordpress/) — Shades of Purple
-- 🦄 [Prism JS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/themes/shadesOfPurple.js) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://code-surfer.netlify.com/theming/#8) theme — Shades of Purple
+- 🦄 [Prism JS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/src/themes/shadesOfPurple.js) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://github.com/pomber/code-surfer#themes) theme — Shades of Purple
 
 ## SOP's Syntax Colors
 
