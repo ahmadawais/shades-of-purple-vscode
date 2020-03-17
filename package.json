@@ -4,6 +4,11 @@
 	"description": "⚡ A professional theme suite with hand-picked & bold 🦄 shades of purple for your VS Code editor and terminal apps. One of the excellent most downloaded and top rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
 	"version": "6.6.0",
 	"publisher": "ahmadawais",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
 	"engines": {
 		"vscode": "^1.15.0"
 	},
@@ -26,6 +31,12 @@
 		"Shade of Purple",
 		"Cobalt"
 	],
+	"main": "./src/extension.js",
+	"activationEvents": [
+		"*",
+		"onCommand:shadesOfPurple.enableGlow",
+		"onCommand:shadesOfPurple.whatsNew"
+	],
 	"contributes": {
 		"themes": [
 			{
@@ -33,20 +44,35 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/shades-of-purple-color-theme.json"
 			}
-		]
-	},
-	"devDependencies": {
-		"auto-changelog": "^1.12.0",
-		"nodemon": "^1.18.10",
-		"release-it": "^10.3.1"
-	},
-	"auto-changelog": {
-		"output": "CHANGELOG.md",
-		"template": ".clrc.hbs",
-		"commitLimit": false,
-		"package": true,
-		"replaceText": {
-			"(NEW|IMPROVE|FIX|DOC|RELEASE|TEST): ": ""
+		],
+		"commands": [
+			{
+				"command": "shadesOfPurple.enableGlow",
+				"title": "Shades of Purple: Enable Glow"
+			},
+			{
+				"command": "shadesOfPurple.diableGlow",
+				"title": "Shades of Purple: Disable Glow"
+			},
+			{
+				"command": "shadesOfPurple.whatsNew",
+				"title": "Shades of Purple: What's New"
+			}
+		],
+		"configuration": {
+			"title": "Shades of Purple",
+			"properties": {
+				"shadesOfPurple.brightness": {
+					"type": "number",
+					"default": 0.45,
+					"description": "Set the brightness value for the glow effect. 0.0 is fully transparent and 1.0 is fully bright"
+				},
+				"shadesOfPurple.disableGlow": {
+					"type": "boolean",
+					"default": false,
+					"description": "Disable the glow effect, but show Shades of Purple editor chrome updates"
+				}
+			}
 		}
 	},
 	"files": [
@@ -54,6 +80,8 @@
 		"themes/shades-of-purple-color-theme.json",
 		"themes",
 		"themes/*",
+		"src/*",
+		"greet/*",
 		"images/icon/logo.png",
 		"package.json",
 		"readme.md",
@@ -67,6 +95,9 @@
 		"release-major": "release-it major && npx vsce publish",
 		"release-dry": "release-it --dry-run",
 		"beforeStage": "auto-changelog"
+	},
+	"dependencies": {
+		"semver": "^7.1.3"
 	},
 	"__metadata": {
 		"id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
