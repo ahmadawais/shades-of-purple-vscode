@@ -1,7 +1,7 @@
 {
 	"name": "shades-of-purple",
 	"displayName": "Shades of Purple",
-	"description": "⚡ A professional theme suite with hand-picked & bold 🦄 shades of purple for your VS Code editor and terminal apps. One of the excellent most downloaded and top rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
+	"description": "🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent most downloaded and top rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
 	"version": "6.7.0",
 	"publisher": "ahmadawais",
 	"engines": {
@@ -36,18 +36,7 @@
 		]
 	},
 	"devDependencies": {
-		"auto-changelog": "^1.12.0",
-		"nodemon": "^1.18.10",
-		"release-it": "^10.3.1"
-	},
-	"auto-changelog": {
-		"output": "CHANGELOG.md",
-		"template": ".clrc.hbs",
-		"commitLimit": false,
-		"package": true,
-		"replaceText": {
-			"(NEW|IMPROVE|FIX|DOC|RELEASE|TEST): ": ""
-		}
+		"nodemon": "^1.18.10"
 	},
 	"files": [
 		".vscodeignore",
@@ -61,12 +50,7 @@
 		"changelog.md"
 	],
 	"scripts": {
-		"start": "nodemon --exec vsce package",
-		"log": "auto-changelog && git add . && git ci -m ' 📖 DOC: Update the changelog' && git push",
-		"release": "release-it && npx vsce publish",
-		"release-major": "release-it major && npx vsce publish",
-		"release-dry": "release-it --dry-run",
-		"beforeStage": "auto-changelog"
+		"start": "nodemon --exec vsce package"
 	},
 	"__metadata": {
 		"id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
