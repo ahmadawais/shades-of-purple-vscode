@@ -15,7 +15,7 @@ I have released a video course to help you become a better developer — <a href
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
 
-**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, `🤖 TEST`, and `‼️ BREAKING`.
 
 <small>
 
@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
-### RELEASE: [v6.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.6.0...v6.7.0)
+### RELEASE: [v6.8.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.7.0...v6.8.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Remove Extraneous Dev [`e82d708`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e82d7085b4088f6400838683fe3817811f5bf98b) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.6.0...6.7.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Numbers [`342af22`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/342af22c6da7d7696852219d85f5cbfe81241348) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`7b3aeed`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7b3aeede2afaa8bdc71982a9db65d1e6f26a14a6) <br>
 
 <br>
 
