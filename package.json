@@ -49,6 +49,13 @@
 		"code-of-conduct.md",
 		"changelog.md"
 	],
+	"badges": [
+		{
+			"url": "https://img.shields.io/badge/SUPPORT%20THIS%20PROJECT-Become%20a%20VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=131217&colorB=5734F5&style=flat",
+			"href": "https://VSCode.pro/?utm_source=EmojiLogVSCode",
+			"description": "Support this project!"
+		}
+	],
 	"scripts": {
 		"start": "nodemon --exec vsce package"
 	},
