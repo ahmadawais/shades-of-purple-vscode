@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
-### RELEASE: [v6.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.5.0...v6.6.0)
+### RELEASE: [v6.7.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.6.0...v6.7.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Numbers [`342af22`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/342af22c6da7d7696852219d85f5cbfe81241348) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.6.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.5.0...6.6.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Links [`7c69540`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7c695400988b6f3137a1d0d0b5543b329a085e24) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog update [`783746c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/783746c6558b3f8938a0ee77df0fc19351f83c43) <br>
 
 <br>
 
