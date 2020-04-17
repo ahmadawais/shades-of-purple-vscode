@@ -29,11 +29,27 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
-### RELEASE: [v6.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.8.0...v6.9.0)
+### RELEASE: [v6.10.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.9.0...v6.10.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Typescript Syntax [`651b8ad`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/651b8ad823c9a0e6b8aba2e81b9aa996aa754e3b) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.9.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.8.0...6.9.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Badge [`e084795`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e08479588ec09a170e54553e4e2e09a04018ac11) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`df6f582`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/df6f582590b900caa17aa508a2844502d0aa55e9) <br>
 
 <br>
 
