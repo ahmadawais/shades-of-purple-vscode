@@ -725,7 +725,7 @@
 		},
 		{
 			"name": "[JAVASCRIPT] — Var Types",
-			"scope": ["variable.other.constant.js"],
+			"scope": ["variable.other.constant"],
 			"settings": {
 				"foreground": "#9EFFFF"
 			}
@@ -804,11 +804,12 @@
 				"variable.other.readwrite.alias.js",
 				"variable.other.object.tsx",
 				"variable.other.object.jsx",
+				"variable.other.object",
 				"support.class.component.tsx",
 				"support.class.component.jsx",
 				"entity.name.type.tsx",
 				"entity.name.type.jsx",
-				"variable.other.readwrite.js",
+				"variable.other.readwrite",
 				"variable.other.object.js"
 			],
 			"settings": {
@@ -1512,7 +1513,7 @@
 		{
 			"name": "[JS] — Double Destructure of Object",
 			"scope": [
-				"variable.object.property.js",
+				"variable.object.property",
 			],
 			"settings": {
 				"foreground": "#9EFFFF",
@@ -1542,17 +1543,16 @@
 				"modifier",
 				"this",
 				"comment",
-				"storage.modifier.js",
-				"entity.other.attribute-name.js",
+				"storage.modifier",
+				"entity.other.attribute-name",
 				"entity.other.attribute-name.html",
 				"punctuation.definition.comment",
 				"text.html.basic entity.other",
-				"entity.other.attribute-name.tsx",
-				"entity.other.attribute-name.jsx",
+				"entity.other.attribute-name",
 				"markup.quote.markdown meta.paragraph.markdown",
 				"markup.italic.markdown",
 				"text.jade entity.other.attribute-name.tag",
-				"keyword.control.from.js",
+				"keyword.control.from",
 				"entity.other.attribute-name.tag.pug"
 			],
 			"settings": {
