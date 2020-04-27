@@ -747,9 +747,9 @@
 		{
 			"name": "[JAVASCRIPT] — Storage types",
 			"scope": [
-				"storage.type.js",
-				"storage.type.class.js",
-				"storage.modifier.js",
+				"storage.type",
+				"storage.type.class",
+				"storage.modifier",
 				"keyword.control",
 				"keyword.operator"
 			],

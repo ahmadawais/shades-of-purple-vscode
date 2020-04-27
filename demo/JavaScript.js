@@ -6,6 +6,8 @@
  */
 
 // String.
+const world = '🗺️';
+
 const sop = '🦄 Shades of Purple is an awesome syntax highlighting theme.';
 console.log('sop', sop);
 
