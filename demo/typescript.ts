@@ -6,6 +6,7 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 
 const world = '🗺️';
+console.log( world );
 
 @NgModule({
 	imports: [BrowserModule, FormsModule],
