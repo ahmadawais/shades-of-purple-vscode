@@ -139,9 +139,10 @@
 		"tab.inactiveForeground": "#A599E9",
 		"tab.unfocusedActiveForeground": "#A599E9",
 		"tab.unfocusedInactiveForeground": "#A599E9",
-		// TODO: Proposed but need testing.
-		// "tab.activeModifiedBorder":"#A599E9",
-		// "tab.inactiveModifiedBorder":"#A599E966",
+		"tab.activeModifiedBorder":"#A599E9",
+		"tab.inactiveModifiedBorder":"#A599E966",
+		"tab.unfocusedActiveModifiedBorder":"#A599E966",
+		"tab.unfocusedInactiveModifiedBorder":"#A599E966",
 
 		// The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
