@@ -32,11 +32,31 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [v6.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.10.0...v6.11.0)
+### RELEASE: [v6.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.11.0...v6.12.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 tab state colors [`c1d0457`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c1d04571c941c980295af5c7727140c4676e8dc1) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Alacritty [`8d4b591`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8d4b591149811b2bee166512032e896ca59849a3) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.11.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.10.0...6.11.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 TypeScript Variables [`ea87077`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ea87077b722cd2eff93b27b3b85e112835380aa0) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`c7720a3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c7720a33b6af63bc36ddeb7a2021087e80043a16) <br>
 
 <br>
 
