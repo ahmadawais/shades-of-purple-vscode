@@ -19,15 +19,15 @@
 
 		// Debug Icons.
 		"debugIcon.startForeground": "#FAD000",
-		"debugIcon.continueForeground":"#FAD000",
-		"debugIcon.disconnectForeground":"#FAD000",
-		"debugIcon.pauseForeground":"#FAD000",
-		"debugIcon.restartForeground":"#3AD900",
-		"debugIcon.stepBackForeground":"#FAD000",
-		"debugIcon.stepIntoForeground":"#FAD000",
-		"debugIcon.stepOutForeground":"#FAD000",
-		"debugIcon.stepOverForeground":"#FAD000",
-		"debugIcon.stopForeground":"#EC3A37F5",
+		"debugIcon.continueForeground": "#FAD000",
+		"debugIcon.disconnectForeground": "#FAD000",
+		"debugIcon.pauseForeground": "#FAD000",
+		"debugIcon.restartForeground": "#3AD900",
+		"debugIcon.stepBackForeground": "#FAD000",
+		"debugIcon.stepIntoForeground": "#FAD000",
+		"debugIcon.stepOutForeground": "#FAD000",
+		"debugIcon.stepOverForeground": "#FAD000",
+		"debugIcon.stopForeground": "#EC3A37F5",
 
 		// Sidebar.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
@@ -139,10 +139,10 @@
 		"tab.inactiveForeground": "#A599E9",
 		"tab.unfocusedActiveForeground": "#A599E9",
 		"tab.unfocusedInactiveForeground": "#A599E9",
-		"tab.activeModifiedBorder":"#A599E9",
-		"tab.inactiveModifiedBorder":"#A599E966",
-		"tab.unfocusedActiveModifiedBorder":"#A599E966",
-		"tab.unfocusedInactiveModifiedBorder":"#A599E966",
+		"tab.activeModifiedBorder": "#A599E9",
+		"tab.inactiveModifiedBorder": "#A599E966",
+		"tab.unfocusedActiveModifiedBorder": "#A599E966",
+		"tab.unfocusedInactiveModifiedBorder": "#A599E966",
 
 		// The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
@@ -337,9 +337,9 @@
 		// Breadcrumbs.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_breadcrumbs
 		"breadcrumb.foreground": "#A599E9",
-		"breadcrumb.focusForeground": "#FAD000",// Color of focused breadcrumb items.
-		"breadcrumb.activeSelectionForeground": "#FFFFFF",// Color of selected breadcrumb items.
-		"breadcrumbPicker.background": "#1E1E3F",// Background color of breadcrumb item picker.
+		"breadcrumb.focusForeground": "#FAD000", // Color of focused breadcrumb items.
+		"breadcrumb.activeSelectionForeground": "#FFFFFF", // Color of selected breadcrumb items.
+		"breadcrumbPicker.background": "#1E1E3F", // Background color of breadcrumb item picker.
 
 		// New Settings Editor.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_settings-editor-colors
@@ -356,11 +356,11 @@
 		"settings.checkboxBorder": "#1E1E3F",
 		"settings.textInputBorder": "#1E1E3F",
 		"settings.numberInputBorder": "#1E1E3F",
-		"settings.dropdownListBorder" : "#2D2B55",
-		"settings.modifiedItemIndicator" : "#FAD000",
+		"settings.dropdownListBorder": "#2D2B55",
+		"settings.modifiedItemIndicator": "#FAD000",
 
 		// Customizable menu.
-		"menu.separatorBackground":"#A599E9",
+		"menu.separatorBackground": "#A599E9",
 
 		// Tab stops.
 		"editor.snippetTabstopHighlightBackground": "#6943ff62",
@@ -371,7 +371,7 @@
 		// Tree List Filter Colors.
 		"listFilterWidget.background": "#2D2B55",
 		"listFilterWidget.outline": "#2D2B55",
-		"listFilterWidget.noMatchesOutline": "#EC3A37F5",
+		"listFilterWidget.noMatchesOutline": "#EC3A37F5"
 
 		// TODO: Colors to be added.
 		// "inputValidation.infoForeground": "#FAD000", // Input validation foreground color for information severity.
@@ -428,7 +428,8 @@
 			"name": "[Meta Brace] — The main color for Meta Brace",
 			"scope": [
 				"meta.brace",
-				"punctuation.definition.parameters.begin.js", "punctuation.definition.parameters.end.js"
+				"punctuation.definition.parameters.begin.js",
+				"punctuation.definition.parameters.end.js"
 			],
 			"settings": {
 				"foreground": "#E1EFFF"
@@ -520,7 +521,7 @@
 		},
 		{
 			"name": "[INI] - Color for Keyword",
-			"scope": ["source.ini keyword","keyword.other.definition.ini"],
+			"scope": ["source.ini keyword", "keyword.other.definition.ini"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
@@ -555,10 +556,7 @@
 		},
 		{
 			"name": "[CSS] - Color for ID Selector",
-			"scope": [
-				"entity.other.attribute-name.id.css",
-				"entity.other.attribute-name.pseudo-class.css"
-			],
+			"scope": ["entity.other.attribute-name.id.css", "entity.other.attribute-name.pseudo-class.css"],
 			"settings": {
 				"foreground": "#FFB454"
 			}
@@ -572,7 +570,7 @@
 		},
 		{
 			"name": "[CSS] - Color for Support",
-			"scope": ["source.css support", "entity.name.tag.css","source.stylus support"],
+			"scope": ["source.css support", "entity.name.tag.css", "source.stylus support"],
 			"settings": {
 				"foreground": "#A5FF90"
 			}
@@ -583,7 +581,7 @@
 				"source.css constant",
 				"source.css support.constant",
 				"source.stylus constant",
-				"source.stylus support.constant",
+				"source.stylus support.constant"
 			],
 			"settings": {
 				"foreground": "#FFEE80"
@@ -747,13 +745,7 @@
 		},
 		{
 			"name": "[JAVASCRIPT] — Storage types",
-			"scope": [
-				"storage.type",
-				"storage.type.class",
-				"storage.modifier",
-				"keyword.control",
-				"keyword.operator"
-			],
+			"scope": ["storage.type", "storage.type.class", "storage.modifier", "keyword.control", "keyword.operator"],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
@@ -905,31 +897,23 @@
 		},
 		{
 			"name": "[MARKDOWN] - Diff Code Inserted Block",
-			"scope": [
-				"markup.inserted.diff",
-				"punctuation.definition.inserted.diff"
-			],
+			"scope": ["markup.inserted.diff", "punctuation.definition.inserted.diff"],
 			"settings": {
-				"foreground": "#8efa00",
+				"foreground": "#8efa00"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Diff Deleted Code Block",
-			"scope": [
-				"markup.deleted.diff",
-				"punctuation.definition.deleted.diff"
-			],
+			"scope": ["markup.deleted.diff", "punctuation.definition.deleted.diff"],
 			"settings": {
-				"foreground": "#F16E6B",
+				"foreground": "#F16E6B"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Diff Meta text",
-			"scope": [
-				"meta.embedded.block.diff"
-			],
+			"scope": ["meta.embedded.block.diff"],
 			"settings": {
-				"foreground": "#FFFFFF",
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -941,10 +925,7 @@
 		},
 		{
 			"name": "[MARKDOWN] - Comment Punctuation",
-			"scope": [
-				"punctuation.definition.from-file.diff",
-				"meta.diff.header.from-file"
-			],
+			"scope": ["punctuation.definition.from-file.diff", "meta.diff.header.from-file"],
 			"settings": {
 				"foreground": "#B362FF"
 			}
@@ -965,10 +946,7 @@
 		},
 		{
 			"name": "[MARKDOWN] - Color for Quote Paragraph",
-			"scope": [
-				"markup.quote.markdown meta.paragraph.markdown",
-				"punctuation.definition.quote.begin.markdown"
-			],
+			"scope": ["markup.quote.markdown meta.paragraph.markdown", "punctuation.definition.quote.begin.markdown"],
 			"settings": {
 				"foreground": "#A599E9"
 			}
@@ -984,14 +962,14 @@
 			"name": "[MARKDOWN] - Color for Emphasis Bold",
 			"scope": "markup.bold.markdown",
 			"settings": {
-				"fontStyle": "bold",
+				"fontStyle": "bold"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Color for Emphasis Italic",
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -999,7 +977,7 @@
 			"scope": [
 				"beginning.punctuation.definition.list.markdown",
 				"punctuation.definition.list.begin.markdown",
-				"markup.list.unnumbered.markdown",
+				"markup.list.unnumbered.markdown"
 			],
 			"settings": {
 				"foreground": "#FAD000"
@@ -1022,20 +1000,18 @@
 		{
 			"name": "[MARKDOWN] - Color for Link Title",
 			"scope": [
-				"meta.link.inline.markdown string.other.link.title.markdown","meta.link.reference.markdown string.other.link.title.markdown",
+				"meta.link.inline.markdown string.other.link.title.markdown",
+				"meta.link.reference.markdown string.other.link.title.markdown",
 				"meta.link.reference.def.markdown markup.underline.link.markdown"
 			],
 			"settings": {
 				"foreground": "#FAD000",
-				 "fontStyle": "underline"
+				"fontStyle": "underline"
 			}
 		},
 		{
 			"name": "[MARKDOWN] - Color for Link/Image Title",
-			"scope": [
-				"markup.underline.link.markdown",
-				"string.other.link.description.title.markdown"
-			],
+			"scope": ["markup.underline.link.markdown", "string.other.link.description.title.markdown"],
 			"settings": {
 				"foreground": "#A599E9"
 			}
@@ -1093,7 +1069,7 @@
 				"constant.other.reference.link.markdown",
 				"punctuation.definition.constant.markdown",
 				"punctuation.definition.constant.begin.markdown",
-				"punctuation.definition.constant.end.markdown",
+				"punctuation.definition.constant.end.markdown"
 			],
 			"settings": {
 				"foreground": "#A599E9"
@@ -1202,16 +1178,14 @@
 		},
 		{
 			"name": "[YML] — KEYWORDS",
-			"scope": [ "entity.name.tag.yaml"],
+			"scope": ["entity.name.tag.yaml"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
 			"name": "[YML] — Punctuation",
-			"scope": [
-				"punctuation.definition.block.sequence.item.yaml",
-			],
+			"scope": ["punctuation.definition.block.sequence.item.yaml"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
@@ -1225,29 +1199,21 @@
 		},
 		{
 			"name": "[PHP Blade] - Keywords for definition",
-			"scope": [
-				"keyword.blade",
-			],
+			"scope": ["keyword.blade"],
 			"settings": {
 				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[PHP Blade] - Punctuation",
-			"scope": [
-				"begin.bracket.round.blade.php",
-				"end.bracket.round.blade.php",
-			],
+			"scope": ["begin.bracket.round.blade.php", "end.bracket.round.blade.php"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[PHP Blade] - Construct",
-			"scope": [
-				"support.function.construct.begin.blade",
-				"support.function.construct.end.blade",
-			],
+			"scope": ["support.function.construct.begin.blade", "support.function.construct.end.blade"],
 			"settings": {
 				"foreground": "#FFEE80"
 			}
@@ -1300,24 +1266,21 @@
 			"name": "[RUBY] - Constant",
 			"scope": "variable.other.constant.ruby",
 			"settings": {
-				"foreground": "#80FFBB",
+				"foreground": "#80FFBB"
 			}
 		},
 		{
 			"name": "[RUBY] - Class",
 			"scope": "entity.name.type.class.ruby",
 			"settings": {
-				"foreground": "#FB94FF",
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[RUBY] - Variables",
-			"scope": [
-				"variable.other.block.ruby",
-				"variable.other.ruby"
-			],
+			"scope": ["variable.other.block.ruby", "variable.other.ruby"],
 			"settings": {
-				"foreground": "#9EFFFF",
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
@@ -1331,172 +1294,133 @@
 			"name": "[RUBY] - Special Methods",
 			"scope": "keyword.other.special-method.ruby",
 			"settings": {
-				"foreground": "#FFEE80",
+				"foreground": "#FFEE80"
 			}
 		},
 		{
 			"name": "[SHELL] - Function Keyword",
 			"scope": ["storage.type.function.shell"],
 			"settings": {
-				"foreground": "#FB94FF",
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[SHELL] - Var Other",
-			"scope": [
-				"variable.other.special.shell",
-				"punctuation.definition.variable.shell"
-			],
+			"scope": ["variable.other.special.shell", "punctuation.definition.variable.shell"],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[GRAPHQL] — Variable",
-			"scope": [
-				"variable.graphql"
-			],
+			"scope": ["variable.graphql"],
 			"settings": {
-				"foreground":"#FAEFA5",
+				"foreground": "#FAEFA5"
 			}
 		},
 		{
 			"name": "[GRAPHQL] — Keywords",
-			"scope": [
-				"keyword.operation.graphql"
-			],
+			"scope": ["keyword.operation.graphql"],
 			"settings": {
-				"foreground": "#FB94FF",
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[SQL] Source",
-			"scope": [
-				"source.sql"
-			],
+			"scope": ["source.sql"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[SQL] — Keywords",
-			"scope": [
-				"source.sql keyword.other",
-				"support.function.mysqli.php"
-			],
+			"scope": ["source.sql keyword.other", "support.function.mysqli.php"],
 			"settings": {
 				"foreground": "#FAEFA5"
 			}
 		},
 		{
 			"name": "[SQL] — Functions Used",
-			"scope": [
-				"support.function.mysqli.php",
-				"source.sql support.function"
-			],
+			"scope": ["support.function.mysqli.php", "source.sql support.function"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
 			"name": "[SQL] — RegExp String",
-			"scope": [
-				"string.regexp",
-				"string.regexp keyword.other"
-			],
+			"scope": ["string.regexp", "string.regexp keyword.other"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[SQL] — Other keywords",
-			"scope": [
-				"keyword.other.DML.sql"
-			],
+			"scope": ["keyword.other.DML.sql"],
 			"settings": {
-				"foreground":"#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[TOML] — SYNTAX",
-			"scope": [
-				"punctuation.definition.table.array.toml"
-			],
+			"scope": ["punctuation.definition.table.array.toml"],
 			"settings": {
 				"foreground": "#E1EFFF"
 			}
 		},
 		{
 			"name": "[TOML] — Other keywords",
-			"scope": [
-				"entity.other.attribute-name.table.array.toml",
-				"entity.other.attribute-name.table.toml"
-			],
+			"scope": ["entity.other.attribute-name.table.array.toml", "entity.other.attribute-name.table.toml"],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[TOML] — Keywords",
-			"scope": [
-				"keyword.key.toml"
-			],
+			"scope": ["keyword.key.toml"],
 			"settings": {
 				"foreground": "#FAD000"
 			}
 		},
 		{
 			"name": "[DOCKER] — Keywords",
-			"scope": [
-				"keyword.other.special-method.dockerfile"
-			],
+			"scope": ["keyword.other.special-method.dockerfile"],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FAD000"
 			}
 		},
 		{
 			"name": "[RUST] — Keywords",
-			"scope": [
-				"keyword.other.rust"
-			],
+			"scope": ["keyword.other.rust"],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[RUST] — Keyword Fn",
-			"scope": [
-				"keyword.other.fn.rust"
-			],
+			"scope": ["keyword.other.fn.rust"],
 			"settings": {
-				"foreground": "#FB94FF",
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[ENV] — Keyword",
-			"scope": [
-				"keyword.other.env"
-			],
+			"scope": ["keyword.other.env"],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[ENV] — Variable",
-			"scope": [
-				"variable.other.env"
-			],
+			"scope": ["variable.other.env"],
 			"settings": {
-				"foreground": "#FAD000",
+				"foreground": "#FAD000"
 			}
 		},
 		{
 			"name": "[ENV] — Source",
-			"scope": [
-				"source.env"
-			],
+			"scope": ["source.env"],
 			"settings": {
-				"foreground": "#E1EFFF",
+				"foreground": "#E1EFFF"
 			}
 		},
 		{
@@ -1504,38 +1428,52 @@
 			"scope": [
 				"keyword.other.template.begin.env",
 				"keyword.other.template.end.env",
-				"keyword.operator.assignment.env",
-
+				"keyword.operator.assignment.env"
 			],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
 			}
 		},
 		{
 			"name": "[JS] — Double Destructure of Object",
-			"scope": [
-				"variable.object.property",
-			],
+			"scope": ["variable.object.property"],
 			"settings": {
-				"foreground": "#9EFFFF",
+				"foreground": "#9EFFFF"
 			}
 		},
 		{
 			"name": "[JS] — Regex",
-			"scope": [
-				"string.regexp.js",
-			],
+			"scope": ["string.regexp.js"],
 			"settings": {
-				"foreground": "#FB94FF",
+				"foreground": "#FB94FF"
 			}
 		},
 		{
 			"name": "[CSV] — Keyword 2",
-			"scope": [
-				"keyword.rainbow2",
-			],
+			"scope": ["keyword.rainbow2"],
 			"settings": {
-				"foreground": "#FF9D00",
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "Deleted",
+			"scope": ["markup.deleted"],
+			"settings": {
+				"foreground": "#F16E6B"
+			}
+		},
+		{
+			"name": "Inserted",
+			"scope": ["markup.inserted"],
+			"settings": {
+				"foreground": "#8efa00"
+			}
+		},
+		{
+			"name": "Underline",
+			"scope": ["markup.underline"],
+			"settings": {
+				"fontStyle": "underline"
 			}
 		},
 		{
