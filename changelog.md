@@ -32,7 +32,26 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [v6.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.11.0...v6.12.0)
+### RELEASE: [v6.12.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.0...v6.12.1)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 textMate tokens for deleted insterted underline [`465f6cc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/465f6ccfb9551730013e652acb149d9aa77050d5) <br>
+> 📦 Chrome theme [`9513e8e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9513e8ed902d9397f43f595d0fe418383282438d) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Update nodemon [`7a41850`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7a41850737ca4c47477cec6d2926f7227b461634) <br>
+> 👌 Lingo [`99a9bd9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/99a9bd965fc9ce83878ec12208a5996892ee12a9) <br>
+> 👌 Lingo [`df6a7dc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/df6a7dcc3a4ddd9a67c7c737b5cb410e8c1fe69a) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.12.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.11.0...6.12.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -40,6 +59,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
+> 📖 Changelog [`ebc845b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ebc845bbfd68d3ff6dd497a857619bf616e5a20c) <br>
 > 📖 Alacritty [`8d4b591`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/8d4b591149811b2bee166512032e896ca59849a3) <br>
 
 <br>
@@ -1586,6 +1606,11 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 > 📦 Version patch [`e1e7b22`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/e1e7b2295b118283d30f901261e889f07423fb17) <br>
 
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 this color in php [`5da4c7f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5da4c7f613915132686dff7ea7e7a12709313701) <br>
+> 👌 no patches [`2b25bf3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2b25bf3a3209a9ee58bb8769dbd67bc0cb7d81b1) <br>
+
 <br>
 
 [![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
@@ -1593,10 +1618,6 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 <br>
 
 ### RELEASE: [2.2.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/2.1.1...2.2.0)
-
-![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
-
-> 👌 no patches [`2b25bf3`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2b25bf3a3209a9ee58bb8769dbd67bc0cb7d81b1) <br>
 
 <br>
 
@@ -1801,18 +1822,6 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ### RELEASE: [1.30.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.29.0...1.30.0)
 
-![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
-
-> 🐛 Tag 1.30.0 [`b9f87d1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b9f87d1a770cefd9b8474741e90ef603bce30fad) <br>
-
-<br>
-
-[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
-
-<br>
-
-### RELEASE: [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0)
-
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 npm script [`aa83bba`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/aa83bba903513e8a50c1c25fdb1bb3a57c33f117) <br>
@@ -1843,6 +1852,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 🐛 Changelog formatting [`b897046`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b8970461104976baf0d3046b05d763292e460663) <br>
 > 🐛 No assets [`b67b4d7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b67b4d768e9d8cac711a62407cd3885093bba75e) <br>
 > 🐛 Changelog formatting [`ab93520`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ab9352045067fe7a032dd48251d8df10209c8fdd) <br>
+> 🐛 Tag 1.30.0 [`b9f87d1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b9f87d1a770cefd9b8474741e90ef603bce30fad) <br>
 > 🐛 no dry runs [`5487849`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/54878498bb0cf5caea45d909f789799ef03e058c) <br>
 > 🐛 version update [`196f463`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/196f4635d679a7c467654b2e0d2d06490b9f8a6f) <br>
 
@@ -1852,6 +1862,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 >  📖 Update the changelog [`292ecb8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/292ecb89ab6b9531c65e7471186b139211a2cedb) <br>
 >  📖 Update the changelog [`acedb59`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/acedb592dabfe7159990a1cde437ce55310b8939) <br>
 >  📖 Update the changelog [`db34351`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/db3435163e35f663f72e5d54bc7d07f334374179) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [1.29.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.28.0...1.29.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 "[PHP] - Color for Entity" [`5905061`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/5905061273626096bc4017349703ee07ce6c9fd6) <br>
 
 <br>
 
@@ -2234,12 +2256,38 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: 1.1.0
+### RELEASE: [1.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/1.0.0...1.1.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 Add Release-it [`2eb488c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2eb488c0343d9d9434d26bfda7d96854afc43c9a) <br>
 > 📦 Logo [`758c265`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/758c265e8ffb91d0145352689fbb1cd3a7101af0) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Notification Colors [`ac98892`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ac98892d2055b2985c2563490e458ae8bf8f2eef) <br>
+> 👌 Button Color [`072e365`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/072e365d8de17f2044958751884587e066ca6017) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Best Custom Settings [`3ee8d80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ee8d805d07bf172d017ad98c56ce0d6cb7f927e) <br>
+> 📖 Credit dhanishgajjar [`4237fe2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4237fe2a3500a73cf66c54cda7d11fd2e2696669) <br>
+> 📖 Best Custom Settings [`fce09c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fce09c1326eb4530777f6b8f15782f059b2d6517) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀  1.0.1 [`c8fcb4e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c8fcb4eecdccf06fba50f23d60fc43d8d4ccb913) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: 1.0.0
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
 > 📦 VSC marketplace badge [`b0ec4d9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b0ec4d956b0cadc78594a342769da62a76321ec4) <br>
 > 📦 Version 1.0.0 [`2229722`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/22297227cd53b5273ecf973cd5a09f1c5038868c) <br>
 
@@ -2247,8 +2295,6 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 > 👌 Marketplace fun [`9ea16cc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9ea16cc5a48778146091755cf2ec5bb8a4665c5a) <br>
 > 👌 Header footer text [`4472292`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/44722921d32c5d7a02d3d1e00fe7824a6361eb39) <br>
-> 👌 Notification Colors [`ac98892`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ac98892d2055b2985c2563490e458ae8bf8f2eef) <br>
-> 👌 Button Color [`072e365`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/072e365d8de17f2044958751884587e066ca6017) <br>
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
@@ -2257,14 +2303,11 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 ![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
 
-> 📖 Best Custom Settings [`3ee8d80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3ee8d805d07bf172d017ad98c56ce0d6cb7f927e) <br>
-> 📖 Credit dhanishgajjar [`4237fe2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/4237fe2a3500a73cf66c54cda7d11fd2e2696669) <br>
-> 📖 Best Custom Settings [`fce09c1`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fce09c1326eb4530777f6b8f15782f059b2d6517) <br>
 >  📖 Changelog [`f2d1e2f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f2d1e2f00cfe81df9b0a423e3c873b6f845ad971) <br>
 
 ![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
 
-> 🚀  1.0.1 [`c8fcb4e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c8fcb4eecdccf06fba50f23d60fc43d8d4ccb913) <br>
+> 🚀 1.0.1 [`7535adf`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7535adf0f8161e4ee70e4f7cd9db698a08add167) <br>
 
 <br>
 
@@ -2284,11 +2327,11 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ## Connect
 
 <div align="left">
-<p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&colorA=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO STAY UP TO DATE ON FREE & OPEN SOURCE SOFTWARE</small></p>
-<p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO GET ONE DEV MINUTE DAILY HOT TIPS & TROLLS</small></p>
-<p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&colorA=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> TO TECH TALKS & ONE DEV MINUTE VIDEOS</small></p>
-<p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&colorA=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> MOSTLY LONG FORM TECHNICAL ARTICLES</small></p>
-<p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&colorA=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> WITH THE LINKEDIN PROFILE Y'ALL</small></p>
+<p><a href="https://github.com/ahmadawais"><img alt="GitHub @AhmadAwais" align="center" src="https://img.shields.io/badge/GITHUB-gray.svg?colorB=6cc644&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO STAY UP TO DATE ON FREE & OPEN SOURCE SOFTWARE</small></p>
+<p><a href="https://twitter.com/MrAhmadAwais/"><img alt="Twitter @MrAhmadAwais" align="center" src="https://img.shields.io/badge/TWITTER-gray.svg?colorB=1da1f2&style=flat" /></a>&nbsp;<small><strong>(follow)</strong> TO GET ONE DEV MINUTE DAILY HOT TIPS & TROLLS</small></p>
+<p><a href="https://www.youtube.com/AhmadAwais"><img alt="YouTube AhmadAwais" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorB=ff0000&style=flat" /></a>&nbsp;<small><strong>(subscribe)</strong> TO TECH TALKS & ONE DEV MINUTE VIDEOS</small></p>
+<p><a href="https://AhmadAwais.com/"><img alt="Blog: AhmadAwais.com" align="center" src="https://img.shields.io/badge/MY%20BLOG-gray.svg?colorB=4D2AFF&style=flat" /></a>&nbsp;<small><strong>(read)</strong> MOSTLY LONG FORM TECHNICAL ARTICLES</small></p>
+<p><a href="https://www.linkedin.com/in/MrAhmadAwais/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorB=0077b5&style=flat" /></a>&nbsp;<small><strong>(connect)</strong> WITH THE LINKEDIN PROFILE Y'ALL</small></p>
 </div>
 
 <br>
@@ -2321,5 +2364,7 @@ without wasting a 1,000 hours</a> →</p>
 [![Sponsor Awais](https://img.shields.io/badge/-Sponsor%20Awais%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://github.com/AhmadAwais/sponsor/?utm_source=FOSS) [![Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://NodeCLI.com/?utm_source=FOSS)
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorA=6A788D&colorB=6A788D&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+[![Sponsor](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][sponsor]
 
 [sponsor]: https://github.com/AhmadAwais/sponsor
