@@ -32,7 +32,19 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [v6.12.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.0...v6.12.1)
+### RELEASE: [v6.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.1...v6.13.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 HTML Matching Elements [`61b9917`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/61b9917e173d27ecbe2357774b3def04a69239b4) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.12.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.0...6.12.1)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
@@ -44,6 +56,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 > 👌 Update nodemon [`7a41850`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/7a41850737ca4c47477cec6d2926f7227b461634) <br>
 > 👌 Lingo [`99a9bd9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/99a9bd965fc9ce83878ec12208a5996892ee12a9) <br>
 > 👌 Lingo [`df6a7dc`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/df6a7dcc3a4ddd9a67c7c737b5cb410e8c1fe69a) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`fb13b47`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fb13b47dffffec3941713ca921ba041eb389242c) <br>
 
 <br>
 
