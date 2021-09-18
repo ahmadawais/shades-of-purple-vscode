@@ -1,3 +1,5 @@
+![shades-of-purple-vscode](https://socialify.git.ci/ahmadawais/shades-of-purple-vscode/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Light)
+
 <div align="left"><p><a href="https://VSCode.pro/?utm_source=sop"><img alt="New in the Shades of Purple Theme" align="center" src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" /></a>&nbsp; <strong>NEW:</strong> Tabs & Diff: Color States.
 </p></div>
 
