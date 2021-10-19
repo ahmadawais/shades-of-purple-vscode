@@ -88,7 +88,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
 
-_You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
+_You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.icns) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
 
 ```json
 // Theme Setup.
