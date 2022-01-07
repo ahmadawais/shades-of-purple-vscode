@@ -46,7 +46,7 @@
 
 ## Video Demo & Installation
 
-Watch the following video on YouTube to find out more about Shades of Purple theme. Learn how to install it and a little bit about it's features like markdown editing — which's quite pretty awesome with SOP. _Shhh this video is part of [VSCode.pro course →][course]_
+Watch the following video on YouTube to learn more about the Shades of Purple theme. Learn how to install it and a few features like markdown editing — which's pretty awesome with SOP. _Shhh, this video is part of [VSCode.pro course →][course]_
 
 <h4 align="center">
   <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" />
@@ -76,7 +76,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 1. Launch Quick Open using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
 2. Paste the command `ext install shades-of-purple`
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor.
+4. Click **Reload** to reload your editor.
 5. Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**.
 6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details) like 110+ awesome devs to appreciate the effort on this theme.
 
@@ -86,7 +86,7 @@ Watch the following video on YouTube to find out more about Shades of Purple the
 
 ## Best Custom Settings
 
-This theme works best with the following settings. Especially if you have the Operator mono font. Add it to your user settings JSON object.
+This theme works best with the following settings. Especially if you have the Operator mono font, add it to your user settings JSON object.
 
 _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/logo.png) that I created based on the work of [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install)._
 
@@ -137,7 +137,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "importCost.smallPackageColor": "#B362FF"
 ```
 
-🦄 _I'll be teaching more about configuring this theme and your Visual Studio Code editor at [VSCode.pro][course]. Interested?! Sign up to become a [VSCode Power User][course] →_
+🦄 _I teach everything I know and my productive VSCode workflow with useful configurations for developers. Master your Visual Studio Code editor at [VSCode.pro][course]. Interested?! Sign up to become a [VSCode Power User][course] →_
 
 <br>
 
@@ -146,8 +146,8 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 ## Frequently Asked Questions
 
 - 👌 [Shades of Purple VSCode Theme With No Italics](https://github.com/ahmadawais/shades-of-purple-vscode/issues/13#issuecomment-416182574)
-- 👌 [Matching styles for the “Highlight Matching Tag” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
-- 👌 [Matching styles for the “Indent Rainbow” extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/37)
+- 👌 [Matching styles for the "Highlight Matching Tag" extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/20)
+- 👌 [Matching styles for the "Indent Rainbow" extension?](https://github.com/ahmadawais/shades-of-purple-vscode/issues/37)
 - 👌 [Can you share your VSCode Power User Setup?][course]
 
 <br>
@@ -239,28 +239,28 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 
 ## SOP's Syntax Colors
 
-Shades of purple theme is built with several shades of purple and a few contrast colors to make things pop. This also makes SOP a very good theme for teaching, presenting, and using on your site via Prisma or HighlightJS. A rough collection of important colors in SOP theme is listed below.
+Shades of purple theme is built with several shades of purple and a few contrast colors to make things pop. This makes SOP a perfect theme for teaching, presenting, and using on your site via Prisma or HighlightJS. A rough collection of actual colors in the SOP theme is listed below.
 
 |      USAGE       |                                HEX CODES                                 |
 | ---------------- | ------------------------------------------------------------------------ |
-| Background       | ![#2D2B55](https://placehold.it/15/2D2B55/000000?text=%20) `#2D2B55`       |
-| Background Dark  | ![#1E1E3F](https://placehold.it/15/1E1E3F/000000?text=%20) `#1E1E3F`       |
-| Foreground       | ![#A599E9](https://placehold.it/15/A599E9/000000?text=%20) `#A599E9`       |
-| Hover Background | ![#4D21FC](https://placehold.it/15/4D21FC/000000?text=%20) `#4D21FC`       |
-| Contrast         | ![#FAD000](https://placehold.it/15/FAD000/000000?text=%20) `#FAD000`       |
-| Contrast Lite    | ![#FFEE80](https://placehold.it/15/FFEE80/000000?text=%20) `#FFEE80`       |
-| Contrast Lite II | ![#FAEFA5](https://placehold.it/15/FAEFA5/000000?text=%20) `#FAEFA5`       |
-| Highlight        | ![#FF7200](https://placehold.it/15/FF7200/000000?text=%20) `#FF7200`       |
-| Comment          | ![#B362FF](https://placehold.it/15/B362FF/000000?text=%20) `#B362FF`       |
-| Constants        | ![#FF628C](https://placehold.it/15/FF628C/000000?text=%20) `#FF628C`       |
-| Keywords         | ![#FF9D00](https://placehold.it/15/FF9D00/000000?text=%20) `#FF9D00`       |
-| Other            | ![#9EFFFF](https://placehold.it/15/9EFFFF/000000?text=%20) `#9EFFFF`       |
-| Strings          | ![#A5FF90](https://placehold.it/15/A5FF90/000000?text=%20) `#A5FF90`       |
-| Templates        | ![#3AD900](https://placehold.it/15/3AD900/000000?text=%20) `#3AD900`       |
-| Definitions      | ![#FB94FF](https://placehold.it/15/FB94FF/000000?text=%20) `#FB94FF`       |
-| Invalid          | ![#EC3A37F5](https://placehold.it/15/EC3A37F5/000000?text=%20) `#EC3A37F5` |
-| Diff Added       | ![#00FF009A](https://placehold.it/15/00FF009A/000000?text=%20) `#00FF009A` |
-| Diff Removed     | ![#FF000D81](https://placehold.it/15/FF000D81/000000?text=%20) `#FF000D81` |
+| Background       | ![#2D2B55](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2D2B55.png) `#2D2B55`       |
+| Background Dark  | ![#1E1E3F](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1E1E3F.png) `#1E1E3F`       |
+| Foreground       | ![#A599E9](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/A599E9.png) `#A599E9`       |
+| Hover Background | ![#4D21FC](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4D21FC.png) `#4D21FC`       |
+| Contrast         | ![#FAD000](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FAD000.png) `#FAD000`       |
+| Contrast Lite    | ![#FFEE80](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FFEE80.png) `#FFEE80`       |
+| Contrast Lite II | ![#FAEFA5](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FAEFA5.png) `#FAEFA5`       |
+| Highlight        | ![#FF7200](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FF7200.png) `#FF7200`       |
+| Comment          | ![#B362FF](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/B362FF.png) `#B362FF`       |
+| Constants        | ![#FF628C](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FF628C.png) `#FF628C`       |
+| Keywords         | ![#FF9D00](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FF9D00.png) `#FF9D00`       |
+| Other            | ![#9EFFFF](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9EFFFF.png) `#9EFFFF`       |
+| Strings          | ![#A5FF90](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/A5FF90.png) `#A5FF90`       |
+| Templates        | ![#3AD900](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3AD900.png) `#3AD900`       |
+| Definitions      | ![#FB94FF](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FB94FF.png) `#FB94FF`       |
+| Invalid          | ![#EC3A37F5](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/EC3A37F5.png) `#EC3A37F5` |
+| Diff Added       | ![#00FF009A](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/00FF009A.png) `#00FF009A` |
+| Diff Removed     | ![#FF000D81](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FF000D81.png) `#FF000D81` |
 
 <br>
 
@@ -285,7 +285,7 @@ After 10 years with Sublime Text, I switched to VSCode — the new open source c
 I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Developer, OSS Dev Advocate, and a core developer at WordPress. My significant other ([Maedah Batool](https://twitter.com/MaedahBatool/)) is a Technical Project Manager, and she's also a WP Core Contributor. Together with our [team](https://TheDevCouple.com/team), we run the [Dev Couple](https://TheDevCouple.com/) blog.
 
 > #### [**Support our Open Source Projects!**](https://pay.paddle.com/checkout/515568)
-> If you'd like us to keep producing professional free and open source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
+> If you'd like us to keep producing professional free and open-source software (FOSS). Consider [paying for an hour of my dev-time](https://pay.paddle.com/checkout/515568). We'll spend two hours on open source for each contribution. Yeah, that's right, you pay for one hour and get both of us to spend an hour as a thank you. [Support here →](https://pay.paddle.com/checkout/515568)
 
 <br>
 
@@ -295,7 +295,7 @@ I ([Ahmad Awais](https://twitter.com/mrahmadawais/)) am a Full Stack Web/JS Deve
 
 **Licensed** as MIT ⓒ [Ahmad Awais](https://AhmadAwais.com/).
 
-Thanks to VSCode team at Microsoft for creating such an awesome code editor. Also to the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
+Thanks to the VSCode team at Microsoft for creating such an excellent code editor. Also, the creator of other high contrast themes that served as an inspiration. This theme takes inspiration from many VSCode themes, including but not limited to Cobalt themes by Roberto Achar, Ayu, Palenight themes, Dracula themes, etc. VSCode and Icons8 for the icons in this readme.
 
 _👋 Follow Ahmad on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
