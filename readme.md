@@ -264,7 +264,7 @@ Shades of purple theme is built with several shades of purple and a few contrast
 
 <br>
 
-![Learn Visual Studio Code](https://on.ahmda.ws/c01bf1/c)
+![Learn Visual Studio Code](https://raw.githubusercontent.com/ahmadawais/stuff/master/vscodepro/featured.jpg)
 
 ## COURSE: Become [VSCode Power User →][course]
 
