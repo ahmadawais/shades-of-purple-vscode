@@ -32,6 +32,11 @@
 				"label": "Shades of Purple",
 				"uiTheme": "vs-dark",
 				"path": "./themes/shades-of-purple-color-theme.json"
+			},
+			{
+				"label": "Shades of Purple (Dark) · BETA",
+				"uiTheme": "vs-dark",
+				"path": "./themes/shades-of-purple-color-theme-dark.json"
 			}
 		]
 	},
