@@ -32,11 +32,32 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
-### RELEASE: [v6.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.1...v6.13.0)
+### RELEASE: [6.14.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.13.0...6.14.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Image [`9ea1797`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9ea17971de5f95bae1b6b948b07f3b50b3def5f8) <br>
+> 🐛 Image [`a6b08cd`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a6b08cd9bcb18482eead789ffab24e389cfe14ea) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Fix images and lingo [`2bd4370`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2bd43706424e96d0a3ea3b7072876503ba711570) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [6.13.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.12.1...6.13.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
 
 > 📦 HTML Matching Elements [`61b9917`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/61b9917e173d27ecbe2357774b3def04a69239b4) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`0a361f2`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/0a361f22f6ee9a932c9d0652284a3f0608188239) <br>
 
 <br>
 
