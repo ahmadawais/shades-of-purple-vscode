@@ -1465,6 +1465,27 @@
 			}
 		},
 		{
+			"name": "[NIM] — Keyword",
+			"scope": ["keyword.other.nim", "keyword.other"],
+			"settings": {
+				"foreground": "#FF9D00"
+			}
+		},
+		{
+			"name": "[NIM] — boolean",
+			"scope": ["keyword.boolean"],
+			"settings": {
+				"foreground": "#FF628C"
+			}
+		},
+		{
+			"name": "[NIM] — {}",
+			"scope": ["punctuation.pragma.start.nim", "punctuation.pragma.end.nim", "entity.name.function.nim"],
+			"settings": {
+				"foreground": "#fad000"
+			}
+		},
+		{
 			"name": "Deleted",
 			"scope": ["markup.deleted"],
 			"settings": {
