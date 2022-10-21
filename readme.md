@@ -3,7 +3,6 @@
 
 <div align="center">
 <a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/shades-of-purple-v7.jpg" /></a>
-<a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 # Shades of Purple Theme for VS Code
 
@@ -11,6 +10,9 @@
 [![rating](https://img.shields.io/visual-studio-marketplace/r/ahmadawais.shades-of-purple?label=Ratings&colorA=2D2A56&colorB=4D2AFF)][review]
 [![installs](https://img.shields.io/visual-studio-marketplace/i/ahmadawais.shades-of-purple?label=Installs&colorA=2D2A56&colorB=4D2AFF)][sop]
 [![VSCode.pro](https://img.shields.io/badge/COURSE-VSCode.pro%20%E2%86%92-gray.svg?&colorA=2D2A56&colorB=4D2AFF)][course]
+
+
+<a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 </div>
 
