@@ -116,9 +116,6 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "editor.formatOnSave": true,
 "prettier.eslintIntegration": true,
 "eslint.run": "onType",
-//This rule is deprecated
-//"eslint.autoFixOnSave": true,
-// This rule fixes everything it can on save:
 "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
 }
