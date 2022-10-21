@@ -6,9 +6,10 @@
 
 # Shades of Purple Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ahmadawais.shades-of-purple.svg?subject=Shades%20of%20Purple&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ahmadawais.shades-of-purple.svg?label=Ratings&colorA=2D2A56&colorB=4D2AFF)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
-[![VSCode.pro](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)][course]
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/ahmadawais.shades-of-purple?label=Downloads&colorA=2D2A56&colorB=4D2AFF)][sop]
+[![rating](https://img.shields.io/visual-studio-marketplace/r/ahmadawais.shades-of-purple?label=Ratings&colorA=2D2A56&colorB=4D2AFF)][review]
+[![installs](https://img.shields.io/visual-studio-marketplace/i/ahmadawais.shades-of-purple?label=Installs&colorA=2D2A56&colorB=4D2AFF)][sop]
+[![VSCode.pro](https://img.shields.io/badge/COURSE-VSCode.pro%20%E2%86%92-gray.svg?&colorA=2D2A56&colorB=4D2AFF)][course]
 
 </div>
 
@@ -322,3 +323,5 @@ _👋 Follow Ahmad on Twitter_ [![Ahmad on Twitter](https://img.shields.io/twitt
 </div>
 
 [course]: https://VSCode.pro/?utm_source=sop
+[sop]: https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple
+[review]: (https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple#review-details)
