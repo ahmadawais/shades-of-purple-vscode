@@ -118,7 +118,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://raw.githubuser
 "eslint.run": "onType",
 "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-}
+},
 // MacOS Only Settings.
 "workbench.fontAliasing": "auto",
 "terminal.integrated.macOptionIsMeta": true,
