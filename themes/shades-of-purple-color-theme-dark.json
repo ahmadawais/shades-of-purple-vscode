@@ -46,9 +46,14 @@
 
 		// Button.
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_button-control
-		"button.background": "#FAD000",
+		"button.background": "#FAD000dd",
 		"button.foreground": "#131327",
-		"button.hoverBackground": "#5706a2",
+		"button.hoverBackground": "#FAD000",
+		"button.secondaryBackground": "#A599E9cc",
+		"button.secondaryForeground": "#131327",
+		"button.secondaryHoverBackground": "#A599E9",
+		"checkbox.background": "#131327",
+		"checkbox.foreground": "#FAD000",
 
 		// Contrast.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_contrast-colors
