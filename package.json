@@ -1,72 +1,73 @@
 {
-	"name": "shades-of-purple",
-	"displayName": "Shades of Purple",
-	"description": "🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
-	"version": "6.14.0",
-	"publisher": "ahmadawais",
-	"engines": {
-		"vscode": "^1.15.0"
-	},
-	"icon": "images/icon/logo.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ahmadawais/shades-of-purple-vscode"
-	},
-	"galleryBanner": {
-		"color": "#222145",
-		"theme": "dark"
-	},
-	"categories": [
-		"Themes"
-	],
-	"keywords": [
-		"Shades of Purple",
-		"Dark Theme",
-		"VSCode Power User",
-		"Shade of Purple",
-		"Cobalt"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Shades of Purple",
-				"uiTheme": "vs-dark",
-				"path": "./themes/shades-of-purple-color-theme.json"
-			},
-			{
-				"label": "Shades of Purple (Dark) · BETA",
-				"uiTheme": "vs-dark",
-				"path": "./themes/shades-of-purple-color-theme-dark.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"nodemon": "^2.0.20"
-	},
-	"files": [
-		".vscodeignore",
-		"themes/shades-of-purple-color-theme.json",
-		"themes",
-		"themes/*",
-		"images/icon/logo.png",
-		"package.json",
-		"readme.md",
-		"code-of-conduct.md",
-		"changelog.md"
-	],
-	"badges": [
-		{
-			"url": "https://img.shields.io/badge/SUPPORT%20THIS%20PROJECT-Become%20a%20VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=131217&colorB=5734F5&style=flat",
-			"href": "https://VSCode.pro/?utm_source=EmojiLogVSCode",
-			"description": "Support this project!"
-		}
-	],
-	"scripts": {
-		"start": "nodemon --exec vsce package"
-	},
-	"__metadata": {
-		"id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
-		"publisherDisplayName": "Ahmad Awais ⚡",
-		"publisherId": "530c7464-efca-4776-9142-c6f0aeb4084e"
-	}
+    "name": "shades-of-purple",
+    "displayName": "Shades of Purple",
+    "description": "🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.",
+    "version": "6.14.0",
+    "publisher": "ahmadawais",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "icon": "images/icon/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ahmadawais/shades-of-purple-vscode"
+    },
+    "galleryBanner": {
+        "color": "#222145",
+        "theme": "dark"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Shades of Purple",
+        "Dark Theme",
+        "VSCode Power User",
+        "Shade of Purple",
+        "Cobalt"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Shades of Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shades-of-purple-color-theme.json"
+            },
+            {
+                "label": "Shades of Purple (Dark) · BETA",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shades-of-purple-color-theme-dark.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    },
+    "files": [
+        ".vscodeignore",
+        "themes/shades-of-purple-color-theme.json",
+        "themes",
+        "themes/*",
+        "images/icon/logo.png",
+        "package.json",
+        "readme.md",
+        "code-of-conduct.md",
+        "changelog.md"
+    ],
+    "badges": [
+        {
+            "url": "https://img.shields.io/badge/SUPPORT%20THIS%20PROJECT-Become%20a%20VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=131217&colorB=5734F5&style=flat",
+            "href": "https://VSCode.pro/?utm_source=EmojiLogVSCode",
+            "description": "Support this project!"
+        }
+    ],
+    "scripts": {
+        "start": "nodemon --exec vsce package"
+    },
+    "license": "MIT",
+    "__metadata": {
+        "id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
+        "publisherDisplayName": "Ahmad Awais ⚡",
+        "publisherId": "530c7464-efca-4776-9142-c6f0aeb4084e"
+    }
 }
