@@ -2,7 +2,7 @@
 	// Theme Color reference.
 	// https://code.visualstudio.com/docs/getstarted/theme-color-reference
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Shades of Purple (Dark) · BETA",
+	"name": "Shades of Purple (Super Dark) · BETA",
 	"type": "dark",
 	"colors": {
 		// Activity Bar.
