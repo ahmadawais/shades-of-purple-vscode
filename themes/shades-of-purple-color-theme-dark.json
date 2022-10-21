@@ -290,11 +290,13 @@
 
 		// Integrated Terminal Colors.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors
+		"terminal.background": "#15152b",
+		"terminal.foreground": "#FFFFFF",
 		"terminal.ansiBlack": "#000000",
 		"terminal.ansiRed": "#EC3A37F5",
 		"terminal.ansiGreen": "#3AD900",
 		"terminal.ansiYellow": "#FAD000",
-		"terminal.ansiBlue": "#6943FF",
+		"terminal.ansiBlue": "#7857fe",
 		"terminal.ansiMagenta": "#FF2C70",
 		"terminal.ansiCyan": "#80FCFF",
 		"terminal.ansiWhite": "#FFFFFF",
@@ -306,8 +308,6 @@
 		"terminal.ansiBrightMagenta": "#FB94FF",
 		"terminal.ansiBrightCyan": "#80FCFF",
 		"terminal.ansiBrightWhite": "#FFFFFF",
-		"terminal.background": "#15152b",
-		"terminal.foreground": "#FFFFFF",
 		"terminalCursor.background": "#FAD000",
 		"terminalCursor.foreground": "#FAD000",
 
