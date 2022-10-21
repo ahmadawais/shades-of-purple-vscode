@@ -372,7 +372,10 @@
 		// Tree List Filter Colors.
 		"listFilterWidget.background": "#191830",
 		"listFilterWidget.outline": "#191830",
-		"listFilterWidget.noMatchesOutline": "#EC3A37F5"
+		"listFilterWidget.noMatchesOutline": "#EC3A37F5",
+
+		// Border color of active sashes.
+		"sash.hoverBorder": "#FAD000"
 
 		// TODO: Colors to be added.
 		// "inputValidation.infoForeground": "#FAD000", // Input validation foreground color for information severity.
