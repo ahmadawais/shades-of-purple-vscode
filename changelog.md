@@ -32,11 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [7.1.3](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.1.2...7.1.3)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Super dark [`d255564`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/d255564362975cd9fcbd52aedbfddfeca191d951) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [7.1.2](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.1.1...7.1.2)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 Badges [`a5ce73b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a5ce73b048e839f8beff3f13eddadc8dc60fe03c) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`974b634`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/974b634842a76cf6fec26ff23762bca4be5d947d) <br>
 
 <br>
 
