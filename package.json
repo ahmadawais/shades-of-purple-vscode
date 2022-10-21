@@ -34,7 +34,7 @@
                 "path": "./themes/shades-of-purple-color-theme.json"
             },
             {
-                "label": "Shades of Purple (Super Dark) · BETA",
+                "label": "Shades of Purple (Super Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/shades-of-purple-color-theme-super-dark.json"
             }
