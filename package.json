@@ -64,10 +64,10 @@
     "scripts": {
         "start": "nodemon --exec vsce package"
     },
+    "license": "MIT",
     "__metadata": {
         "id": "431aa1a8-74f4-43d5-a83b-f4960510da5f",
         "publisherDisplayName": "Ahmad Awais ⚡",
         "publisherId": "530c7464-efca-4776-9142-c6f0aeb4084e"
-    },
-    "license": "MIT"
+    }
 }
