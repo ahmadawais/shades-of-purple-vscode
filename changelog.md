@@ -32,6 +32,14 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [7.0.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.0.0...7.0.1)
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [7.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/6.14.0...7.0.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
@@ -41,6 +49,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 👌 ESLint fix [`2443735`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2443735ff914340313b1d31ebd7925232786d587) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`039386b`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/039386bec4be8fa96677c97b2962516c16f67ada) <br>
 
 <br>
 
