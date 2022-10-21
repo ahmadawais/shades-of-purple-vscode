@@ -32,11 +32,31 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [7.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.0.2...7.1.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Nim lang support [`a910d3a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a910d3ad8278307d5d311cd967a7ac185a767c54) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 SOP Super dark [`a2d1fe9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d1fe9e718da01377d25b123c049a0b15b2ded2) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [7.0.2](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.0.1...7.0.2)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 License file name [`28d17d7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/28d17d7cf983f9fef89f2c6bae0ff33bd9ca550a) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`3f8397f`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3f8397f14f31af774bbe49c81d0bd1def4361d47) <br>
 
 <br>
 
