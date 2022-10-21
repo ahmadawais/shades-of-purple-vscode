@@ -2,6 +2,7 @@
 </p></div>
 
 <div align="center">
+<a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/shades-of-purple-v7.jpg" /></a>
 <a align="center" href="https://VSCode.pro/?utm_source=sop"><img align="center" src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" /></a>
 
 # Shades of Purple Theme for VS Code
