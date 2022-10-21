@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [7.1.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.1.0...7.1.1)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Theme name [`fd9a2b5`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fd9a2b545cead193bd79dbc96e507692ae69c4b7) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [7.1.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.0.2...7.1.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -41,6 +53,10 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 SOP Super dark [`a2d1fe9`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a2d1fe9e718da01377d25b123c049a0b15b2ded2) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`f43e216`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/f43e216ca5e74b3a8a338aa0a7205b3f881c3f89) <br>
 
 <br>
 
