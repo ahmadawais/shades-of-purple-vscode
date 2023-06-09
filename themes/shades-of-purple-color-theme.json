@@ -89,7 +89,8 @@
 		"editor.findMatchBackground": "#ff7300ab", // #FF7200 Color of the current search match.
 		"editor.findMatchHighlightBackground": "#FFFF0336", // #FF7200A0 #FFFF0336 #FF730056 Color of the other search matches.The color must not be opaque to not hide underlying decorations.
 		"editor.findRangeHighlightBackground": "#FFFF0336", // #FF730056 No idea. Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque to not hide underlying decorations.
-		"editor.hoverHighlightBackground": "#FF730056", // Highlight below the word for which a hover is shown. The color must not be opaque to not hide underlying decorations
+		"editor.hoverHighlightBackground": "#1E1E3F80", // Changed for co-pilot suggestions. Highlight below the word for which a hover is shown. The color must not be opaque to not hide underlying decorations
+		// "editor.hoverHighlightBackground": "#FF730056", // Highlight below the word for which a hover is shown. The color must not be opaque to not hide underlying decorations
 		"editor.lineHighlightBackground": "#1F1F41", // Current line of code. Background color for the highlight of line at the cursor position.
 		"editor.lineHighlightBorder": "#1F1F41",
 		"editor.rangeHighlightBackground": "#1F1F41",
@@ -220,8 +221,8 @@
 		"merge.commonHeaderBackground": "#A599E981",
 		"merge.currentContentBackground": "#3ad90093",
 		"merge.currentHeaderBackground": "#3ad90093",
-		"merge.incomingContentBackground": "#ff730086",
-		"merge.incomingHeaderBackground": "#ff730086",
+		// "merge.incomingContentBackground": "#ff730086",
+		// "merge.incomingHeaderBackground": "#ff730086",
 
 		// Notification Colors.
 		"notificationCenter.border": "#1E1E3F", // Notification Center border color.
