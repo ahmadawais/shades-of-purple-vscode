@@ -84,8 +84,8 @@
 		"editor.inactiveSelectionBackground": "#7580B8C0", // Color of the selection in an inactive editor. The color must not be opaque to not hide underlying decorations.
 		"editor.selectionHighlightBackground": "#7E46DF46", // Color for regions with the same content as the selection. The color must not be opaque to not hide underlying decorations.
 		"editor.linkedEditingBackground": "#7E46DFAA", // HTML Matching Elements.
-		"editor.wordHighlightBackground": "#FFFFFF0D", // Same words other places.
-		"editor.wordHighlightStrongBackground": "#FFFFFF0D", // Cursor inside current variable.
+		"editor.wordHighlightBackground": "#A599E925", // Same words other places.
+		"editor.wordHighlightStrongBackground": "#A599E930", // Cursor inside current variable.
 		"editor.findMatchBackground": "#ff7300ab", // #FF7200 Color of the current search match.
 		"editor.findMatchHighlightBackground": "#FFFF0336", // #FF7200A0 #FFFF0336 #FF730056 Color of the other search matches.The color must not be opaque to not hide underlying decorations.
 		"editor.findRangeHighlightBackground": "#FFFF0336", // #FF730056 No idea. Color the range limiting the search (Enable 'Find in Selection' in the find widget). The color must not be opaque to not hide underlying decorations.
