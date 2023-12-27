@@ -96,7 +96,7 @@
 		"editor.rangeHighlightBackground": "#1F1F41",
 		"editorLink.activeForeground": "#A599E9",
 		"editorIndentGuide.background": "#A599E90F",
-		"editorIndentGuide.activeBackground": "#A599E942",
+		"editorIndentGuide.activeBackground1": "#A599E9",
 		"editorRuler.foreground": "#A599E91C", // Editor Ruler.
 		"editorOverviewRuler.border": "#A599E91C",
 		"editorCodeLens.foreground": "#A599E9",
@@ -122,10 +122,12 @@
 
 		// Diff Editor.
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
-		"diffEditor.insertedTextBackground": "#00FF000E",
-		"diffEditor.insertedTextBorder": "#00FF009A",
-		"diffEditor.removedTextBackground": "#FF000D1A",
-		"diffEditor.removedTextBorder": "#FF000D81",
+		"diffEditor.insertedLineBackground": "#00FF0020",
+		"diffEditor.insertedTextBackground": "#00FF0020",
+		"diffEditor.insertedTextBorder": "#FFFFFF00",
+		"diffEditor.removedLineBackground": "#FF000D3C",
+		"diffEditor.removedTextBackground": "#FF000D3C",
+		"diffEditor.removedTextBorder": "#FFFFFF00",
 
 		// Editor Groups & Tabs.
 		// "editorGroup.background": "#EC3A37F5", // Deprecated in v1.25
@@ -155,8 +157,8 @@
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-widget-colors
 		"editorWidget.background": "#131327",
 		"editorWidget.border": "#1F1F41",
-		"editorHoverWidget.background": "#161633",
-		"editorHoverWidget.border": "#161633",
+		"editorHoverWidget.background": "#1E1E3F",
+		"editorHoverWidget.border": "#4D21FC",
 		"editorSuggestWidget.background": "#1F1F41",
 		"editorSuggestWidget.border": "#1F1F41",
 		"editorSuggestWidget.foreground": "#A599E9",
@@ -325,8 +327,8 @@
 		"textBlockQuote.background": "#15152b",
 		"textBlockQuote.border": "#6943FF",
 		"textCodeBlock.background": "#15152b",
-		"textLink.activeForeground": "#5706a2",
-		"textLink.foreground": "#5706a2",
+		"textLink.activeForeground": "#FFEE80",
+		"textLink.foreground": "#FFEE80",
 		"textPreformat.foreground": "#FAD000",
 		"textSeparator.foreground": "#15152b",
 
@@ -368,6 +370,8 @@
 
 		// Customizable menu.
 		"menu.separatorBackground": "#A599E9",
+		"menu.background": "#1E1E3F",
+		"menu.selectionBorder": "#FAD000B3",
 
 		// Tab stops.
 		"editor.snippetTabstopHighlightBackground": "#6943ff62",
@@ -381,7 +385,10 @@
 		"listFilterWidget.noMatchesOutline": "#EC3A37F5",
 
 		// Border color of active sashes.
-		"sash.hoverBorder": "#FAD000"
+		"sash.hoverBorder": "#FAD000",
+
+		// Command center
+		"commandCenter.activeBorder": "#FAD000B3",
 
 		// TODO: Colors to be added.
 		// "inputValidation.infoForeground": "#FAD000", // Input validation foreground color for information severity.
