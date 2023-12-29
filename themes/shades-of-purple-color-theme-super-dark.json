@@ -207,15 +207,15 @@
 		// Lists and Trees.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees
 		"list.dropBackground": "#191830",
-		"list.activeSelectionBackground": "#191830",
+		"list.activeSelectionBackground": "#2D2B55",
 		"list.activeSelectionForeground": "#FFFFFF",
 		"list.focusBackground": "#191830",
 		"list.focusForeground": "#FFFFFF",
 		"list.highlightForeground": "#FAD000",
-		"list.hoverBackground": "#191830",
-		"list.hoverForeground": "#CEC5FF",
-		"list.inactiveSelectionBackground": "#191830",
-		"list.inactiveSelectionForeground": "#AAA",
+		"list.hoverBackground": "#1E1E3F",
+		"list.hoverForeground": "#D5CDFF",
+		"list.inactiveSelectionBackground": "#2D2B55",
+		"list.inactiveSelectionForeground": "#FFFFFF",
 
 		// Merge Conflicts.
 		"merge.border": "#FFFFFF00",
