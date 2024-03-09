@@ -101,10 +101,8 @@
 
 		// Diff Editor.
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
-		"diffEditor.insertedTextBackground": "#00FF000E",
-		"diffEditor.insertedTextBorder": "#00FF009A",
-		"diffEditor.removedTextBackground": "#FF000D1A",
-		"diffEditor.removedTextBorder": "#FF000D81",
+		"diffEditor.insertedTextBackground": "#3AD90020",
+		"diffEditor.removedTextBackground": "#EE3A4320",
 
 		// Editor Groups & Tabs.
 		// "editorGroup.background": "#EC3A37F5", // Deprecated in v1.25
