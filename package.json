@@ -62,7 +62,8 @@
         }
     ],
     "scripts": {
-        "start": "nodemon --exec vsce package"
+        "start": "nodemon --exec vsce package",
+        "build": "echo 'Building the theme'"
     },
     "license": "MIT",
     "__metadata": {
