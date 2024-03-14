@@ -214,11 +214,12 @@
 		"list.inactiveSelectionForeground": "#AAA",
 
 		// Merge Conflicts.
-		"merge.border": "#FFFFFF00",
-		"merge.commonContentBackground": "#A599E981",
-		"merge.commonHeaderBackground": "#A599E981",
-		"merge.currentContentBackground": "#3ad90093",
-		"merge.currentHeaderBackground": "#3ad90093",
+		"merge.currentHeaderBackground": "#3AD90050",
+		"merge.currentContentBackground": "#3AD90050",
+		"merge.incomingHeaderBackground": "#A599E950",
+		"merge.incomingContentBackground": "#A599E950",
+		// "merge.commonContentBackground": "#A599E981",
+		// "merge.commonHeaderBackground": "#A599E981",
 		// "merge.incomingContentBackground": "#ff730086",
 		// "merge.incomingHeaderBackground": "#ff730086",
 

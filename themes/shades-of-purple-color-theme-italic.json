@@ -188,13 +188,14 @@
 		"list.inactiveSelectionForeground": "#AAA",
 
 		// Merge Conflicts.
-		"merge.border": "#FFFFFF00",
-		"merge.commonContentBackground": "#FFFFFF00",
-		"merge.commonHeaderBackground": "#FFFFFF00",
-		"merge.currentContentBackground": "#FFFFFF00",
-		"merge.currentHeaderBackground": "#FFFFFF00",
-		"merge.incomingContentBackground": "#FFFFFF00",
-		"merge.incomingHeaderBackground": "#FFFFFF00",
+		"merge.currentHeaderBackground": "#3AD90050",
+		"merge.currentContentBackground": "#3AD90050",
+		"merge.incomingHeaderBackground": "#A599E950",
+		"merge.incomingContentBackground": "#A599E950",
+		// "merge.commonContentBackground": "#A599E981",
+		// "merge.commonHeaderBackground": "#A599E981",
+		// "merge.incomingContentBackground": "#ff730086",
+		// "merge.incomingHeaderBackground": "#ff730086",
 
 		// Notification Colors.
 		"notificationCenter.border": "#1E1E3F", // Notification Center border color.
