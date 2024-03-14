@@ -121,11 +121,9 @@
 		"editorGutter.modifiedBackground": "#AD70FC46",
 
 		// Diff Editor.
-		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
-		"diffEditor.insertedTextBackground": "#00FF000E",
-		"diffEditor.insertedTextBorder": "#00FF009A",
-		"diffEditor.removedTextBackground": "#FF000D1A",
-		"diffEditor.removedTextBorder": "#FF000D81",
+		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors
+		"diffEditor.insertedTextBackground": "#3AD90020",
+		"diffEditor.removedTextBackground": "#EE3A4320",
 
 		// Editor Groups & Tabs.
 		// "editorGroup.background": "#EC3A37F5", // Deprecated in v1.25
@@ -216,11 +214,12 @@
 		"list.inactiveSelectionForeground": "#AAA",
 
 		// Merge Conflicts.
-		"merge.border": "#FFFFFF00",
-		"merge.commonContentBackground": "#A599E981",
-		"merge.commonHeaderBackground": "#A599E981",
-		"merge.currentContentBackground": "#3ad90093",
-		"merge.currentHeaderBackground": "#3ad90093",
+		"merge.currentHeaderBackground": "#3AD90050",
+		"merge.currentContentBackground": "#3AD90050",
+		"merge.incomingHeaderBackground": "#A599E950",
+		"merge.incomingContentBackground": "#A599E950",
+		// "merge.commonContentBackground": "#A599E981",
+		// "merge.commonHeaderBackground": "#A599E981",
 		// "merge.incomingContentBackground": "#ff730086",
 		// "merge.incomingHeaderBackground": "#ff730086",
 
