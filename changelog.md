@@ -45,6 +45,19 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.3.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.0...7.3.1)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 Merge Conflicts [`cbbbe80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cbbbe8069469e20266da574237cae19ae01dd2aa)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.2.0...7.3.0)
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
@@ -54,6 +67,10 @@ All notable changes in this project's [released versions](../../releases) are do
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
 > 🐛 Diff colors fixes [`1d9975a`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1d9975a6c8bf2a8f6e8e7c14a8e4271c4b079206)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`b215683`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/b215683e797da1c5953f7d16ad4d8f0dabb572c8)
 
 <br>
 
