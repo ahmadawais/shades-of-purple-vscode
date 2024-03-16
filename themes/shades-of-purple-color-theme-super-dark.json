@@ -324,8 +324,8 @@
 		"textBlockQuote.background": "#15152b",
 		"textBlockQuote.border": "#6943FF",
 		"textCodeBlock.background": "#15152b",
-		"textLink.activeForeground": "#5706a2",
-		"textLink.foreground": "#5706a2",
+		"textLink.activeForeground": "#B362FF",
+		"textLink.foreground": "#FAD000",
 		"textPreformat.foreground": "#FAD000",
 		"textSeparator.foreground": "#15152b",
 
