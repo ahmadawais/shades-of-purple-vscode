@@ -45,11 +45,24 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.3.2](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.1...7.3.2)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.1](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.0...7.3.1)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
 
 > 👌 Merge Conflicts [`cbbbe80`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cbbbe8069469e20266da574237cae19ae01dd2aa)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`88087d7`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/88087d752e266f39d2c48cff1e9fa25949c4756e)
 
 <br>
 
