@@ -86,6 +86,27 @@ Watch the following video on YouTube to learn more about the Shades of Purple th
 
 <br>
 
+![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9_put_sop.png)
+
+## Put `Shades of Purple` In Other Places
+
+I have built other `Shades of Purple` themes for different software. Here's a list.
+
+- 🦄 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
+- 🦄 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
+- 🦄 [Hyper™ theme](https://github.com/ahmadawais/shades-of-purple-hyper) — Shades of Purple
+- 🦄 [Chrome theme](https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife) — Shades of Purple
+- 🦄 [HighlightJS theme](https://github.com/ahmadawais/Shades-of-Purple-HighlightJS) — Shades of Purple
+- 🦄 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
+- 🦄 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
+- 🦄 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
+- 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
+- 🦄 [Alacritty theme](https://github.com/ahmadawais/shades-of-purple-alacritty) — Shades of Purple
+- 🦄 [WordPress theme](https://ahmadawais.com/shades-of-purple-wordpress/) — Shades of Purple
+- 🦄 [Prism TS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/packages/prism-react-renderer/src/themes/shadesOfPurple.ts) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://github.com/pomber/code-surfer#themes) theme — Shades of Purple
+- 
+<br>
+
 ![Tips](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png)
 
 ## Best Custom Settings
@@ -224,26 +245,7 @@ _You can also use a custom [VSCode Shades-of-Purple icon](https://github.com/ahm
 
 </div>
 
-<br>
 
-![Shades of purple for other software](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/9_put_sop.png)
-
-## Put `Shades of Purple` In Other Places
-
-I have built other `Shades of Purple` themes for different software. Here's a list.
-
-- 🦄 [VSCode theme](https://github.com/ahmadawais/shades-of-purple-vscode) — Shades of Purple
-- 🦄 [iTerm2 theme](https://github.com/ahmadawais/shades-of-purple-iterm2) — Shades of Purple
-- 🦄 [Hyper™ theme](https://github.com/ahmadawais/shades-of-purple-hyper) — Shades of Purple
-- 🦄 [Chrome theme](https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife) — Shades of Purple
-- 🦄 [HighlightJS theme](https://github.com/ahmadawais/Shades-of-Purple-HighlightJS) — Shades of Purple
-- 🦄 [Konsole theme](https://github.com/ahmadawais/shades-of-purple-konsole) — Shades of Purple
-- 🦄 [Slack theme](https://github.com/ahmadawais/shades-of-purple-slack) — Shades of Purple
-- 🦄 [Alfred theme](https://github.com/ahmadawais/shades-of-purple-alfred) — Shades of Purple
-- 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
-- 🦄 [Alacritty theme](https://github.com/ahmadawais/shades-of-purple-alacritty) — Shades of Purple
-- 🦄 [WordPress theme](https://ahmadawais.com/shades-of-purple-wordpress/) — Shades of Purple
-- 🦄 [Prism TS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/packages/prism-react-renderer/src/themes/shadesOfPurple.ts) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://github.com/pomber/code-surfer#themes) theme — Shades of Purple
 
 ## SOP's Syntax Colors
 
