@@ -45,11 +45,40 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.3.6](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.5...7.3.6)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 lingo [`ad50d78`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/ad50d78ab827ad9d634478ee6b5adae289b2e7c1)
+
+> 👌 table and lingo [`fe57a7c`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/fe57a7c013a512a3745925de63153a0caa68861c)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 format [`1a31d07`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/1a31d07a148fd3cb12fe063c4453479192db1fa3)
+
+> 🐛 hrs [`2df633e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/2df633e56613ca860ad0de6aa39480a1e41d76d3)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 testimonials [`25915af`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/25915af28c36e3f98e3777a0baef1ecad9b815b8)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.5](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.4...7.3.5)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
 > 🐛 review link [`eeb4537`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/eeb4537773d823290bf61f9fc922727d1597ce4d)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`93b920e`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/93b920e8d14bd4dbdc92845212ba14a169e39fa4)
 
 <br>
 
