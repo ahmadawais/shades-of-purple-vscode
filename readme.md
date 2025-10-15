@@ -60,9 +60,31 @@ Shades of Purple is a professional color theme carefully designed to reduce eye 
 
 <br />
 <br />
+
+---
+
 <br />
 
+## Table of Contents
 
+- [About](#about)
+- [What Developers Say](#what-developers-say)
+- [Installation](#easy-installation)
+  - [Easy Installation](#easy-installation)
+  - [Alternate Installation](#alternate-installation)
+- [Video Tutorial](#video-demo--installation)
+- [Recommended Settings](#recommended-settings)
+- [Screenshots](#screenshots-shades-of-purple-in-action)
+- [Put Shades of Purple in Other Places](#put-shades-of-purple-in-other-places)
+- [Color Palette Reference](#color-palette-reference)
+- [FAQs](#frequently-asked-questions)
+- [Master VS Code Course](#master-vs-code--become-a-power-user)
+- [License & Attribution](#license--attribution)
+
+<br />
+<br />
+
+---
 
 <br />
 
@@ -233,6 +255,10 @@ Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](http
 
 <br />
 <br />
+
+<div >
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/12_license.png" alt="License" />
+</div>
 
 <br />
 
@@ -630,7 +656,7 @@ Shades of Purple uses a carefully selected palette optimized for contrast and re
 <br />
 
 | Usage            | Color Preview                                                                                                            | Hex Code    |
-| - |  | -- |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | Background       | ![#2D2B55](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2D2B55.png)                | `#2D2B55`   |
 | Background Dark  | ![#1E1E3F](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1E1E3F.png)                | `#1E1E3F`   |
 | Foreground       | ![#A599E9](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/A599E9.png)                | `#A599E9`   |
