@@ -110,6 +110,200 @@
 
 <br />
 
+## What Developers Say
+
+**Used by 5,000,000+ developers** worldwide with **175 five-star ratings**. Here's what makes them stay:
+
+<br />
+
+### 🎯 Perfect for Presentations
+
+<div align="center">
+
+> _"A gorgeous, **high contrast theme that stands out without getting in the way**. Especially great for doing **developer talks and screencasts**."_
+>
+> **— Shawn Swyx Wang** · Latent Space, AI Engineer
+
+</div>
+
+<br />
+
+### 💜 Once You Switch, You Can't Go Back
+
+<div align="center">
+
+> _"**Once you switch to this theme you'll never switch back.** There's nothing quite like it."_
+>
+> **— Kim Takala**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"I switch syntax themes often, but **I haven't felt the need to switch since using this one for the past 6 months**, it's my new default."_
+>
+> **— Adam Hollister** · Lead Developer @British & Irish Modern Music Institute
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"I always tried to stay away from any addiction, but **I can't help myself with this one**; once you start using it, there's no way to go back. Kudos!"_
+>
+> **— Fahad Mir**
+
+</div>
+
+<br />
+
+### 👀 Easy on the Eyes
+
+<div align="center">
+
+> _"**Most comfortable theme to work with**, especially the color contrast, great work."_
+>
+> **— Faris Abusada**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"**Sticking to code editor for long hours is no more pain for eyes** 💯"_
+>
+> **— Fatima Mubeen**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"I've tried a bunch of themes and this one seemed a bit garish at first... but I gave it a go and oh lord it's really good, **not to mention the best to spend hours and hours coding without getting tired**."_
+>
+> **— Pablo Herrero**
+
+</div>
+
+<br />
+
+### 🏆 Best Theme Ever
+
+<div align="center">
+
+> _"**In my 18+ years of coding experience, this is by far the most pleasing theme I've ever used** in an editor (or any application for that matter)."_
+>
+> **— Muneeb Karim**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"**Best theme I've used in 20 years of development.** I started using it about two weeks ago, I don't change anything, I already put everything that is available."_
+>
+> **— Gustavo Cassino**
+
+</div>
+
+<br />
+
+### 🎨 Beautiful & Unique Colors
+
+<div align="center">
+
+> _"Themes with more unique colors like purple are relatively rare, so it's great to see purple represented here. **It's a fun theme, and it's easy to read!**"_
+>
+> **— Ali Spittel** · Tech Director @WomenWhoCode
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"Just installed Shades of Purple and **absolutely love it! I love these colors!**"_
+>
+> **— Alexandra Spalato** · JavaScript & WordPress Developer
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"**The colors just mesh so well.** When I first saw this theme I thought. Ewww, Purple? But it very quickly grew on me and now only wish I had found it sooner."_
+>
+> **— Marco Crank**
+
+</div>
+
+<br />
+
+### 🚀 Boosts Productivity
+
+<div align="center">
+
+> _"**I'm coding more and my productivity has skyrocketed.** This theme makes it very easy to focus on the things that matter."_
+>
+> **— Raju Mandapati**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"**The choice of colours complement each other incredibly well** and the overall UI is really pleasing to the eye."_
+>
+> **— Deleted User**
+
+</div>
+
+<br />
+
+### 🎮 The Fun Factor
+
+<div align="center">
+
+> _"**Feels like I'm in an arcade game** 10/10"_
+>
+> **— Daniel Varcas**
+
+</div>
+
+<br />
+
+<div align="center">
+
+> _"**I now love my editor**"_
+>
+> **— Alec Hanefeld**
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+
+**⭐⭐⭐⭐⭐ 175 five-star ratings** · [Read all 175+ reviews on the marketplace →](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details)
+
+</div>
+
+<br />
+<br />
+
+---
+
+<br />
+
 <div >
   <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png" alt="Video Demo & Installation" />
 </div>
