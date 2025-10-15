@@ -45,11 +45,28 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.3.5](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.4...7.3.5)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 review link [`eeb4537`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/eeb4537773d823290bf61f9fc922727d1597ce4d)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.4](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.3...7.3.4)
 
 ![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
 
 > 🐛 files warning [`441ee44`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/441ee4488cf140c7432cd5c48d11159db5d60e2a)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`a1c3e4d`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/a1c3e4d011a00d36ac993d0783333756976ef03e)
 
 <br>
 
