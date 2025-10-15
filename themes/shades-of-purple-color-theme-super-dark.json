@@ -367,6 +367,7 @@
 
 		// Customizable menu.
 		"menu.separatorBackground": "#A599E9",
+		"menu.selectionBackground": "#6943ff62",
 
 		// Tab stops.
 		"editor.snippetTabstopHighlightBackground": "#6943ff62",
