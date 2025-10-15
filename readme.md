@@ -103,6 +103,7 @@ I have built other `Shades of Purple` themes for different software. Here's a li
 - 🦄 [Cygwin theme](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Shades of Purple
 - 🦄 [Alacritty theme](https://github.com/ahmadawais/shades-of-purple-alacritty) — Shades of Purple
 - 🦄 [WordPress theme](https://ahmadawais.com/shades-of-purple-wordpress/) — Shades of Purple
+- 🦄 [Bat theme](https://github.com/ahmadawais/shades-of-purple-bat-theme) — Shades of Purple
 - 🦄 [Prism TS](https://github.com/FormidableLabs/prism-react-renderer/blob/master/packages/prism-react-renderer/src/themes/shadesOfPurple.ts) + [Prism CSS](https://codepen.io/ahmadawais/pen/mgjRRr?editors=0100#0) + [Code-Surfer](https://github.com/pomber/code-surfer#themes) theme — Shades of Purple
 
 <br>
