@@ -36,7 +36,7 @@
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -62,7 +62,7 @@ Shades of Purple is a professional color theme carefully designed to reduce eye 
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -92,7 +92,7 @@ Watch this comprehensive video guide to see Shades of Purple in action. Learn th
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -120,7 +120,7 @@ Get started with Shades of Purple in under a minute:
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -143,7 +143,7 @@ Prefer the command palette? Here's the quick way:
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -426,7 +426,7 @@ Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](http
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -435,7 +435,7 @@ Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](http
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -457,7 +457,7 @@ Got questions? Here are the most common ones:
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -570,7 +570,7 @@ See how Shades of Purple enhances syntax highlighting across multiple languages:
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -630,7 +630,7 @@ Shades of Purple uses a carefully selected palette optimized for contrast and re
 <br />
 
 | Usage            | Color Preview                                                                                                            | Hex Code    |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| - |  | -- |
 | Background       | ![#2D2B55](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2D2B55.png)                | `#2D2B55`   |
 | Background Dark  | ![#1E1E3F](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1E1E3F.png)                | `#1E1E3F`   |
 | Foreground       | ![#A599E9](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/A599E9.png)                | `#A599E9`   |
@@ -653,7 +653,7 @@ Shades of Purple uses a carefully selected palette optimized for contrast and re
 <br />
 <br />
 
----
+
 
 <br />
 
@@ -718,7 +718,7 @@ Shades of Purple draws inspiration from the excellent work of many theme creator
 <br />
 <br />
 
----
+
 
 <div >
   <br />
