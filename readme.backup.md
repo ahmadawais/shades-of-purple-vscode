@@ -1,238 +1,112 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/shades-of-purple-v7.jpg" alt="Shades of Purple" />
+<div align="left">
+<p>
+  <a href="https://VSCode.pro/?utm_source=sop">
+    <img alt="New in the Shades of Purple Theme"  src="https://img.shields.io/badge/%F0%9F%A6%84-Learn%20VSCode%20%E2%86%92-gray.svg?colorA=5734F5&colorB=5734F5&style=flat" />
+  </a>
+  &nbsp;
+  <strong>NEW:</strong> Diff Colors · Co-pilot Chat · Shades of Purple (Super Dark) <code>BETA</code>
+</p>
+</div>
+
+<br />
+<br />
+
+<div >
+  <a href="https://VSCode.pro/?utm_source=sop">
+    <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/shades-of-purple-v7.jpg" alt="Shades of Purple Theme for VS Code" />
+  </a>
 </div>
 
 <br />
 
-<h1 align="center">Shades of Purple</h1>
+<h1 >Shades of Purple Theme for VS Code</h1>
 
-<p align="center">
-  A professional theme with hand-picked & bold shades of purple
+<p >
+  <strong>A professional theme suite with hand-picked & bold shades of purple</strong>
+  <br />
+  One of the most downloaded and top-rated VS Code themes on the marketplace
 </p>
 
-<div align="center">
+<br />
 
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/ahmadawais.shades-of-purple?style=for-the-badge&label=Downloads&colorA=2D2A56&colorB=4D2AFF)][sop]
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/ahmadawais.shades-of-purple?style=for-the-badge&label=Installs&colorA=2D2A56&colorB=4D2AFF)][sop]
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/ahmadawais.shades-of-purple?style=for-the-badge&label=Ratings&colorA=2D2A56&colorB=4D2AFF)][review]
-[![VSCode.pro](https://img.shields.io/badge/COURSE-VSCode.pro%20%E2%86%92-gray.svg?style=for-the-badge&colorA=2D2A56&colorB=4D2AFF)][course]
+<div >
+
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/ahmadawais.shades-of-purple?label=Downloads&colorA=2D2A56&colorB=4D2AFF)][sop]
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/ahmadawais.shades-of-purple?label=Ratings&colorA=2D2A56&colorB=4D2AFF)][review]
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/ahmadawais.shades-of-purple?label=Installs&colorA=2D2A56&colorB=4D2AFF)][sop]
+[![VSCode.pro](https://img.shields.io/badge/COURSE-VSCode.pro%20%E2%86%92-gray.svg?&colorA=2D2A56&colorB=4D2AFF)][course]
 
 </div>
 
 <br />
+<br />
 
-<div align="center">
+<div >
   <a href="https://VSCode.pro/?utm_source=sop">
     <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" alt="Shades of Purple in action" />
   </a>
 </div>
 
 <br />
-
-<p align="center">
-  <strong>NEW:</strong> Diff Colors · Co-pilot Chat · Shades of Purple (Super Dark) <code>BETA</code>
-</p>
-
-<br />
 <br />
 
 ---
 
 <br />
 
-## About
+## About Shades of Purple
 
-Shades of Purple is a professional color theme carefully designed to reduce eye strain and improve code readability. With over **5 million developers** using it worldwide, it has become one of the most loved themes in the VS Code marketplace.
-
-**What makes it special:**
-
-- Hand-picked color palette optimized for readability
-- Comprehensive support for 50+ programming languages
-- Perfect for presentations, teaching, and daily coding
-- Regular updates for the latest VS Code features
-- Free and open source
+**Shades of Purple** is more than a theme — it's a carefully crafted experience designed to reduce eye strain while maintaining exceptional code readability. After years of refinement, this theme has become the go-to choice for developers who appreciate bold, vibrant syntax highlighting without sacrificing professionalism.
 
 <br />
 
-<p align="center">
-  <em>Created by <a href="https://github.com/ahmadawais">Ahmad Awais</a> · <a href="https://VSCode.pro/?utm_source=sop">Learn VSCode</a> · <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a></em>
-</p>
+### Why Developers Love It
 
-<br />
-<br />
-<br />
-
----
-
-<br />
-
-<div >
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png" alt="Video Demo & Installation" />
-</div>
+- **Hand-picked color palette** — Every shade of purple has been selected for optimal contrast and readability
+- **Comprehensive language support** — Works beautifully with JavaScript, TypeScript, PHP, Python, Go, HTML, CSS, Markdown, and 50+ languages
+- **Professional & bold** — Perfect for teaching, presentations, and daily coding
+- **Battle-tested** — Used by thousands of developers worldwide in production environments
+- **Active maintenance** — Regular updates for the latest VS Code features
 
 <br />
 
-## Video Demo & Installation
-
-Watch this comprehensive video guide to see Shades of Purple in action. Learn the installation process and discover features like enhanced markdown editing, syntax highlighting, and customization options.
-
-> _This video is part of the [VSCode.pro course][course] — a complete guide to mastering Visual Studio Code._
-
-<br />
-
-<div >
-  <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank">
-    <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" alt="Watch the video tutorial" />
-    <br />
-    <br />
-    <strong>📺 Watch the Video Tutorial →</strong>
-  </a>
-</div>
-
-<br />
-<br />
-
----
+<table width='100%' >
+  <tr>
+    <td align='left' width='100%' colspan='2'>
+      <strong>Built with care by <a href='https://github.com/ahmadawais'>Ahmad Awais</a></strong>
+      <br />
+      A FOSS (Free & Open Source Software) project maintained with love.
+      Become a <a href="https://VSCode.pro/?utm_source=sop">Visual Studio Code Power User →</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Follow Ahmad's work on GitHub <a href='https://github.com/ahmadawais'>@AhmadAwais</a>
+      <br />
+      Say hi on Twitter <a href="https://twitter.com/mrahmadawais/">@MrAhmadAwais</a>
+    </td>
+    <td align='center'>
+      <a href='https://AhmadAwais.com/'>
+        <img src='https://img.shields.io/badge/%E2%86%92-AHMAD%20AWAIS-gray.svg?colorA=2D2A56&colorB=4D2AFF&style=flat' width='120' />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <div >
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png" alt="Easy Installation" />
+
+[![GitHub stars](https://img.shields.io/github/stars/ahmadawais/shades-of-purple-vscode.svg?style=social&label=Stars)](https://github.com/ahmadawais/shades-of-purple-vscode/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/ahmadawais.svg?style=social&label=Follow)](https://github.com/ahmadawais?tab=followers)
+[![Tweet](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Tweet%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
 </div>
-
-<br />
-
-## Easy Installation
-
-Get started with Shades of Purple in under a minute:
-
-1. **Open the extensions sidebar** in Visual Studio Code
-2. **Search** for `Shades of Purple Theme`
-3. **Click Install** to install it
-4. **Click Reload** to reload your editor
-5. **Select the theme** — Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**
-6. **Enjoy!** And consider [leaving a review](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details) ⭐⭐⭐⭐⭐
-
-<br />
-
-> **Love the theme?** Over 110+ developers have already rated it five stars. [Join them →](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details)
 
 <br />
 <br />
 
 ---
-
-<br />
-
-<div >
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png" alt="Alternate Installation" />
-</div>
-
-<br />
-
-## Alternate Installation
-
-Prefer the command palette? Here's the quick way:
-
-1. **Launch Quick Open** — Press <kbd>Cmd</kbd>+<kbd>P</kbd> on macOS or <kbd>Ctrl</kbd>+<kbd>P</kbd> on Windows/Linux
-2. **Paste the command** — `ext install shades-of-purple`
-3. **Hit Enter** and click **Install**
-4. **Click Reload** to reload your editor
-5. **Select the theme** — Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**
-
-<br />
-<br />
-
----
-
-<br />
-
-<div >
-  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png" alt="Best Custom Settings" />
-</div>
-
-<br />
-
-## Recommended Settings
-
-Shades of Purple works great out of the box. But for the ultimate experience, especially if you use **Operator Mono** or a similar font, try these custom settings:
-
-> **Note:** These settings are completely optional. The theme works beautifully with your existing configuration.
-
-<br />
-
-```json
-{
-  // Theme Setup
-  "workbench.colorTheme": "Shades of Purple",
-  "workbench.iconTheme": "vscode-icons",
-
-  // Font Settings (Operator Mono recommended)
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-  "terminal.integrated.fontFamily": "'Operator Mono', 'Inconsolata for Powerline', monospace",
-  "editor.fontSize": 17,
-  "editor.lineHeight": 24.65,
-  "editor.letterSpacing": 0.5,
-  "editor.fontWeight": "400",
-  "editor.fontLigatures": true,
-
-  // Cursor Settings
-  "editor.cursorStyle": "line",
-  "editor.cursorWidth": 5,
-  "editor.cursorBlinking": "solid",
-
-  // Editor Behavior
-  "editor.renderWhitespace": "all",
-  "editor.snippetSuggestions": "top",
-  "editor.glyphMargin": true,
-  "workbench.editor.enablePreview": false,
-  "workbench.startupEditor": "newUntitledFile",
-
-  // File Management
-  "explorer.confirmDragAndDrop": false,
-  "files.trimTrailingWhitespace": true,
-  "files.trimFinalNewlines": true,
-
-  // Formatting (Optional)
-  "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true,
-  "eslint.run": "onType",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-
-  // macOS Specific
-  "workbench.fontAliasing": "auto",
-  "terminal.integrated.macOptionIsMeta": true,
-  "workbench.statusBar.feedback.visible": false,
-
-  // Semantic Highlighting
-  "editor.semanticHighlighting.enabled": false,
-
-  // Extension Settings for Shades of Purple
-  "highlight-matching-tag.styles": {
-    "opening": {
-      "full": {
-        "highlight": "rgba(165, 153, 233, 0.3)"
-      }
-    }
-  },
-  "importCost.largePackageColor": "#EC3A37F5",
-  "importCost.mediumPackageColor": "#B362FF",
-  "importCost.smallPackageColor": "#B362FF"
-}
-```
-
-<br />
-
-### Bonus: Custom VSCode Icon
-
-Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](https://github.com/ahmadawais/shades-of-purple-vscode/raw/master/images/icon/logo.icns) based on the excellent work by [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install).
-
-<br />
-
-<br />
-<br />
 
 <br />
 
@@ -424,6 +298,175 @@ Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](http
 </div>
 
 <br />
+<br />
+
+---
+
+<br />
+
+<div >
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/2_video_demo.png" alt="Video Demo & Installation" />
+</div>
+
+<br />
+
+## Video Demo & Installation
+
+Watch this comprehensive video guide to see Shades of Purple in action. Learn the installation process and discover features like enhanced markdown editing, syntax highlighting, and customization options.
+
+> _This video is part of the [VSCode.pro course][course] — a complete guide to mastering Visual Studio Code._
+
+<br />
+
+<div >
+  <a href="https://www.youtube.com/watch?v=wZ1nzNCD-iM" target="_blank">
+    <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/3_sop_vdo.jpeg" alt="Watch the video tutorial" />
+    <br />
+    <br />
+    <strong>📺 Watch the Video Tutorial →</strong>
+  </a>
+</div>
+
+<br />
+<br />
+
+---
+
+<br />
+
+<div >
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4_install.png" alt="Easy Installation" />
+</div>
+
+<br />
+
+## Easy Installation
+
+Get started with Shades of Purple in under a minute:
+
+1. **Open the extensions sidebar** in Visual Studio Code
+2. **Search** for `Shades of Purple Theme`
+3. **Click Install** to install it
+4. **Click Reload** to reload your editor
+5. **Select the theme** — Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**
+6. **Enjoy!** And consider [leaving a review](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details) ⭐⭐⭐⭐⭐
+
+<br />
+
+> **Love the theme?** Over 110+ developers have already rated it five stars. [Join them →](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details)
+
+<br />
+<br />
+
+---
+
+<br />
+
+<div >
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/5_alternate_installation.png" alt="Alternate Installation" />
+</div>
+
+<br />
+
+## Alternate Installation
+
+Prefer the command palette? Here's the quick way:
+
+1. **Launch Quick Open** — Press <kbd>Cmd</kbd>+<kbd>P</kbd> on macOS or <kbd>Ctrl</kbd>+<kbd>P</kbd> on Windows/Linux
+2. **Paste the command** — `ext install shades-of-purple`
+3. **Hit Enter** and click **Install**
+4. **Click Reload** to reload your editor
+5. **Select the theme** — Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**
+
+<br />
+<br />
+
+---
+
+<br />
+
+<div >
+  <img src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/6_custom_settings.png" alt="Best Custom Settings" />
+</div>
+
+<br />
+
+## Recommended Settings
+
+Shades of Purple works great out of the box. But for the ultimate experience, especially if you use **Operator Mono** or a similar font, try these custom settings:
+
+> **Note:** These settings are completely optional. The theme works beautifully with your existing configuration.
+
+<br />
+
+```json
+{
+  // Theme Setup
+  "workbench.colorTheme": "Shades of Purple",
+  "workbench.iconTheme": "vscode-icons",
+
+  // Font Settings (Operator Mono recommended)
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "'Operator Mono', 'Inconsolata for Powerline', monospace",
+  "editor.fontSize": 17,
+  "editor.lineHeight": 24.65,
+  "editor.letterSpacing": 0.5,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+
+  // Cursor Settings
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+
+  // Editor Behavior
+  "editor.renderWhitespace": "all",
+  "editor.snippetSuggestions": "top",
+  "editor.glyphMargin": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
+
+  // File Management
+  "explorer.confirmDragAndDrop": false,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+
+  // Formatting (Optional)
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "eslint.run": "onType",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // macOS Specific
+  "workbench.fontAliasing": "auto",
+  "terminal.integrated.macOptionIsMeta": true,
+  "workbench.statusBar.feedback.visible": false,
+
+  // Semantic Highlighting
+  "editor.semanticHighlighting.enabled": false,
+
+  // Extension Settings for Shades of Purple
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "full": {
+        "highlight": "rgba(165, 153, 233, 0.3)"
+      }
+    }
+  },
+  "importCost.largePackageColor": "#EC3A37F5",
+  "importCost.mediumPackageColor": "#B362FF",
+  "importCost.smallPackageColor": "#B362FF"
+}
+```
+
+<br />
+
+### Bonus: Custom VSCode Icon
+
+Want to go all-in on purple? Use this custom [Shades of Purple VSCode icon](https://github.com/ahmadawais/shades-of-purple-vscode/raw/master/images/icon/logo.icns) based on the excellent work by [VSCode Icons](https://github.com/dhanishgajjar/vscode-icons#how-to-install).
+
 <br />
 
 ---
