@@ -45,7 +45,32 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.3.3](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.2...7.3.3)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 bat theme [`3973519`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/3973519abe31e399c190e2f5bb11a009c562d911)
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 lingo [`c91bdf8`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/c91bdf81dbbbe7c6895e71ec526e8d71f43d6019)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 link [`cad95ad`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/cad95adfcbb56749d1c47c411d920bfde77ed468)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.2](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.1...7.3.2)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`9064d54`](https://github.com/ahmadawais/shades-of-purple-vscode/commit/9064d54e36e8f8472bcb8e3d3296fed39717cbb2)
 
 <br>
 
