@@ -620,6 +620,18 @@ Love the theme? Take Shades of Purple everywhere you code. I've built matching t
 - [Alacritty](https://github.com/ahmadawais/shades-of-purple-alacritty) — GPU-accelerated terminal emulator
 - [Konsole](https://github.com/ahmadawais/shades-of-purple-konsole) — KDE terminal emulator theme
 - [Cygwin](https://github.com/ahmadawais/Shades-of-Purple-Cygwin) — Windows terminal environment
+<details>
+<summary>Ghostty — Fast, native, feature-rich terminal emulator</summary>
+<br />
+
+Ghostty comes with Shades of Purple pre-installed.
+
+To enable it, open your Ghostty config file (`⌘` + `,`) and update or add the following line:
+
+```sh
+theme = "Shades of Purple"
+```
+</details>
 
 <br />
 
