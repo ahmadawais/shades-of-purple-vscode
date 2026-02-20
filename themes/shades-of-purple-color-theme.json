@@ -1528,5 +1528,28 @@
 				"fontStyle": "italic"
 			}
 		}
-	]
+	],
+	// Semantic Token Colors.
+	// https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"class": "#FB94FF",
+		"namespace": "#FB94FF",
+		"type": "#FB94FF",
+		"interface": "#80FFBB",
+		"enum": "#80FFBB",
+		"enumMember": "#FF628C",
+		"function": "#FAD000",
+		"method": "#FAD000",
+		"parameter": "#FFEE80",
+		"variable": "#9EFFFF",
+		"property": "#FFEE80",
+		"string": "#A5FF90",
+		"number": "#FF628C",
+		"keyword": "#FF9D00",
+		"operator": "#FF9D00",
+		"comment": "#B362FF",
+		"decorator": "#FAD000",
+		"regexp": "#80FFBB"
+	}
 }
