@@ -366,6 +366,10 @@
 		"settings.modifiedItemIndicator": "#FAD000",
 
 		// Customizable menu.
+		"menu.background": "#15152b",
+		"menu.foreground": "#FFFFFF",
+		"menu.selectionBackground": "#191830",
+		"menu.selectionForeground": "#FFFFFF",
 		"menu.separatorBackground": "#A599E9",
 
 		// Tab stops.
