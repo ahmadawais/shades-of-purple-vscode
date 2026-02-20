@@ -334,7 +334,14 @@
 		"settings.dropdownBorder": "#1E1E3F",
 		"settings.checkboxBorder": "#1E1E3F",
 		"settings.textInputBorder": "#1E1E3F",
-		"settings.numberInputBorder": "#1E1E3F"
+		"settings.numberInputBorder": "#1E1E3F",
+
+		// Customizable menu.
+		"menu.background": "#1E1E3F",
+		"menu.foreground": "#FFFFFF",
+		"menu.selectionBackground": "#1E1E3F",
+		"menu.selectionForeground": "#FFFFFF",
+		"menu.separatorBackground": "#A599E9"
 	},
 	// Token Colors are heavily inspired by several themes
 	// Including but not limited to Material Palenight, Cobalt
