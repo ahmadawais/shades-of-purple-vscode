@@ -45,7 +45,7 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-### RELEASE: [7.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.6...7.4.0)
+### RELEASE: [8.0.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.6...8.0.0)
 
 ![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=1F883D&colorB=1F883D&style=for-the-badge)
 
