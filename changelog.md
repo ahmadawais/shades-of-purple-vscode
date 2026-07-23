@@ -45,6 +45,27 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [7.4.0](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.6...7.4.0)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=1F883D&colorB=1F883D&style=for-the-badge)
+
+> 📦 **Shades of Purple (Light)** — a brand-new light-background variant that keeps the signature purple + gold identity, with syntax colors hand-tuned (hue-preserved, darkened) for readability on light.
+
+> 📦 Modern workbench coverage across all themes — bracket-pair colorization & guides, inlay hints, minimap, editor sticky scroll, command center, menus, keybinding labels, testing icons, notebook, symbol icons, charts, chat, banner, terminal selection, and git added/renamed/staged decorations.
+
+![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)
+
+> 👌 Audited the dark theme against the latest VS Code Theme Color reference and added ~300 previously-missing workbench color keys (now ~528 total), organized into labeled sections.
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOC-gray.svg?colorA=0969DA&colorB=0969DA&style=for-the-badge)
+
+> 📖 Documented the three theme variants (Dark, Super Dark, Light) in the readme.
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [7.3.6](https://github.com/ahmadawais/shades-of-purple-vscode/compare/7.3.5...7.3.6)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/👌-IMPROVEMENT-gray.svg?colorA=8250DF&colorB=8250DF&style=for-the-badge)

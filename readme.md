@@ -30,7 +30,7 @@
 <br />
 
 <p align="center">
-  <strong>NEW:</strong> Diff Colors · Co-pilot Chat · Shades of Purple (Super Dark) <code>BETA</code>
+  <strong>NEW:</strong> Shades of Purple (Light) <code>BETA</code> · Diff Colors · Co-pilot Chat · Shades of Purple (Super Dark) <code>BETA</code>
 </p>
 
 <br />
@@ -134,6 +134,18 @@ Get started with Shades of Purple in under a minute:
 4. **Click Reload** to reload your editor
 5. **Select the theme** — Code/File ＞ Preferences ＞ Color Theme ＞ **Shades of Purple**
 6. **Enjoy!** And consider [leaving a review](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple&ssr=false#review-details) ⭐⭐⭐⭐⭐
+
+<br />
+
+### Theme Variants
+
+The extension ships three flavors — pick one under **Preferences ＞ Color Theme**:
+
+| Variant | Best for |
+| --- | --- |
+| **Shades of Purple** | The signature deep-purple dark theme. |
+| **Shades of Purple (Super Dark)** `BETA` | A darker, higher-contrast take for OLED and low-light setups. |
+| **Shades of Purple (Light)** `BETA` | A light-background variant that keeps the purple + gold identity — hand-tuned syntax colors darkened for readability on light. |
 
 <br />
 
