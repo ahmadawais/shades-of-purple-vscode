@@ -56,8 +56,9 @@
         }
     ],
     "scripts": {
-        "start": "nodemon --exec vsce package",
-        "build": "echo 'Building the theme'"
+        "build": "node src/build.js",
+        "start": "nodemon --watch src --exec \"npm run build\"",
+        "vscode:prepublish": "npm run build"
     },
     "license": "MIT",
     "__metadata": {
