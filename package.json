@@ -37,6 +37,11 @@
                 "label": "Shades of Purple (Super Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/shades-of-purple-color-theme-super-dark.json"
+            },
+            {
+                "label": "Shades of Purple (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/shades-of-purple-color-theme-light.json"
             }
         ]
     },
