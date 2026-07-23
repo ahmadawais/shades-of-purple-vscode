@@ -713,6 +713,32 @@ Shades of Purple uses a carefully selected palette optimized for contrast and re
 
 <br />
 
+## Build from Source
+
+The `themes/*.json` files are **generated** from a single source of truth in
+`src/` — every color is defined once in `src/palette.js`, and each theme maps
+workbench keys and syntax scopes to those named colors. To recolor the suite,
+change a value in the palette and rebuild.
+
+```bash
+pnpm install                 # install dev dependencies
+pnpm build                   # regenerate themes/*.json from src/
+pnpm start                   # watch src/ and rebuild on every change
+```
+
+Test your changes locally:
+
+```bash
+pnpm dlx @vscode/vsce package --no-dependencies -o /tmp/sop.vsix
+code --install-extension /tmp/sop.vsix --force
+```
+
+Reload VS Code, then pick a variant via **Preferences ＞ Color Theme**. See
+[`src/readme.md`](src/readme.md) for the full architecture. Do not edit
+`themes/*.json` directly — your changes will be overwritten by the next build.
+
+<br />
+
 ## Master VS Code — Become a Power User
 
 After a decade with Sublime Text, I made the switch to VSCode. The transition taught me everything about productive workflows, essential extensions, and optimal configurations. I've distilled all that knowledge into a comprehensive course: [VSCode.pro](https://VSCode.pro/?utm_source=sop).
